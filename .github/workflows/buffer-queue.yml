@@ -28,6 +28,8 @@ jobs:
               "Folyo company page":      "6840bc4bd6d25b49a15740ef",
           }
 
+          FIRST_COMMENT = "Get project details through Folyo (paid service for agencies): https://www.folyo.me/"
+
           try:
               with open("posts.txt", "r", encoding="utf-8") as f:
                   raw = f.read()
@@ -43,12 +45,18 @@ jobs:
 
           def queue_post(text, channel_id):
               safe_text = text.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n")
+              safe_comment = FIRST_COMMENT.replace("\\", "\\\\").replace('"', '\\"')
               query = f"""mutation {{
                 createPost(input: {{
                   text: "{safe_text}",
                   channelId: "{channel_id}",
                   schedulingType: automatic,
-                  mode: addToQueue
+                  mode: addToQueue,
+                  metadata: {{
+                    linkedin: {{
+                      firstComment: "{safe_comment}"
+                    }}
+                  }}
                 }}) {{
                   ... on PostActionSuccess {{
                     post {{ id }}
