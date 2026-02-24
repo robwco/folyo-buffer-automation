@@ -1,0 +1,101 @@
+name: Queue Posts to Buffer
+
+on:
+  workflow_dispatch:
+    inputs:
+      posts:
+        description: "Posts to queue (separate each post with ---)"
+        required: true
+        type: string
+
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Queue posts to Buffer
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: |
+          python3 << 'EOF'
+          import json
+          import urllib.request
+          import os
+          import sys
+
+          API_KEY = os.environ["BUFFER_API_KEY"]
+          ENDPOINT = "https://api.buffer.com"
+
+          CHANNELS = {
+              "Personal (rob-williams)": "6840bc4bd6d25b49a15740c5",
+              "Folyo company page":      "6840bc4bd6d25b49a15740ef",
+          }
+
+          raw_posts = """${{ github.event.inputs.posts }}"""
+          posts = [p.strip() for p in raw_posts.split("---") if p.strip()]
+
+          if not posts:
+              print("No posts found. Separate posts with ---")
+              sys.exit(1)
+
+          def graphql(query):
+              payload = json.dumps({"query": query}).encode()
+              req = urllib.request.Request(
+                  ENDPOINT,
+                  data=payload,
+                  headers={
+                      "Content-Type": "application/json",
+                      "Authorization": f"Bearer {API_KEY}",
+                  },
+                  method="POST",
+              )
+              with urllib.request.urlopen(req) as resp:
+                  return json.loads(resp.read())
+
+          def queue_post(text, channel_id):
+              safe_text = text.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n")
+              mutation = f"""
+              mutation {{
+                createPost(input: {{
+                  text: "{safe_text}",
+                  channelId: "{channel_id}",
+                  schedulingType: automatic,
+                  mode: queue
+                }}) {{
+                  ... on PostActionSuccess {{
+                    post {{ id }}
+                  }}
+                  ... on MutationError {{
+                    message
+                  }}
+                }}
+              }}
+              """
+              result = graphql(mutation)
+              if "errors" in result:
+                  raise Exception(result["errors"][0]["message"])
+              action = result["data"]["createPost"]
+              if "message" in action:
+                  raise Exception(action["message"])
+              return action["post"]["id"]
+
+          print(f"Found {len(posts)} post(s). Queuing to {len(CHANNELS)} channels...\n")
+
+          total = len(posts) * len(CHANNELS)
+          success = 0
+
+          for i, post in enumerate(posts, 1):
+              preview = post[:60].replace("\n", " ")
+              print(f'Post {i}/{len(posts)}: "{preview}{"..." if len(post) > 60 else ""}"')
+              for channel_name, channel_id in CHANNELS.items():
+                  try:
+                      post_id = queue_post(post, channel_id)
+                      print(f"  ✅  {channel_name} → queued (id: {post_id})")
+                      success += 1
+                  except Exception as e:
+                      print(f"  ❌  {channel_name} → FAILED: {e}")
+              print()
+
+          print(f"Done! {success}/{total} posts queued successfully.")
+          if success < total:
+              sys.exit(1)
+          EOF
