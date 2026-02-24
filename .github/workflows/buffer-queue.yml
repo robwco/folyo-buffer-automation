@@ -10,23 +10,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Debug auth
-        env:
-          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
-        run: |
-          echo "Key length: ${#BUFFER_API_KEY}"
-          curl -s -X POST 'https://api.buffer.com' \
-            -H 'Content-Type: application/json' \
-            -H "Authorization: Bearer $BUFFER_API_KEY" \
-            -d '{"query": "query { account { id } }"}'
-
       - name: Queue posts to Buffer
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
         run: |
           python3 << 'EOF'
           import json
-          import urllib.request
+          import subprocess
           import os
           import sys
 
@@ -51,24 +41,9 @@ jobs:
               print("❌  No posts found in posts.txt. Separate posts with ---")
               sys.exit(1)
 
-          def graphql(query):
-              payload = json.dumps({"query": query}).encode()
-              req = urllib.request.Request(
-                  ENDPOINT,
-                  data=payload,
-                  headers={
-                      "Content-Type": "application/json",
-                      "Authorization": f"Bearer {API_KEY}",
-                  },
-                  method="POST",
-              )
-              with urllib.request.urlopen(req) as resp:
-                  return json.loads(resp.read())
-
           def queue_post(text, channel_id):
               safe_text = text.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n")
-              mutation = f"""
-              mutation {{
+              query = f"""mutation {{
                 createPost(input: {{
                   text: "{safe_text}",
                   channelId: "{channel_id}",
@@ -82,12 +57,19 @@ jobs:
                     message
                   }}
                 }}
-              }}
-              """
-              result = graphql(mutation)
-              if "errors" in result:
-                  raise Exception(result["errors"][0]["message"])
-              action = result["data"]["createPost"]
+              }}"""
+              payload = json.dumps({"query": query})
+              result = subprocess.run(
+                  ["curl", "-s", "-X", "POST", ENDPOINT,
+                   "-H", "Content-Type: application/json",
+                   "-H", f"Authorization: Bearer {API_KEY}",
+                   "-d", payload],
+                  capture_output=True, text=True
+              )
+              data = json.loads(result.stdout)
+              if "errors" in data:
+                  raise Exception(data["errors"][0]["message"])
+              action = data["data"]["createPost"]
               if "message" in action:
                   raise Exception(action["message"])
               return action["post"]["id"]
