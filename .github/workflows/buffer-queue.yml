@@ -2,16 +2,14 @@ name: Queue Posts to Buffer
 
 on:
   workflow_dispatch:
-    inputs:
-      posts:
-        description: "Posts to queue (separate each post with ---)"
-        required: true
-        type: string
 
 jobs:
   queue:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Queue posts to Buffer
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
@@ -30,11 +28,17 @@ jobs:
               "Folyo company page":      "6840bc4bd6d25b49a15740ef",
           }
 
-          raw_posts = """${{ github.event.inputs.posts }}"""
-          posts = [p.strip() for p in raw_posts.split("---") if p.strip()]
+          try:
+              with open("posts.txt", "r", encoding="utf-8") as f:
+                  raw = f.read()
+          except FileNotFoundError:
+              print("❌  posts.txt not found in the repo root.")
+              sys.exit(1)
+
+          posts = [p.strip() for p in raw.split("---") if p.strip()]
 
           if not posts:
-              print("No posts found. Separate posts with ---")
+              print("❌  No posts found in posts.txt. Separate posts with ---")
               sys.exit(1)
 
           def graphql(query):
