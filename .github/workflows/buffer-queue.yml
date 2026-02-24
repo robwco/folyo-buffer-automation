@@ -48,7 +48,7 @@ jobs:
                   text: "{safe_text}",
                   channelId: "{channel_id}",
                   schedulingType: automatic,
-                  mode: queued
+                  mode: addToQueue
                 }}) {{
                   ... on PostActionSuccess {{
                     post {{ id }}
