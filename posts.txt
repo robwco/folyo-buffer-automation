@@ -1,97 +1,21 @@
-Ten organizations looking for web design partners this week:
+Six organizations looking for web design partners this week:
 
-→ Film Commission - $15K - bold creative redesign, WordPress, location maps
-→ Global Pharma Regulatory Body - $75K-$125K - WordPress rebuild, advanced search, content library
-→ Downtown Development Authority - $25K - business directory, interactive map, event calendar
-→ Transit Authority - $80K - microsite maintenance, CRM/API integrations, graphic design
-→ Pacific Northwest City - $150K - parks & rec web optimization, UX, discoverability
-→ Federal Health Agency - $200K-$400K - full dev & maintenance, agile, Section 508
-→ Midwest City Government - $60K-$110K - municipal redesign, ArcGIS integration, new brand
-→ National Sports Governing Body - $75K-$125K - WordPress rebuild, SSO, member tools
-→ Canadian Recycling Regulator - $25K CAD - brand-aligned redesign, FOIP compliance
-→ Small City Government - $50K-$100K - full redesign + hosting, ADA, GIS integrations
+→ Global children's media nonprofit - $500K–$1M+ - full website & app redesign
+→ Semiconductor consortium - $150K - rebrand + website overhaul
+→ Public school district - $60K–$120K - district website & communications platform
+→ Broadband utility provider - $40K–$90K - WordPress website redesign
+→ Government sanitary district - $60K - website redesign
+→ Public health nonprofit - $12K - website audit & UX discovery
 
 Link in comments 👇
 
 ---
 
-Five organizations looking for web design partners this week:
+An iconic children's media nonprofit is looking for a web and app design partner.
 
-→ Pacific Northwest City - $150K - parks & rec UX optimization + discoverability
-→ Federal Health Agency - $200K-$400K - multi-year dev & maintenance contract
-→ Midwest City Government - $60K-$110K - municipal redesign with ArcGIS + new brand
-→ National Sports Governing Body - $75K-$125K - WordPress rebuild with member tools
-→ Canadian Recycling Regulator - $25K CAD - brand-aligned redesign + FOIP compliance
+$500K–$1M+ estimated budget.
 
-Link in comments 👇
-
----
-
-Five organizations looking for web design partners this week:
-
-→ Film Commission - $15K - creative redesign, WordPress, location maps + directory
-→ Global Regulatory Body - $75K-$125K - complex WordPress rebuild, advanced search UX
-→ Downtown Development Authority - $25K - business directory, map, event calendar
-→ Transit Authority - $80K - microsite maintenance + CRM/API integrations
-→ Small Iowa City - $50K-$100K - full municipal redesign + hosting + ADA compliance
-
-Link in comments 👇
-
----
-
-A film commission is looking for a design partner.
-
-$15K budget.
-
-Bold creative redesign, WordPress CMS, location maps, video galleries, and a searchable creative directory.
-
-Proposals due March 13th if you're interested.
-
-Link in comments 👇
-
----
-
-A global pharmaceutical regulatory body is looking for a design partner.
-
-$75K–$125K estimated budget.
-
-Full WordPress rebuild of a heavily-used international guidelines library. Advanced search and filtering, structured content modeling, IA/UX overhaul, and content migration.
-
-Proposals due March 15th if you're interested.
-
-Link in comments 👇
-
----
-
-A downtown development authority is looking for a design partner.
-
-$25K budget.
-
-Website redesign with a searchable business directory, interactive parking and points-of-interest map, event calendar with public submission workflows, and visitor-focused content.
-
-Proposals due March 16th if you're interested.
-
-Link in comments 👇
-
----
-
-A transit authority is looking for a design partner.
-
-$80K budget.
-
-Ongoing microsite maintenance, API integrations (CRM, payment, email), analytics management, and graphic design support through mid-2027.
-
-Proposals due March 18th if you're interested.
-
-Link in comments 👇
-
----
-
-A Pacific Northwest city is looking for a design partner.
-
-$150K budget.
-
-Web optimization project for a parks and recreation environment — UX improvements, discoverability, accessibility, analytics, and integration with recreation management systems.
+Full redesign of their flagship children's website and native iOS/Android app. Personalization engine, parent dashboard, digital well-being features, and COPPA-compliant auth flows. Running through late 2027.
 
 Proposals due March 20th if you're interested.
 
@@ -99,60 +23,60 @@ Link in comments 👇
 
 ---
 
-A federal health agency is looking for a design partner.
+A semiconductor and nanotechnology consortium is looking for a branding and web design partner.
 
-$200K–$400K estimated budget.
+$150,000 budget.
 
-Multi-year contract for design, development, operations, and maintenance of a major public health website. Agile development, API integrations, Section 508 compliance, and digital communications support.
+Dual-track engagement: new visual identity system plus a full website rebuild targeting site selectors and C-suite executives. SEO and LLM optimization required.
 
-Proposals due March 20th if you're interested.
-
-Link in comments 👇
-
----
-
-A midwestern city is looking for a design partner.
-
-$60K–$110K estimated budget.
-
-Full municipal website redesign around a new brand identity. Real-time ArcGIS dashboard integration, BS&A Online, role-based CMS, WCAG 2.2 AA accessibility, and smart search.
-
-Proposals due March 20th if you're interested.
+Proposals due March 27th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A national sports governing body is looking for a design partner.
+A public school district in Massachusetts is looking for a web design partner.
 
-$75K–$125K estimated budget.
+$60K–$120K estimated budget.
 
-Full WordPress rebuild replacing a limiting legacy platform. Custom templates, SSO user accounts, club and event locator tools, membership engagement features, and a post-launch retainer option.
+Comprehensive district website redesign with social media integration, Google SSO, FERPA/COPPA compliance, multilingual support, and role-based access control.
 
-Proposals due March 31st if you're interested.
-
-Link in comments 👇
-
----
-
-A Canadian recycling regulator is looking for a design partner.
-
-$25K CAD budget.
-
-Brand-aligned redesign with full content ownership, document search and filtering, FOIP and accessibility compliance, analytics, and SEO. Six-month timeline targeting a September launch.
-
-Proposals due April 3rd if you're interested.
+Proposals due March 27th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A small city government is looking for a design partner.
+A broadband utility provider is looking for a WordPress web design partner.
 
-$50K–$100K estimated budget.
+$40K–$90K estimated budget.
 
-Full website redesign, development, hosting, and maintenance. WCAG 2.1 AA compliance and CMS staff training required. Optional enhancements include GIS integrations, payment portals, emergency alerts, and multilingual support.
+45–60 page website redesign on WordPress/WP Engine. Requires SmartHub and Jotforms integrations, bilingual English/Spanish support, ADA compliance, and GA4 cross-domain tracking.
 
-Proposals due April 6th if you're interested.
+Proposals due March 19th if you're interested.
+
+Link in comments 👇
+
+---
+
+A public sanitary district is looking for a web design partner.
+
+$60,000 budget.
+
+Website redesign with a focus on modernized design, simplified navigation, and WCAG 2.1 compliance. WordPress preferred. Integrations with Applicant Pro, Diligent Community, and Gravity Forms required.
+
+Proposals due April 20th if you're interested.
+
+Link in comments 👇
+
+---
+
+A statewide public health nonprofit is looking for a UX research partner.
+
+$12,000 budget.
+
+Website audit and discovery engagement — not a redesign. Scope includes heat mapping, content inventory, information architecture assessment, and conceptual AI/chat tool exploration.
+
+Proposals due March 27th if you're interested.
 
 Link in comments 👇
