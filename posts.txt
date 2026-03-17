@@ -1,82 +1,56 @@
-Six organizations looking for web design partners this week:
+Four organizations looking for web design partners this week:
 
-→ Global children's media nonprofit - $500K–$1M+ - full website & app redesign
-→ Semiconductor consortium - $150K - rebrand + website overhaul
-→ Public school district - $60K–$120K - district website & communications platform
-→ Broadband utility provider - $40K–$90K - WordPress website redesign
-→ Government sanitary district - $60K - website redesign
-→ Public health nonprofit - $12K - website audit & UX discovery
+→ Tourism Bureau (Delaware) - $100K-$150K est. - destination site + CMS + DMO CRM platform
+→ Social Enterprise (New York) - $40K-$90K est. - full rebuild + UKG job board integration + photo/video
+→ Tourism Chamber (Idaho) - $60K-$110K est. - WordPress rebuild + events calendar + lodging directory
+→ Climate Policy Nonprofit - $20K - WordPress overhaul + advanced search for 2,500+ law database
 
 Link in comments 👇
 
 ---
 
-An iconic children's media nonprofit is looking for a web and app design partner.
+A destination marketing organization is looking for a web design partner.
 
-$500K–$1M+ estimated budget.
+$100K–$150K estimated budget.
 
-Full redesign of their flagship children's website and native iOS/Android app. Personalization engine, parent dashboard, digital well-being features, and COPPA-compliant auth flows. Running through late 2027.
+Full destination website rebuild, CMS implementation, and a DMO-specific CRM platform covering membership, convention sales, and media relations.
 
-Proposals due March 20th if you're interested.
-
-Link in comments 👇
-
----
-
-A semiconductor and nanotechnology consortium is looking for a branding and web design partner.
-
-$150,000 budget.
-
-Dual-track engagement: new visual identity system plus a full website rebuild targeting site selectors and C-suite executives. SEO and LLM optimization required.
-
-Proposals due March 27th if you're interested.
+Proposals due April 10th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A public school district in Massachusetts is looking for a web design partner.
-
-$60K–$120K estimated budget.
-
-Comprehensive district website redesign with social media integration, Google SSO, FERPA/COPPA compliance, multilingual support, and role-based access control.
-
-Proposals due March 27th if you're interested.
-
-Link in comments 👇
-
----
-
-A broadband utility provider is looking for a WordPress web design partner.
+A social enterprise nonprofit is looking for a web design partner.
 
 $40K–$90K estimated budget.
 
-45–60 page website redesign on WordPress/WP Engine. Requires SmartHub and Jotforms integrations, bilingual English/Spanish support, ADA compliance, and GA4 cross-domain tracking.
+Full website redesign with a heavy focus on an employment section that integrates with their HR platform for job postings. Project also includes full photo and video production.
 
-Proposals due March 19th if you're interested.
-
-Link in comments 👇
-
----
-
-A public sanitary district is looking for a web design partner.
-
-$60,000 budget.
-
-Website redesign with a focus on modernized design, simplified navigation, and WCAG 2.1 compliance. WordPress preferred. Integrations with Applicant Pro, Diligent Community, and Gravity Forms required.
-
-Proposals due April 20th if you're interested.
+Proposals due April 16th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A statewide public health nonprofit is looking for a UX research partner.
+A tourism chamber of commerce is looking for a web design partner.
 
-$12,000 budget.
+$60K–$110K estimated budget.
 
-Website audit and discovery engagement — not a redesign. Scope includes heat mapping, content inventory, information architecture assessment, and conceptual AI/chat tool exploration.
+Full WordPress rebuild of their destination marketing site, including mobile-first design, events calendar, lodging directory, business directory, and GA4 conversion tracking.
 
 Proposals due March 27th if you're interested.
+
+Link in comments 👇
+
+---
+
+A climate policy nonprofit is looking for a web design partner.
+
+$20K budget.
+
+WordPress overhaul focused on search functionality and discoverability across a database of 2,500+ climate laws. Phased approach — search and index first, interactive map and homepage refresh to follow.
+
+Proposals due March 23rd if you're interested.
 
 Link in comments 👇
