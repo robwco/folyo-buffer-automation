@@ -1,56 +1,69 @@
-Four organizations looking for web design partners this week:
+Five organizations looking for web and digital partners this week:
 
-→ Tourism Bureau (Delaware) - $100K-$150K est. - destination site + CMS + DMO CRM platform
-→ Social Enterprise (New York) - $40K-$90K est. - full rebuild + UKG job board integration + photo/video
-→ Tourism Chamber (Idaho) - $60K-$110K est. - WordPress rebuild + events calendar + lodging directory
-→ Climate Policy Nonprofit - $20K - WordPress overhaul + advanced search for 2,500+ law database
+→ Food equity nonprofit - $16.5K/mo - platform dev retainer, Java/React app
+→ Food bank - $75K - full website rebuild, donor + client focus
+→ County library system - $50K-$100K - iOS/Android mobile app
+→ Community development nonprofit - $30K-$80K - branding, annual report, event design
+→ County health department - $20K-$70K - CivicPlus site improvements
 
 Link in comments 👇
 
 ---
 
-A destination marketing organization is looking for a web design partner.
+A food security nonprofit is looking for a development agency.
 
-$100K–$150K estimated budget.
+$12K–$16.5K/month retainer.
 
-Full destination website rebuild, CMS implementation, and a DMO-specific CRM platform covering membership, convention sales, and media relations.
+Ongoing platform maintenance, software development, and technical advisory for a Java/React/MySQL application.
+
+Proposals due April 2nd if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional food bank is looking for a web design and development partner.
+
+$75,000 budget.
+
+Full website rebuild with identity-first UX, recurring donor optimization, and integrations with Blackbaud, Fundraise Up, and GA4.
+
+Proposals due April 21st if you're interested.
+
+Link in comments 👇
+
+---
+
+A county library system is looking for a mobile app developer.
+
+$50K–$100K estimated budget.
+
+iOS and Android app integrated with their library catalog — account management, holds, fines, OverDrive, push notifications, and accessibility features.
+
+Proposals due April 23rd if you're interested.
+
+Link in comments 👇
+
+---
+
+A community development nonprofit is looking for a marketing and design partner.
+
+$30K–$80K estimated budget.
+
+Digital annual report, logo refresh and brand guidelines, plus design materials for a major fundraising gala.
+
+Proposals due April 7th if you're interested.
+
+Link in comments 👇
+
+---
+
+A county health department is looking for a web development partner.
+
+$20K–$70K estimated budget.
+
+Website improvements on an existing CivicPlus platform — navigation restructure, homepage redesign, and a new public health resource page.
 
 Proposals due April 10th if you're interested.
-
-Link in comments 👇
-
----
-
-A social enterprise nonprofit is looking for a web design partner.
-
-$40K–$90K estimated budget.
-
-Full website redesign with a heavy focus on an employment section that integrates with their HR platform for job postings. Project also includes full photo and video production.
-
-Proposals due April 16th if you're interested.
-
-Link in comments 👇
-
----
-
-A tourism chamber of commerce is looking for a web design partner.
-
-$60K–$110K estimated budget.
-
-Full WordPress rebuild of their destination marketing site, including mobile-first design, events calendar, lodging directory, business directory, and GA4 conversion tracking.
-
-Proposals due March 27th if you're interested.
-
-Link in comments 👇
-
----
-
-A climate policy nonprofit is looking for a web design partner.
-
-$20K budget.
-
-WordPress overhaul focused on search functionality and discoverability across a database of 2,500+ climate laws. Phased approach — search and index first, interactive map and homepage refresh to follow.
-
-Proposals due March 23rd if you're interested.
 
 Link in comments 👇
