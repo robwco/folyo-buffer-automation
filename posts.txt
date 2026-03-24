@@ -1,44 +1,31 @@
-Five organizations looking for web and digital partners this week:
+Four organizations looking for creative and digital partners this week:
 
-→ Food equity nonprofit - $16.5K/mo - platform dev retainer, Java/React app
-→ Food bank - $75K - full website rebuild, donor + client focus
-→ County library system - $50K-$100K - iOS/Android mobile app
-→ Community development nonprofit - $30K-$80K - branding, annual report, event design
-→ County health department - $20K-$70K - CivicPlus site improvements
-
-Link in comments 👇
-
----
-
-A food security nonprofit is looking for a development agency.
-
-$12K–$16.5K/month retainer.
-
-Ongoing platform maintenance, software development, and technical advisory for a Java/React/MySQL application.
-
-Proposals due April 2nd if you're interested.
+→ DC Health Nonprofit - $100K - multimedia campaign, video production, multilingual content
+→ Wisconsin City Government - $75K-$125K (est.) - full website redesign, CMS, system integrations
+→ Sports Sustainability Nonprofit - $50K-$100K (est.) - custom data tracking dashboard
+→ DC Health Network - $10K - brand discovery, visual identity refresh, style guide
 
 Link in comments 👇
 
 ---
 
-A regional food bank is looking for a web design and development partner.
+A DC-based health nonprofit is looking for a communications and multimedia partner.
 
-$75,000 budget.
+Up to $100,000 budget.
 
-Full website rebuild with identity-first UX, recurring donor optimization, and integrations with Blackbaud, Fundraise Up, and GA4.
+Citywide awareness campaign, multilingual messaging, 20+ graphic design assets, and 6–12 short-form videos.
 
-Proposals due April 21st if you're interested.
+Proposals due April 13th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A county library system is looking for a mobile app developer.
+A mid-sized Wisconsin city is looking for a web design and development partner.
 
-$50K–$100K estimated budget.
+$75K–$125K estimated budget.
 
-iOS and Android app integrated with their library catalog — account management, holds, fines, OverDrive, push notifications, and accessibility features.
+Full website redesign, open CMS implementation, content migration, and integrations with Granicus and GIS mapping software.
 
 Proposals due April 23rd if you're interested.
 
@@ -46,24 +33,24 @@ Link in comments 👇
 
 ---
 
-A community development nonprofit is looking for a marketing and design partner.
+A sports sustainability nonprofit is looking for a technology and dashboard development partner.
 
-$30K–$80K estimated budget.
+$50K–$100K estimated budget.
 
-Digital annual report, logo refresh and brand guidelines, plus design materials for a major fundraising gala.
+Custom data tracking platform for energy, water, and waste — with benchmarking, executive reporting, and API integrations.
 
-Proposals due April 7th if you're interested.
+Proposals due May 10th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A county health department is looking for a web development partner.
+A DC-area health network is looking for a branding partner.
 
-$20K–$70K estimated budget.
+$10,000 budget.
 
-Website improvements on an existing CivicPlus platform — navigation restructure, homepage redesign, and a new public health resource page.
+Full brand audit, updated visual identity and messaging, new collateral, and a complete brand style guide.
 
-Proposals due April 10th if you're interested.
+Proposals due April 20th if you're interested.
 
 Link in comments 👇
