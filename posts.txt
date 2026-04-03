@@ -1,33 +1,57 @@
 Six organizations looking for web design partners this week:
 
-→ St. Louis Destination Marketing Org - $200K–$350K (est.) - full digital platform, CRM integration, AI-ready CMS
-→ South Carolina Beach City - $50K - comprehensive rebrand and destination marketing
-→ Pacific Northwest Nonprofit - $35K–$65K (est.) - WordPress redesign, accessibility, AI search optimization
-→ Clean Energy Startup - $25K - Squarespace redesign with interactive data map
-→ Midwest Small Business Hub - $25K–$50K (est.) - vendor pool for web design services
-→ Canadian Maritime Municipality - $20K–$40K (est.) - bilingual website redesign and hosting
+→ San Francisco Business District - $150K - full website redesign + Salesforce directory
+→ Early Childhood Nonprofit - $75K-$125K - custom portal + FileMaker Pro integration
+→ Historically Black University - $40K-$90K - website discovery & strategy (Phase 1)
+→ Texas Municipality - $30K-$80K - municipal redesign, migration & hosting
+→ Public Library Foundation - $25K-$75K - website redesign + brand integration
+→ Canadian Health Agency - $20K-$70K - WordPress patient persona microsite
 
 Link in comments 👇
 
 ---
 
-A destination marketing organization for a major US city is looking for a digital agency.
+A major urban business improvement district is looking for a web design partner.
 
-$200K–$350K (est.) budget.
+$150,000 budget.
 
-Full platform redesign — CMS, trip planning tools, CRM integration, events platform, SEO/AI discoverability, and partner visibility framework.
+Full website redesign for an iconic San Francisco retail and arts district — Salesforce-driven business directory, event calendar, ADA compliance, and managed hosting with CDN.
 
-Proposals due April 15th if you're interested.
+Proposals due April 27th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A beach city on the South Carolina coast is looking for a branding agency.
+An early childhood workforce nonprofit is looking for a development partner.
 
-$50,000 budget.
+$75K–$125K estimated budget.
 
-Comprehensive brand strategy — logo, tagline, color palette, brand standards guide, and full rollout plan for a family-friendly destination.
+Custom multi-role online portal with FileMaker Pro API integration, bilingual support, document uploads, and a facility administrator portal for employment verification.
+
+Proposals due April 27th if you're interested.
+
+Link in comments 👇
+
+---
+
+A large historically Black university in Houston is looking for a strategy partner.
+
+$40K–$90K estimated budget.
+
+Phase 1 discovery only — content audit, UX review, accessibility assessment, and a phased implementation roadmap. No design or dev work in this phase.
+
+Proposals due April 21st if you're interested.
+
+Link in comments 👇
+
+---
+
+A Texas city government is looking for a web design and hosting partner.
+
+$30K–$80K estimated budget.
+
+Full municipal website redesign with data migration, CMS, online payments, emergency alerts, meeting document management, and multilingual support.
 
 Proposals due May 6th if you're interested.
 
@@ -35,48 +59,24 @@ Link in comments 👇
 
 ---
 
-A Pacific Northwest nonprofit dispute resolution center is looking for a web design partner.
+A nonprofit library foundation is looking for a long-term creative web partner.
 
-$35K–$65K (est.) budget.
+$25K–$75K estimated budget.
 
-WordPress redesign with WCAG 2.1 AA accessibility compliance, SEO and AI search optimization, structured data, and CRM integration.
+Website redesign tied to a recent brand refresh — focused on nonprofit storytelling, donor engagement, accessibility, and easy content management for a small staff.
 
-Proposals due April 3rd if you're interested.
-
-Link in comments 👇
-
----
-
-A clean energy startup is looking for a Squarespace designer.
-
-$25,000 budget.
-
-Website redesign with up to 8 pages, messaging refinement, WCAG 2.1 AA compliance, and a custom interactive map with multiple thematic data layers.
-
-Proposals due April 17th if you're interested.
+Proposals due April 24th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Midwest small business development hub is building a vendor pool for web design services.
+A provincial health agency in Canada is looking for a WordPress development partner.
 
-$25K–$50K (est.) budget.
+$20K–$70K estimated budget.
 
-UX/UI design, website development, e-commerce, and CMS integration delivered directly to small business clients through August 2026.
+WordPress microsite to showcase interactive patient personas — 2–3 design concepts plus approved templates with photo, audio, and video support.
 
-Proposals due April 10th if you're interested.
-
-Link in comments 👇
-
----
-
-A small Canadian maritime municipality is looking for a web design and hosting partner.
-
-$20K–$40K (est.) budget.
-
-Full website redesign with bilingual (English/French) support, staff-editable CMS, accessibility compliance, and a 3-year hosting and maintenance plan.
-
-Proposals due April 30th if you're interested.
+Proposals due April 8th if you're interested.
 
 Link in comments 👇
