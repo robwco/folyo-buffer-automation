@@ -1,45 +1,21 @@
 Six organizations looking for web design partners this week:
 
-→ San Francisco Business District - $150K - full website redesign + Salesforce directory
-→ Early Childhood Nonprofit - $75K-$125K - custom portal + FileMaker Pro integration
-→ Historically Black University - $40K-$90K - website discovery & strategy (Phase 1)
-→ Texas Municipality - $30K-$80K - municipal redesign, migration & hosting
-→ Public Library Foundation - $25K-$75K - website redesign + brand integration
-→ Canadian Health Agency - $20K-$70K - WordPress patient persona microsite
+→ Food bank & hunger relief org - $100K - full website rebuild with donor + client UX
+→ Georgia municipality - $75K-$125K - three-site redesign (city, police, 911)
+→ Workforce development board - $60K-$110K - two-site redesign + ongoing maintenance
+→ Animal welfare charity - $50K-$100K - modernized site with multi-CRM integrations
+→ Arts & cultural district - $15K - brand identity refresh + website redesign
+→ Legal education nonprofit - $18K - WordPress build with faceted search + resource library
 
 Link in comments 👇
 
 ---
 
-A major urban business improvement district is looking for a web design partner.
+A food bank serving an entire metro area is looking for a web design partner.
 
-$150,000 budget.
+$100K budget.
 
-Full website redesign for an iconic San Francisco retail and arts district — Salesforce-driven business directory, event calendar, ADA compliance, and managed hosting with CDN.
-
-Proposals due April 27th if you're interested.
-
-Link in comments 👇
-
----
-
-An early childhood workforce nonprofit is looking for a development partner.
-
-$75K–$125K estimated budget.
-
-Custom multi-role online portal with FileMaker Pro API integration, bilingual support, document uploads, and a facility administrator portal for employment verification.
-
-Proposals due April 27th if you're interested.
-
-Link in comments 👇
-
----
-
-A large historically Black university in Houston is looking for a strategy partner.
-
-$40K–$90K estimated budget.
-
-Phase 1 discovery only — content audit, UX review, accessibility assessment, and a phased implementation roadmap. No design or dev work in this phase.
+Full website rebuild with an identity-first UX gateway, recurring donor optimization, and integrations with Blackbaud, Fundraise Up, and more.
 
 Proposals due April 21st if you're interested.
 
@@ -47,23 +23,49 @@ Link in comments 👇
 
 ---
 
-A Texas city government is looking for a web design and hosting partner.
+A municipal government needs three websites redesigned — and they want one agency to handle all of it.
 
-$30K–$80K estimated budget.
+$75K-$125K estimated budget.
 
-Full municipal website redesign with data migration, CMS, online payments, emergency alerts, meeting document management, and multilingual support.
+City site, police department site, and 911 site. Each keeps its own URL and branding. CMS, ADA compliance, open records module, master calendar, and more.
 
-Proposals due May 6th if you're interested.
+Proposals due April 30th.
 
 Link in comments 👇
 
 ---
 
-A nonprofit library foundation is looking for a long-term creative web partner.
+A federally funded workforce development board needs two public-facing websites redesigned and maintained.
 
-$25K–$75K estimated budget.
+$60K-$110K estimated budget.
 
-Website redesign tied to a recent brand refresh — focused on nonprofit storytelling, donor engagement, accessibility, and easy content management for a small staff.
+Redesign + development + ongoing maintenance for up to four years. WCAG 2.1 AA, Section 508 compliance, and a focus on accessibility for low-digital-literacy users.
+
+Proposals due May 4th if you're interested.
+
+Link in comments 👇
+
+---
+
+An animal welfare charity needs their 2017 website completely modernized.
+
+$50K-$100K estimated budget.
+
+Adoptions, donations, volunteer sign-ups, community services — plus integrations with four CRMs including Raiser's Edge, Adopets, and Shopify. AODA and WCAG 2.1 AA required.
+
+Note: this is a Canadian client (Ontario).
+
+Proposals due April 20th.
+
+Link in comments 👇
+
+---
+
+A state-certified arts and cultural district is looking for a creative agency.
+
+$15K budget.
+
+Brand identity refresh and/or website redesign. Logo, guidelines, templates, CMS, event promotion, artist directories, and WCAG compliance. They're open to proposals for brand only, web only, or both.
 
 Proposals due April 24th if you're interested.
 
@@ -71,12 +73,12 @@ Link in comments 👇
 
 ---
 
-A provincial health agency in Canada is looking for a WordPress development partner.
+A legal education nonprofit is building a national online clearinghouse — and they need a WordPress developer.
 
-$20K–$70K estimated budget.
+$18K fixed-price budget.
 
-WordPress microsite to showcase interactive patient personas — 2–3 design concepts plus approved templates with photo, audio, and video support.
+Custom post types, faceted search resource library with CSV import, embedded training videos and podcasts, WCAG 2.2 AA compliance, and 30 days post-launch support.
 
-Proposals due April 8th if you're interested.
+Proposals due April 17th.
 
 Link in comments 👇
