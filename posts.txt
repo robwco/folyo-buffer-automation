@@ -1,84 +1,69 @@
-Six organizations looking for web design partners this week:
+Five organizations looking for web design partners this week:
 
-→ Food bank & hunger relief org - $100K - full website rebuild with donor + client UX
-→ Georgia municipality - $75K-$125K - three-site redesign (city, police, 911)
-→ Workforce development board - $60K-$110K - two-site redesign + ongoing maintenance
-→ Animal welfare charity - $50K-$100K - modernized site with multi-CRM integrations
-→ Arts & cultural district - $15K - brand identity refresh + website redesign
-→ Legal education nonprofit - $18K - WordPress build with faceted search + resource library
-
-Link in comments 👇
-
----
-
-A food bank serving an entire metro area is looking for a web design partner.
-
-$100K budget.
-
-Full website rebuild with an identity-first UX gateway, recurring donor optimization, and integrations with Blackbaud, Fundraise Up, and more.
-
-Proposals due April 21st if you're interested.
+→ History museum network - $150K-$200K - multi-site redesign + CRM integration
+→ Midwest city government - $75K-$125K - municipal site + content migration
+→ County government - $60K-$110K - full site build + ongoing support
+→ Regional planning agency - $50K-$100K - WordPress maintenance + ArcGIS integration
+→ Trade association - $25K-$50K - annual convention site + registration system
 
 Link in comments 👇
 
 ---
 
-A municipal government needs three websites redesigned — and they want one agency to handle all of it.
+A history museum network is looking for a web design and digital strategy partner.
 
-$75K-$125K estimated budget.
+$150K-$200K budget (est.)
 
-City site, police department site, and 911 site. Each keeps its own URL and branding. CMS, ADA compliance, open records module, master calendar, and more.
+Redesign of three cultural institution websites with CRM, ticketing, and membership integrations.
 
-Proposals due April 30th.
-
-Link in comments 👇
-
----
-
-A federally funded workforce development board needs two public-facing websites redesigned and maintained.
-
-$60K-$110K estimated budget.
-
-Redesign + development + ongoing maintenance for up to four years. WCAG 2.1 AA, Section 508 compliance, and a focus on accessibility for low-digital-literacy users.
-
-Proposals due May 4th if you're interested.
+Proposals due May 22nd if you're interested.
 
 Link in comments 👇
 
 ---
 
-An animal welfare charity needs their 2017 website completely modernized.
+A Midwest city government is looking for a web design partner.
 
-$50K-$100K estimated budget.
+$75K-$125K budget (est.)
 
-Adoptions, donations, volunteer sign-ups, community services — plus integrations with four CRMs including Raiser's Edge, Adopets, and Shopify. AODA and WCAG 2.1 AA required.
+Full municipal website redesign with CMS, content migration, hosting, and WCAG 2.1 AA accessibility compliance.
 
-Note: this is a Canadian client (Ontario).
-
-Proposals due April 20th.
+Proposals due May 15th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A state-certified arts and cultural district is looking for a creative agency.
+A county government in Tennessee is looking for a web development partner.
 
-$15K budget.
+$60K-$110K budget (est.)
 
-Brand identity refresh and/or website redesign. Logo, guidelines, templates, CMS, event promotion, artist directories, and WCAG compliance. They're open to proposals for brand only, web only, or both.
+New government website covering discovery, UX/UI design, CMS development, content migration, and ongoing support.
 
-Proposals due April 24th if you're interested.
+Proposals due May 14th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A legal education nonprofit is building a national online clearinghouse — and they need a WordPress developer.
+A regional transportation planning agency is looking for a WordPress partner.
 
-$18K fixed-price budget.
+$50K-$100K budget (est.)
 
-Custom post types, faceted search resource library with CSV import, embedded training videos and podcasts, WCAG 2.2 AA compliance, and 30 days post-launch support.
+Ongoing website maintenance, security, ADA compliance, ArcGIS integrations, and future feature development. 36-month contract.
 
-Proposals due April 17th.
+Proposals due April 27th if you're interested.
+
+Link in comments 👇
+
+---
+
+A national trade association is looking for a web design partner for their annual convention.
+
+$25K-$50K budget (est.)
+
+Event website with CRM-integrated registration, sponsor management, agenda and speaker modules, and a silent auction feature.
+
+Proposals due April 10th if you're interested.
 
 Link in comments 👇
