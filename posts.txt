@@ -1,69 +1,56 @@
-Five organizations looking for web design partners this week:
+Four organizations looking for web design partners this week:
 
-→ History museum network - $150K-$200K - multi-site redesign + CRM integration
-→ Midwest city government - $75K-$125K - municipal site + content migration
-→ County government - $60K-$110K - full site build + ongoing support
-→ Regional planning agency - $50K-$100K - WordPress maintenance + ArcGIS integration
-→ Trade association - $25K-$50K - annual convention site + registration system
-
-Link in comments 👇
-
----
-
-A history museum network is looking for a web design and digital strategy partner.
-
-$150K-$200K budget (est.)
-
-Redesign of three cultural institution websites with CRM, ticketing, and membership integrations.
-
-Proposals due May 22nd if you're interested.
+→ Port Authority - $150K–$200K (est.) - dual-site redesign + hosting & maintenance
+→ Public Library - $80K–$130K (est.) - full redesign with catalog & event integrations
+→ Housing Authority - $75K–$125K (est.) - accessible CMS build + housing software integration
+→ State Park - $60K–$110K (est.) - custom site with e-commerce + ongoing support
 
 Link in comments 👇
 
 ---
 
-A Midwest city government is looking for a web design partner.
+A regional port authority is looking for a web design partner.
 
-$75K-$125K budget (est.)
+$150K–$200K estimated budget.
 
-Full municipal website redesign with CMS, content migration, hosting, and WCAG 2.1 AA accessibility compliance.
+Full redesign of two public-facing websites — the main authority site and a transit subsidiary — plus hosting and ongoing maintenance.
 
-Proposals due May 15th if you're interested.
-
-Link in comments 👇
-
----
-
-A county government in Tennessee is looking for a web development partner.
-
-$60K-$110K budget (est.)
-
-New government website covering discovery, UX/UI design, CMS development, content migration, and ongoing support.
-
-Proposals due May 14th if you're interested.
+Proposals due May 1st if you're interested.
 
 Link in comments 👇
 
 ---
 
-A regional transportation planning agency is looking for a WordPress partner.
+A public library is looking for a web design partner.
 
-$50K-$100K budget (est.)
+$80K–$130K estimated budget.
 
-Ongoing website maintenance, security, ADA compliance, ArcGIS integrations, and future feature development. 36-month contract.
+New website to replace a decade-old platform, with integrations for their catalog, event calendar, and email tools. 456,000 monthly visitors.
 
-Proposals due April 27th if you're interested.
+Proposals due April 29th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A national trade association is looking for a web design partner for their annual convention.
+A housing authority is looking for a web design partner.
 
-$25K-$50K budget (est.)
+$75K–$125K estimated budget.
 
-Event website with CRM-integrated registration, sponsor management, agenda and speaker modules, and a silent auction feature.
+Modern, accessible CMS-based website with content migration, ADA compliance, and integration with their housing management software.
 
-Proposals due April 10th if you're interested.
+Proposals due April 30th if you're interested.
+
+Link in comments 👇
+
+---
+
+A state park agency is looking for a web design partner.
+
+$60K–$110K estimated budget.
+
+Custom ~45-page website with e-commerce, ADA Title II compliance, mobile-first design, and ongoing hosting and technical support.
+
+Proposals due May 20th if you're interested.
 
 Link in comments 👇
