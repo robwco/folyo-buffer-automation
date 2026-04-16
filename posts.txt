@@ -1,43 +1,59 @@
-Four organizations looking for web design partners this week:
+Eight organizations looking for web design partners this week:
 
-→ Port Authority - $150K–$200K (est.) - dual-site redesign + hosting & maintenance
-→ Public Library - $80K–$130K (est.) - full redesign with catalog & event integrations
-→ Housing Authority - $75K–$125K (est.) - accessible CMS build + housing software integration
-→ State Park - $60K–$110K (est.) - custom site with e-commerce + ongoing support
-
-Link in comments 👇
-
----
-
-A regional port authority is looking for a web design partner.
-
-$150K–$200K estimated budget.
-
-Full redesign of two public-facing websites — the main authority site and a transit subsidiary — plus hosting and ongoing maintenance.
-
-Proposals due May 1st if you're interested.
+→ Connecticut Municipality - $175K-$225K - website redesign + digital services platform
+→ National Equestrian Nonprofit - $150K-$200K - brand refresh + digital growth strategy
+→ Research Foundation - $120K-$170K - custom site with interactive mapping
+→ Washington Hospital District - $110K-$160K - website redesign with AI integration
+→ Catholic Charitable Nonprofit - $80K-$130K - website redesign with member portal
+→ Texas Tourism Bureau - $75K - mobile-first CVB website
+→ Breast Cancer Nonprofit - $45K-$95K - website overhaul with e-commerce
+→ Kentucky Tourism Board - $50K - destination site migration off Simpleview
 
 Link in comments 👇
 
 ---
 
-A public library is looking for a web design partner.
+A Connecticut municipality is looking for a web design partner.
 
-$80K–$130K estimated budget.
+$175K-$225K estimated budget.
 
-New website to replace a decade-old platform, with integrations for their catalog, event calendar, and email tools. 456,000 monthly visitors.
+Website redesign and digital services platform with role-based CMS, ADA compliance, agenda management, RFP module, and AI chatbot. Multi-year contract.
 
-Proposals due April 29th if you're interested.
+Proposals due April 24th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A housing authority is looking for a web design partner.
+A national equestrian education nonprofit is looking for a design partner.
 
-$75K–$125K estimated budget.
+$150K-$200K estimated budget.
 
-Modern, accessible CMS-based website with content migration, ADA compliance, and integration with their housing management software.
+Integrated brand refresh and digital growth strategy — refreshed visual identity, messaging frameworks, content strategy, and social/video strategy.
+
+Proposals due May 18th if you're interested.
+
+Link in comments 👇
+
+---
+
+A research foundation is looking for a web design partner.
+
+$120K-$170K estimated budget.
+
+Custom website hosting three bird atlas projects with interactive mapping, 250 species account pages, spatial querying, and a relational database backend.
+
+Proposals due May 12th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Washington hospital district is looking for a web design partner.
+
+$110K-$160K estimated budget.
+
+Website redesign with a modern healthcare aesthetic and thoughtful AI integration — AI-assisted search, symptom-to-service guidance, and bilingual support.
 
 Proposals due April 30th if you're interested.
 
@@ -45,12 +61,48 @@ Link in comments 👇
 
 ---
 
-A state park agency is looking for a web design partner.
+A 150-year-old charitable nonprofit is looking for a web design partner.
 
-$60K–$110K estimated budget.
+$80K-$130K estimated budget.
 
-Custom ~45-page website with e-commerce, ADA Title II compliance, mobile-first design, and ongoing hosting and technical support.
+New website with component-based design system, role-based CMS, password-protected member resources, translation approach, and migration of 50-65 pages.
 
-Proposals due May 20th if you're interested.
+Proposals due May 29th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Texas convention and visitors bureau is looking for a web design partner.
+
+$75K budget.
+
+Mobile-first tourism website with event calendar, automated business listings, itinerary builder, interactive maps, and Google Business Profile integration.
+
+Proposals due May 11th if you're interested.
+
+Link in comments 👇
+
+---
+
+A breast cancer nonprofit is looking for a web design partner.
+
+$45K-$95K estimated budget.
+
+Website overhaul with backend audit, security upgrade, and e-commerce integration — direct donations, merchandise storefront, and event registration.
+
+Proposals due May 8th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Kentucky destination marketing organization is looking for a web design partner.
+
+$50K budget.
+
+Destination site migration off Simpleview to an open-source CMS. Mobile-first, SEO and AI-search optimized, with integrations across CRM, attribution, events, and email.
+
+Proposals due May 29th if you're interested.
 
 Link in comments 👇
