@@ -1,56 +1,47 @@
-Five organizations looking for web design partners this week:
+Six organizations looking for web design partners this week:
 
-→ California Air Quality District - $85K-$135K - website redesign with accessibility and interactive tools
-→ Regional Water Authority - $75K - ongoing WordPress editorial and content production
-→ Performing Arts Center - $70K-$120K - branding + website with ticketing integration
-→ Energy Efficiency Nonprofit - $35K-$85K - WordPress redesign focused on membership conversions
-→ Public Housing Authority - $35K - website redesign + rebrand with unified property directory
-
-Link in comments 👇
-
----
-
-A California Air Quality District is looking for a design partner.
-
-$85K-$135K budget.
-
-Website redesign with WCAG 2.2 AA compliance, multilingual support, interactive air quality tools, and PDF remediation for 500+ documents.
-
-Proposals due June 1st if you're interested.
+→ Regional Water District - $175K - branding, website, PR/marketing
+→ State Nursing Board - $150K - accessible website redesign
+→ Legal Aid Nonprofit - $125K-$175K - AI tagging tool on Drupal
+→ NY County Government - $125K - website redesign with decentralized CMS
+→ California Gated City - $90K - WordPress municipal redesign
+→ Community Development Nonprofit - $20K - redesign with multilingual support
 
 Link in comments 👇
 
 ---
 
-A Regional Water Authority is looking for a design partner.
+Six new RFPs worth pursuing this week:
 
-$75K budget over three years.
-
-Ongoing WordPress editorial and content production for a news site covering 22 member agencies — story writing, homepage management, editorial calendar, and SEO.
-
-Proposals due May 14th if you're interested.
-
-Link in comments 👇
-
----
-
-A Performing Arts Center is looking for a design partner.
-
-$70K-$120K budget.
-
-New branding and website with full logo system, brand guidelines, integrated rental calendar, integrated ticketing platform, and ADA compliance.
-
-Proposals due May 4th if you're interested.
+→ Water District - $175K - full branding + website + marketing
+→ State Regulatory Board - $150K - licensure website rebuild
+→ Legal Aid - $125K-$175K - Drupal 11 + AI/NLP tagging tool
+→ County Government - $125K - multi-department CMS redesign
+→ Small City - $90K - WordPress site for municipal services
+→ Community Nonprofit - $20K - mission-driven redesign
 
 Link in comments 👇
 
 ---
 
-An Energy Efficiency Nonprofit is looking for a design partner.
+Fresh agency opportunities this week across government and nonprofit:
 
-$35K-$85K budget.
+→ Water District marketing + web - $175K
+→ Nursing Board website rebuild - $150K
+→ AI tool on Drupal for Legal Aid - $125K-$175K
+→ County government redesign - $125K
+→ Gated city WordPress build - $90K
+→ CID nonprofit redesign - $20K
 
-WordPress redesign (or CMS migration) focused on increasing paid membership sign-ups, with event calendar, policy maps, resource hubs, and data visualizations.
+Link in comments 👇
+
+---
+
+A Regional Water District is looking for a full-service agency partner.
+
+$175K budget.
+
+Branding, website design and development, plus ongoing PR and marketing for a major downtown development project.
 
 Proposals due May 11th if you're interested.
 
@@ -58,12 +49,60 @@ Link in comments 👇
 
 ---
 
-A Public Housing Authority is looking for a design partner.
+A State Board of Nursing is looking for a web design partner.
 
-$35K budget.
+$150K budget.
 
-Website redesign and rebrand including new logo, unified property directory with interactive map and radius search, appointment booking, bilingual support, and WCAG 2.1 AA compliance.
+Accessible website redesign with WCAG 2.1 AA compliance, document repository, secure licensure portal integration, and 3 years of maintenance.
 
-Proposals due May 27th if you're interested.
+Proposals due May 20th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Legal Aid nonprofit is looking for a Drupal and AI development partner.
+
+$125K-$175K budget.
+
+Custom Drupal 11 module with AI/NLP model training to identify legal authorities, reviewer interface with human-in-the-loop feedback, and AGPLv3 open-source delivery.
+
+Proposals due May 29th if you're interested.
+
+Link in comments 👇
+
+---
+
+A NY County Government is looking for a web design partner.
+
+$125K budget.
+
+Website redesign with decentralized CMS for multiple departments, ADA compliance, content migration, and a 3-year contract with optional extensions.
+
+Proposals due May 28th if you're interested.
+
+Link in comments 👇
+
+---
+
+A California gated city is looking for a WordPress partner.
+
+$90K budget.
+
+Municipal website redesign with up to 50 pages, Council agenda portal, WCAG 2.1 AA compliance, hosting, and integration for a planned AI Digital Library.
+
+Proposals due May 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+A community development nonprofit is looking for a design partner.
+
+$20K budget.
+
+Website redesign with property listings, real estate portfolio showcase, donation functionality, and multilingual font support with translation widget.
+
+Proposals due May 13th if you're interested.
 
 Link in comments 👇
