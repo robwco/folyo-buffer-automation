@@ -1,59 +1,22 @@
-Six organizations looking for web design partners this week:
+Seven organizations looking for web/marketing partners this week:
 
-→ Regional Water District - $175K - branding, website, PR/marketing
-→ State Nursing Board - $150K - accessible website redesign
-→ Legal Aid Nonprofit - $125K-$175K - AI tagging tool on Drupal
-→ NY County Government - $125K - website redesign with decentralized CMS
-→ California Gated City - $90K - WordPress municipal redesign
-→ Community Development Nonprofit - $20K - redesign with multilingual support
-
-Link in comments 👇
-
----
-
-Six new RFPs worth pursuing this week:
-
-→ Water District - $175K - full branding + website + marketing
-→ State Regulatory Board - $150K - licensure website rebuild
-→ Legal Aid - $125K-$175K - Drupal 11 + AI/NLP tagging tool
-→ County Government - $125K - multi-department CMS redesign
-→ Small City - $90K - WordPress site for municipal services
-→ Community Nonprofit - $20K - mission-driven redesign
+→ Education Service Center - $200K-$250K - multi-brand marketing retainer
+→ Labour Market Research Council - $120K CAD - bilingual CMS + dashboard hub
+→ Human Services Nonprofit - $85K - redesign with HubSpot, DonorPerfect, Paycom
+→ Midwifery Association - $45K CAD - WordPress + CiviCRM multi-portal rebuild
+→ Coastal Town Government - $40K-$90K - CMS rebuild with accessibility automation
+→ Affordable Housing Nonprofit - $35K - redesign + Raiser's Edge NXT integration
+→ Tourism Bureau - $30K - Simpleview migration with member directory
 
 Link in comments 👇
 
 ---
 
-Fresh agency opportunities this week across government and nonprofit:
+A regional Education Service Center is looking for a full-service marketing partner.
 
-→ Water District marketing + web - $175K
-→ Nursing Board website rebuild - $150K
-→ AI tool on Drupal for Legal Aid - $125K-$175K
-→ County government redesign - $125K
-→ Gated city WordPress build - $90K
-→ CID nonprofit redesign - $20K
+$200K-$250K budget.
 
-Link in comments 👇
-
----
-
-A Regional Water District is looking for a full-service agency partner.
-
-$175K budget.
-
-Branding, website design and development, plus ongoing PR and marketing for a major downtown development project.
-
-Proposals due May 11th if you're interested.
-
-Link in comments 👇
-
----
-
-A State Board of Nursing is looking for a web design partner.
-
-$150K budget.
-
-Accessible website redesign with WCAG 2.1 AA compliance, document repository, secure licensure portal integration, and 3 years of maintenance.
+Multi-brand strategy, paid media (LinkedIn, Google, CTV/OTT, traditional), website development, video production, and CRM implementation.
 
 Proposals due May 20th if you're interested.
 
@@ -61,48 +24,72 @@ Link in comments 👇
 
 ---
 
-A Legal Aid nonprofit is looking for a Drupal and AI development partner.
+A national Labour Market Research Council is looking for a web design partner.
 
-$125K-$175K budget.
+$120K CAD budget.
 
-Custom Drupal 11 module with AI/NLP model training to identify legal authorities, reviewer interface with human-in-the-loop feedback, and AGPLv3 open-source delivery.
+Bilingual (EN/FR) website redesign, CMS implementation, HubSpot integration, and Tableau dashboard embedding.
 
-Proposals due May 29th if you're interested.
-
-Link in comments 👇
-
----
-
-A NY County Government is looking for a web design partner.
-
-$125K budget.
-
-Website redesign with decentralized CMS for multiple departments, ADA compliance, content migration, and a 3-year contract with optional extensions.
-
-Proposals due May 28th if you're interested.
+Proposals due May 14th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A California gated city is looking for a WordPress partner.
+A Human Services Nonprofit is looking for a web design partner.
 
-$90K budget.
+$85K budget.
 
-Municipal website redesign with up to 50 pages, Council agenda portal, WCAG 2.1 AA compliance, hosting, and integration for a planned AI Digital Library.
+Website redesign with HubSpot, DonorPerfect, and Paycom integrations, structured intake/referral workflows, WCAG 2.1 AA accessibility, and AI-assisted search.
 
-Proposals due May 15th if you're interested.
+Proposals due May 8th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A community development nonprofit is looking for a design partner.
+A national Midwifery Association is looking for a web design partner.
 
-$20K budget.
+$45K CAD budget.
 
-Website redesign with property listings, real estate portfolio showcase, donation functionality, and multilingual font support with translation widget.
+Bilingual (EN/FR) WordPress rebuild covering a public site, member portal, and staff portal — with CiviCRM authentication and WCAG 2.1 AA compliance.
 
-Proposals due May 13th if you're interested.
+Proposals due May 8th if you're interested.
+
+Link in comments 👇
+
+---
+
+A coastal Town Government is looking for a web design partner.
+
+$40K-$90K budget.
+
+Website redesign, CMS implementation, automated accessibility compliance (WCAG 2.2 AA), and content migration. Site needs to function as both a year-round communications platform and emergency information hub.
+
+Proposals due May 14th if you're interested.
+
+Link in comments 👇
+
+---
+
+An Affordable Housing Nonprofit is looking for a web design partner.
+
+$35K budget.
+
+Full website redesign plus a refresh of their companion apartment listing site, integrated with Blackbaud Raiser's Edge NXT for donations and events.
+
+Proposals due May 5th if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional Tourism Bureau is looking for a web design partner.
+
+$30K budget.
+
+Simpleview migration to WordPress or Joomla with business/member directory administration, tiered listings, member login, online shop, and events calendar.
+
+Proposals due May 11th if you're interested.
 
 Link in comments 👇
