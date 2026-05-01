@@ -1,95 +1,69 @@
-Seven organizations looking for web/marketing partners this week:
+Five organizations looking for web design partners this week:
 
-→ Education Service Center - $200K-$250K - multi-brand marketing retainer
-→ Labour Market Research Council - $120K CAD - bilingual CMS + dashboard hub
-→ Human Services Nonprofit - $85K - redesign with HubSpot, DonorPerfect, Paycom
-→ Midwifery Association - $45K CAD - WordPress + CiviCRM multi-portal rebuild
-→ Coastal Town Government - $40K-$90K - CMS rebuild with accessibility automation
-→ Affordable Housing Nonprofit - $35K - redesign + Raiser's Edge NXT integration
-→ Tourism Bureau - $30K - Simpleview migration with member directory
+→ California Housing Authority - $130K - website + intranet with Yardi, DocuSign integrations
+→ Texas Appraisal District - $125K - public website redesign with CMS and ADA compliance
+→ Indiana Workforce Nonprofit - $125K - full marketing retainer including web, SEO, paid media
+→ Virginia County Government - $100K - website redesign with WCAG 2.1 AA compliance
+→ Canadian Animal Welfare Nonprofit - $90K - campaign-ready site with PetPoint and CanadaHelps
 
 Link in comments 👇
 
 ---
 
-A regional Education Service Center is looking for a full-service marketing partner.
+A California public housing authority is looking for a web design partner.
 
-$200K-$250K budget.
+$130K estimated budget.
 
-Multi-brand strategy, paid media (LinkedIn, Google, CTV/OTT, traditional), website development, video production, and CRM implementation.
+Two-phase project: new public website plus staff intranet. Integrations with Yardi, DocuSign, Adobe, and Constant Contact. ADA compliance and multi-language access required.
 
-Proposals due May 20th if you're interested.
-
-Link in comments 👇
-
----
-
-A national Labour Market Research Council is looking for a web design partner.
-
-$120K CAD budget.
-
-Bilingual (EN/FR) website redesign, CMS implementation, HubSpot integration, and Tableau dashboard embedding.
-
-Proposals due May 14th if you're interested.
+Proposals due May 25th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Human Services Nonprofit is looking for a web design partner.
+A Texas appraisal district is looking for a web design partner.
 
-$85K budget.
+$125K estimated budget.
 
-Website redesign with HubSpot, DonorPerfect, and Paycom integrations, structured intake/referral workflows, WCAG 2.1 AA accessibility, and AI-assisted search.
+Public-facing website redesign with modern CMS, mobile-first responsive design, WCAG 2.1 AA accessibility, content migration, and Texas Public Information Act compliance.
 
-Proposals due May 8th if you're interested.
-
-Link in comments 👇
-
----
-
-A national Midwifery Association is looking for a web design partner.
-
-$45K CAD budget.
-
-Bilingual (EN/FR) WordPress rebuild covering a public site, member portal, and staff portal — with CiviCRM authentication and WCAG 2.1 AA compliance.
-
-Proposals due May 8th if you're interested.
+Proposals due May 29th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A coastal Town Government is looking for a web design partner.
+A workforce development nonprofit is looking for a marketing partner.
 
-$40K-$90K budget.
+$125K estimated budget.
 
-Website redesign, CMS implementation, automated accessibility compliance (WCAG 2.2 AA), and content migration. Site needs to function as both a year-round communications platform and emergency information hub.
+One-year contract (renewable up to 5 years) covering brand strategy, website management, SEO, email marketing, social media, paid media, PR, and TV/radio production. Hourly billing only.
 
-Proposals due May 14th if you're interested.
-
-Link in comments 👇
-
----
-
-An Affordable Housing Nonprofit is looking for a web design partner.
-
-$35K budget.
-
-Full website redesign plus a refresh of their companion apartment listing site, integrated with Blackbaud Raiser's Edge NXT for donations and events.
-
-Proposals due May 5th if you're interested.
+Proposals due May 26th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A regional Tourism Bureau is looking for a web design partner.
+A Virginia county government is looking for a web design partner.
 
-$30K budget.
+$100K estimated budget.
 
-Simpleview migration to WordPress or Joomla with business/member directory administration, tiered listings, member login, online shop, and events calendar.
+Website redesign with WCAG 2.1 AA compliance, CMS implementation, content migration, DNS migration, and social media integration. Project can be phased with add-ons like fillable forms and online payments.
 
-Proposals due May 11th if you're interested.
+Proposals due May 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+A 60-year-old animal welfare nonprofit is looking for a web design partner.
+
+$90K estimated budget.
+
+Campaign-ready website ahead of a $4M capital campaign. Integrations with PetPoint, DonorPerfect, CanadaHelps, and MailChimp. Mobile-first design with AODA/WCAG 2.1 AA accessibility.
+
+Proposals due May 22nd if you're interested.
 
 Link in comments 👇
