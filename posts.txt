@@ -1,32 +1,44 @@
 Five organizations looking for web design partners this week:
 
-→ California Housing Authority - $130K - website + intranet with Yardi, DocuSign integrations
-→ Texas Appraisal District - $125K - public website redesign with CMS and ADA compliance
-→ Indiana Workforce Nonprofit - $125K - full marketing retainer including web, SEO, paid media
-→ Virginia County Government - $100K - website redesign with WCAG 2.1 AA compliance
-→ Canadian Animal Welfare Nonprofit - $90K - campaign-ready site with PetPoint and CanadaHelps
+→ Tourism Bureau - $250K-$300K - website redesign + CRM/CMS/partner portal
+→ City Economic Development Dept - $153K - Drupal site consolidating 4 departments
+→ County Appraisal District - $50K-$100K - public-facing redesign with CMS
+→ Regional Transportation Authority - $40K-$90K - ADA/WCAG 2.2 AA compliance work
+→ Camp & Conference Center - $20K - WordPress redesign with multiple integrations
 
 Link in comments 👇
 
 ---
 
-A California public housing authority is looking for a web design partner.
+A Destination Marketing Organization is looking for a design partner.
 
-$130K estimated budget.
+$250K-$300K budget.
 
-Two-phase project: new public website plus staff intranet. Integrations with Yardi, DocuSign, Adobe, and Constant Contact. ADA compliance and multi-language access required.
+Full website redesign plus centralized CRM, structured CMS, and dedicated partner portal. Open to all-in-one, decoupled, or hybrid architecture.
 
-Proposals due May 25th if you're interested.
+Proposals due July 1st if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Texas appraisal district is looking for a web design partner.
+A City Economic Development Department is looking for a Drupal partner.
 
-$125K estimated budget.
+$153K budget.
 
-Public-facing website redesign with modern CMS, mobile-first responsive design, WCAG 2.1 AA accessibility, content migration, and Texas Public Information Act compliance.
+Building a new website to consolidate four city departments into a single unified hub. 18-month engagement covering audit, design, migration, and ongoing maintenance.
+
+Proposals due May 28th if you're interested.
+
+Link in comments 👇
+
+---
+
+A County Appraisal District is looking for a web design partner.
+
+$50K-$100K budget.
+
+Public-facing website redesign with CMS, WCAG 2.1 AA compliance, and Public Information Act support. Full scope from discovery through post-launch training.
 
 Proposals due May 29th if you're interested.
 
@@ -34,36 +46,24 @@ Link in comments 👇
 
 ---
 
-A workforce development nonprofit is looking for a marketing partner.
+A Regional Transportation Authority is looking for an accessibility partner.
 
-$125K estimated budget.
+$40K-$90K budget.
 
-One-year contract (renewable up to 5 years) covering brand strategy, website management, SEO, email marketing, social media, paid media, PR, and TV/radio production. Hourly billing only.
-
-Proposals due May 26th if you're interested.
-
-Link in comments 👇
-
----
-
-A Virginia county government is looking for a web design partner.
-
-$100K estimated budget.
-
-Website redesign with WCAG 2.1 AA compliance, CMS implementation, content migration, DNS migration, and social media integration. Project can be phased with add-ons like fillable forms and online payments.
-
-Proposals due May 15th if you're interested.
-
-Link in comments 👇
-
----
-
-A 60-year-old animal welfare nonprofit is looking for a web design partner.
-
-$90K estimated budget.
-
-Campaign-ready website ahead of a $4M capital campaign. Integrations with PetPoint, DonorPerfect, CanadaHelps, and MailChimp. Mobile-first design with AODA/WCAG 2.1 AA accessibility.
+WCAG 2.2 Level AA compliance work across two public-facing sites. Automated and manual testing, full remediation, and staff training on a 1-year contract.
 
 Proposals due May 22nd if you're interested.
+
+Link in comments 👇
+
+---
+
+A Camp & Conference Center is looking for a WordPress partner.
+
+$20K budget.
+
+Templated redesign with reusable page components and mobile-responsive build. Integrations with CampBrain, DonorPerfect, Constant Contact, ADP, and Square.
+
+Proposals due May 25th if you're interested.
 
 Link in comments 👇
