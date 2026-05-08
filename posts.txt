@@ -1,44 +1,46 @@
-Five organizations looking for web design partners this week:
+Seven organizations looking for web design partners this week:
 
-→ Tourism Bureau - $250K-$300K - website redesign + CRM/CMS/partner portal
-→ City Economic Development Dept - $153K - Drupal site consolidating 4 departments
-→ County Appraisal District - $50K-$100K - public-facing redesign with CMS
-→ Regional Transportation Authority - $40K-$90K - ADA/WCAG 2.2 AA compliance work
-→ Camp & Conference Center - $20K - WordPress redesign with multiple integrations
-
-Link in comments 👇
-
----
-
-A Destination Marketing Organization is looking for a design partner.
-
-$250K-$300K budget.
-
-Full website redesign plus centralized CRM, structured CMS, and dedicated partner portal. Open to all-in-one, decoupled, or hybrid architecture.
-
-Proposals due July 1st if you're interested.
+→ CA Destination Marketing Org - $250K-$300K - full digital ecosystem: website, CRM, email platform
+→ Boston Park Nonprofit - $90K - WordPress redesign + venue booking integration
+→ Canadian Reconciliation Charity - $100K-$150K - bilingual re-platform + LMS + donation integration
+→ Utah City Government - $75K - downtown brand strategy + visual identity system
+→ Open Data Nonprofit - $25K-$75K - brand refresh + web design templates
+→ Colorado Workforce Nonprofit - $15K - website, brand guide, pitch deck
+→ NC Historic Site - $12K - Squarespace website refresh
 
 Link in comments 👇
 
 ---
 
-A City Economic Development Department is looking for a Drupal partner.
+A destination marketing organization is looking for a design partner.
 
-$153K budget.
+$250K-$300K budget (est.)
 
-Building a new website to consolidate four city departments into a single unified hub. 18-month engagement covering audit, design, migration, and ongoing maintenance.
+Full digital ecosystem overhaul — website redesign, CRM and partner extranet replacement, and email marketing platform migration.
 
-Proposals due May 28th if you're interested.
+Proposals due June 11th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A County Appraisal District is looking for a web design partner.
+A Boston park nonprofit is looking for a design partner.
 
-$50K-$100K budget.
+$90,000 budget.
 
-Public-facing website redesign with CMS, WCAG 2.1 AA compliance, and Public Information Act support. Full scope from discovery through post-launch training.
+Full WordPress redesign timed to a major new waterfront campus opening. Includes venue booking integration, park history archive, WCAG 2.1 AA compliance, and mobile optimization.
+
+Proposals due June 1st if you're interested.
+
+Link in comments 👇
+
+---
+
+A Canadian reconciliation charity is looking for a design partner.
+
+$100K-$150K budget (est.)
+
+Full website re-platform and redesign — bilingual CMS with AI translation, Salesforce and Raisely donation integration, Airtable-based LMS, and satellite site migration.
 
 Proposals due May 29th if you're interested.
 
@@ -46,24 +48,48 @@ Link in comments 👇
 
 ---
 
-A Regional Transportation Authority is looking for an accessibility partner.
+A Utah city government is looking for a design partner.
 
-$40K-$90K budget.
+$75,000 budget.
 
-WCAG 2.2 Level AA compliance work across two public-facing sites. Automated and manual testing, full remediation, and staff training on a 1-year contract.
+Comprehensive brand strategy for an emerging downtown district — visual identity system, brand standards manual, campaign concepts, and implementation roadmap.
 
-Proposals due May 22nd if you're interested.
+Proposals due May 29th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Camp & Conference Center is looking for a WordPress partner.
+An international open data nonprofit is looking for a design partner.
 
-$20K budget.
+$25K-$75K budget (est.)
 
-Templated redesign with reusable page components and mobile-responsive build. Integrations with CampBrain, DonorPerfect, Constant Contact, ADP, and Square.
+Brand refresh including updated logo, color palette, typography, accessible web page templates, and marketing templates. Their in-house team handles development — vendor delivers design assets only.
 
-Proposals due May 25th if you're interested.
+Proposals due May 29th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Colorado workforce development nonprofit is looking for a design partner.
+
+$15,000 budget.
+
+Three deliverables: full website redesign with CMS, a reusable pitch deck in PowerPoint/Google Slides, and a comprehensive brand standards guide.
+
+Proposals due May 20th if you're interested.
+
+Link in comments 👇
+
+---
+
+A North Carolina historic site and social justice center is looking for a design partner.
+
+$12,000 budget.
+
+Squarespace website refresh — site structure recommendations, page design, content migration, and staff training.
+
+Proposals due May 18th if you're interested.
 
 Link in comments 👇
