@@ -1,46 +1,70 @@
-Seven organizations looking for web design partners this week:
+Five organizations looking for design and web partners this week:
 
-→ CA Destination Marketing Org - $250K-$300K - full digital ecosystem: website, CRM, email platform
-→ Boston Park Nonprofit - $90K - WordPress redesign + venue booking integration
-→ Canadian Reconciliation Charity - $100K-$150K - bilingual re-platform + LMS + donation integration
-→ Utah City Government - $75K - downtown brand strategy + visual identity system
-→ Open Data Nonprofit - $25K-$75K - brand refresh + web design templates
-→ Colorado Workforce Nonprofit - $15K - website, brand guide, pitch deck
-→ NC Historic Site - $12K - Squarespace website refresh
+→ Illinois Municipality - $80K-$130K - website redesign + .gov transition + hosting
+→ Michigan County - $40K-$90K - website redesign + content migration + CMS
+→ Civic Engagement Nonprofit - $40K-$90K - full rebrand + website + domain migration
+→ National Health Association - $45K CAD - WordPress rebuild with member portal
+→ Youth Entrepreneurship Nonprofit - $25K-$75K - six-month design retainer
 
 Link in comments 👇
 
 ---
 
-A destination marketing organization is looking for a design partner.
+Five new RFPs hit the wire this week:
 
-$250K-$300K budget (est.)
+→ Municipal government in Illinois - $80K-$130K
+→ County government in Michigan - $40K-$90K
+→ Civic engagement nonprofit - $40K-$90K
+→ National healthcare association - $45K CAD
+→ Youth entrepreneurship nonprofit - $25K-$75K
 
-Full digital ecosystem overhaul — website redesign, CRM and partner extranet replacement, and email marketing platform migration.
-
-Proposals due June 11th if you're interested.
-
-Link in comments 👇
-
----
-
-A Boston park nonprofit is looking for a design partner.
-
-$90,000 budget.
-
-Full WordPress redesign timed to a major new waterfront campus opening. Includes venue booking integration, park history archive, WCAG 2.1 AA compliance, and mobile optimization.
-
-Proposals due June 1st if you're interested.
+Web rebuilds, rebrands, and a design retainer.
 
 Link in comments 👇
 
 ---
 
-A Canadian reconciliation charity is looking for a design partner.
+A Midwest municipality is looking for a web design partner.
 
-$100K-$150K budget (est.)
+$80K-$130K budget.
 
-Full website re-platform and redesign — bilingual CMS with AI translation, Salesforce and Raisely donation integration, Airtable-based LMS, and satellite site migration.
+Website redesign, .gov transition, WCAG 2.1 AA compliance, multilingual access, online forms and payments, and ongoing hosting and support.
+
+Proposals due June 8th if you're interested.
+
+Link in comments 👇
+
+---
+
+A County government in Michigan is looking for a web design partner.
+
+$40K-$90K budget.
+
+Website redesign on a secure scalable CMS, WCAG 2.1 AA compliance, .GOV domain compliance, content migration, decentralized department management, and GIS integration.
+
+Proposals due June 16th if you're interested.
+
+Link in comments 👇
+
+---
+
+A civic engagement nonprofit is looking for a branding and design partner.
+
+$40K-$90K budget.
+
+Full organizational rebrand including new logo, style guide, website redesign, social media transition, and G-Suite domain migration.
+
+Proposals due May 22nd if you're interested.
+
+Link in comments 👇
+
+---
+
+A national healthcare association is looking for a WordPress development partner.
+
+$45K CAD budget.
+
+Comprehensive WordPress rebuild covering main public site plus member and staff portals as a single role-based install, with bilingual EN/FR via WPML and Paid Memberships Pro for 3,000+ members.
 
 Proposals due May 29th if you're interested.
 
@@ -48,48 +72,12 @@ Link in comments 👇
 
 ---
 
-A Utah city government is looking for a design partner.
+A youth entrepreneurship nonprofit is looking for a graphic design partner.
 
-$75,000 budget.
+$25K-$75K budget.
 
-Comprehensive brand strategy for an emerging downtown district — visual identity system, brand standards manual, campaign concepts, and implementation roadmap.
-
-Proposals due May 29th if you're interested.
-
-Link in comments 👇
-
----
-
-An international open data nonprofit is looking for a design partner.
-
-$25K-$75K budget (est.)
-
-Brand refresh including updated logo, color palette, typography, accessible web page templates, and marketing templates. Their in-house team handles development — vendor delivers design assets only.
+Six-month retainer spanning anniversary event branding, educational materials, a flagship report with infographics, annual report layout, and event branding.
 
 Proposals due May 29th if you're interested.
-
-Link in comments 👇
-
----
-
-A Colorado workforce development nonprofit is looking for a design partner.
-
-$15,000 budget.
-
-Three deliverables: full website redesign with CMS, a reusable pitch deck in PowerPoint/Google Slides, and a comprehensive brand standards guide.
-
-Proposals due May 20th if you're interested.
-
-Link in comments 👇
-
----
-
-A North Carolina historic site and social justice center is looking for a design partner.
-
-$12,000 budget.
-
-Squarespace website refresh — site structure recommendations, page design, content migration, and staff training.
-
-Proposals due May 18th if you're interested.
 
 Link in comments 👇
