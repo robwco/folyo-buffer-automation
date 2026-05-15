@@ -1,58 +1,89 @@
-Five organizations looking for design and web partners this week:
+Six organizations looking for web design partners this week:
 
-→ Illinois Municipality - $80K-$130K - website redesign + .gov transition + hosting
-→ Michigan County - $40K-$90K - website redesign + content migration + CMS
-→ Civic Engagement Nonprofit - $40K-$90K - full rebrand + website + domain migration
-→ National Health Association - $45K CAD - WordPress rebuild with member portal
-→ Youth Entrepreneurship Nonprofit - $25K-$75K - six-month design retainer
-
-Link in comments 👇
-
----
-
-Five new RFPs hit the wire this week:
-
-→ Municipal government in Illinois - $80K-$130K
-→ County government in Michigan - $40K-$90K
-→ Civic engagement nonprofit - $40K-$90K
-→ National healthcare association - $45K CAD
-→ Youth entrepreneurship nonprofit - $25K-$75K
-
-Web rebuilds, rebrands, and a design retainer.
+→ Medical Certification Board - $200K - web app rebuild + website redesign
+→ Forest Preserve District - $125K - two new sites + 5-year maintenance
+→ Public Defender Nonprofit - $100K/yr - WordPress retainer + microsites
+→ Public Library System - $95K - CMS rebuild with catalog integrations
+→ Anti-Poverty Nonprofit - $50K - logo redesign + ongoing design retainer
+→ Small Municipality - $25K/yr - hosting and maintenance
 
 Link in comments 👇
 
 ---
 
-A Midwest municipality is looking for a web design partner.
+Five web projects looking for agency partners:
 
-$80K-$130K budget.
-
-Website redesign, .gov transition, WCAG 2.1 AA compliance, multilingual access, online forms and payments, and ongoing hosting and support.
-
-Proposals due June 8th if you're interested.
-
-Link in comments 👇
-
----
-
-A County government in Michigan is looking for a web design partner.
-
-$40K-$90K budget.
-
-Website redesign on a secure scalable CMS, WCAG 2.1 AA compliance, .GOV domain compliance, content migration, decentralized department management, and GIS integration.
-
-Proposals due June 16th if you're interested.
+→ $200K - Medical board needs a Ruby on Rails web app rebuilt + public site redesigned
+→ $125K - Forest preserve district wants two new websites to replace aging Wix builds
+→ $100K/yr - Public defender nonprofit looking for a WordPress maintenance retainer
+→ $95K - Library system needs a new website with BiblioCommons and Libby integrations
+→ $50K - Nonprofit needs a logo redesign with path to an ongoing design partnership
 
 Link in comments 👇
 
 ---
 
-A civic engagement nonprofit is looking for a branding and design partner.
+A Medical Certification Board is looking for a design and development partner.
 
-$40K-$90K budget.
+$200K budget.
 
-Full organizational rebrand including new logo, style guide, website redesign, social media transition, and G-Suite domain migration.
+Online filing system rebuild + public website redesign. Currently Ruby on Rails/Postgres, open to recommendations. Needs to integrate with their AMS (iMIS transitioning to Nimble/Salesforce).
+
+Vendors can bid on either system or both.
+
+Proposals due June 1st if you're interested.
+
+Link in comments 👇
+
+---
+
+A Forest Preserve District is looking for a web design partner.
+
+$125K estimated budget.
+
+Two new websites to replace outdated Wix sites — a main community hub and a separate golf marketing site. Multi-site management tooling, content migration with SEO preservation, and a 5-year maintenance plan included.
+
+WCAG 2.2 AA compliance required.
+
+Proposals due June 10th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Public Defender Nonprofit is looking for an ongoing WordPress partner.
+
+$100K/year estimated budget.
+
+Monthly retainer covering core/plugin maintenance, GA4 support, and accessibility QA — plus development work on new pages, campaign microsites, and restricted-access environments.
+
+Minimum one-year commitment, with the goal of a longer-term partnership.
+
+Proposals due May 29th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Public Library System is looking for a web design partner.
+
+$95K estimated budget.
+
+Vendors can bid on either a refresh of the existing site or a full rebuild. Scope includes CMS implementation, WCAG 2.1 AA accessibility, and integrations with BiblioCommons, Libby/OverDrive, LibraryAware, and a room booking system.
+
+Proposals due June 4th if you're interested.
+
+Link in comments 👇
+
+---
+
+An Anti-Poverty Nonprofit is looking for a design partner.
+
+$50K estimated budget.
+
+Logo redesign for their flagship annual fundraising event, celebrating 25 years. All file formats, color variations, and lockup options with the parent brand.
+
+Explicit path to an ongoing retainer covering print, digital, event, and fundraising collateral.
 
 Proposals due May 22nd if you're interested.
 
@@ -60,24 +91,14 @@ Link in comments 👇
 
 ---
 
-A national healthcare association is looking for a WordPress development partner.
+A Small Municipality is looking for a website hosting and maintenance partner.
 
-$45K CAD budget.
+$25K/year estimated budget.
 
-Comprehensive WordPress rebuild covering main public site plus member and staff portals as a single role-based install, with bilingual EN/FR via WPML and Paid Memberships Pro for 3,000+ members.
+Hosting, security, plugin updates, daily backups, SSL, content updates as requested, and backend training.
 
-Proposals due May 29th if you're interested.
+Small-scale recurring engagement, good fit for an agency with a maintenance offering.
 
-Link in comments 👇
-
----
-
-A youth entrepreneurship nonprofit is looking for a graphic design partner.
-
-$25K-$75K budget.
-
-Six-month retainer spanning anniversary event branding, educational materials, a flagship report with infographics, annual report layout, and event branding.
-
-Proposals due May 29th if you're interested.
+Proposals due May 26th if you're interested.
 
 Link in comments 👇
