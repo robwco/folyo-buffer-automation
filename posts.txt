@@ -1,70 +1,50 @@
-Seven organizations looking for web design partners this week:
+Five organizations looking for web design partners this week:
 
-→ Economic Development Partnership - $120K CAD - investment attraction site, video, SEO, branding
-→ Legal Aid Nonprofit - $125K - custom statewide pro bono platform
-→ State Trial Court - $110K - website redesign and enterprise CMS
-→ Agricultural Leadership Foundation - $95K - alumni portal, CRM integration, redesign
-→ Tribal Tourism Department - $85K - destination brand and visual identity
-→ Women's Business Coalition - $75K - membership platform with directory and event management
-→ Access to Justice Foundation - $65K - nonprofit redesign with board portal
+→ A regional workforce board - $150K - five-phase WordPress modernization with dashboard integrations
+→ A global trademark association - $100K - multi-year brand strategy and rebranding partnership
+→ A metropolitan zoo - $70K-$120K - WordPress rebuild with ticketing integration and ongoing support
+→ A classical public radio station - $60K - CMS rebuild with live audio streaming and search
+→ An economic justice nonprofit - $55K-$105K - eight-page redesign with bilingual CMS infrastructure
 
 Link in comments 👇
 
 ---
 
-An Economic Development Partnership is looking for a web design partner.
+A regional workforce board is looking for a web design partner.
 
-$120K CAD budget.
+$150K budget.
 
-Investment attraction website, custom graphics, one homepage video, 6 months of SEO acceleration, and branding support.
+Full website modernization across five phases: discovery, UX architecture, visual design, development, and launch. WordPress build serving three distinct audiences, with jobs board and demographics dashboard integrations plus a CMS-editable impact dashboard.
 
-Proposals due June 8th if you're interested.
+Section 508 and WCAG 2.1 AA compliance required.
 
-Link in comments 👇
-
----
-
-A Legal Aid Nonprofit is looking for a design partner.
-
-$125K budget.
-
-Custom statewide pro bono platform with org directory, opportunity listings, volunteer workflows, role-based permissions, and reporting.
-
-Proposals due June 9th if you're interested.
+Proposals due June 30th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A State Trial Court is looking for a web design partner.
+A global trademark association is looking for a brand and design partner.
 
-$110K budget.
+$100K annual budget.
 
-Full website redesign and enterprise CMS implementation (WordPress, Drupal, or Sitecore) with strict performance requirements, WCAG 2.2 AA, MFA, content migration, and training.
+Multi-year brand strategy and rebranding initiative — brand discovery and positioning, full visual identity development (logo, color, typography, brand standards), and digital asset templates with website and social integration.
 
-Proposals due June 23rd if you're interested.
+A long-term partnership for a firm that does legacy brand transformation well.
 
-Link in comments 👇
-
----
-
-An Agricultural Leadership Foundation is looking for a design partner.
-
-$95K budget.
-
-Website redesign with secure alumni login area, directory, learning modules, Bloomerang CRM and donations integration, Constant Contact integration, and event calendar.
-
-Proposals due June 15th if you're interested.
+Proposals due June 19th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Tribal Tourism Department is looking for a branding partner.
+A metropolitan zoo is looking for a web design partner.
 
-$85K budget.
+$70K-$120K budget.
 
-Destination brand development including logo, full visual identity system, brand guidelines, audience personas, MarTech recommendations, and rebrand launch toolkit.
+WordPress rebuild for a high-traffic public site — 20+ core templates, reusable components, content migration, and integration with existing ticketing and ecommerce. Can be scoped as a one-time project or an ongoing partnership with hosting and maintenance.
+
+WCAG 2.2 AA accessibility required.
 
 Proposals due June 11th if you're interested.
 
@@ -72,24 +52,26 @@ Link in comments 👇
 
 ---
 
-A Women's Business Coalition is looking for a web design partner.
+A classical public radio station is looking for a web design partner.
 
-$75K budget.
+$60K budget.
 
-Website redesign with membership platform, searchable directory with NAICS filters, automated email/SMS verification, event management, and attendance tracking tied to grant eligibility.
+CMS-based rebuild replacing an aging site of standalone HTML pages. Database-driven templates, multifunction search, and a persistent live audio stream that keeps playing as visitors navigate.
 
-Proposals due May 24th if you're interested.
+Real performance targets attached — fast, accessible, modern.
+
+Proposals due June 5th if you're interested.
 
 Link in comments 👇
 
 ---
 
-An Access to Justice Foundation is looking for a web design partner.
+An economic justice nonprofit is looking for a web design partner.
 
-$65K budget.
+$55K-$105K budget.
 
-Full website rebuild with selective content migration, board member portal, GEO/AI search optimization, WCAG 2.2 AA, and modern analytics with event tracking.
+Full eight-page redesign, including two pages built from scratch. Scope covers information architecture, CMS setup, bilingual infrastructure, content migration support, accessibility, and staff training — a mobile-first, crisis-responsive build serving five distinct audiences.
 
-Proposals due June 12th if you're interested.
+Proposals due soon, so move quickly if you're interested.
 
 Link in comments 👇
