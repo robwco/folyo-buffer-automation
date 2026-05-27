@@ -1,36 +1,53 @@
-Five organizations looking for web design partners this week:
+Four organizations looking for web design partners this week:
 
-→ A regional workforce board - $150K - five-phase WordPress modernization with dashboard integrations
-→ A global trademark association - $100K - multi-year brand strategy and rebranding partnership
-→ A metropolitan zoo - $70K-$120K - WordPress rebuild with ticketing integration and ongoing support
-→ A classical public radio station - $60K - CMS rebuild with live audio streaming and search
-→ An economic justice nonprofit - $55K-$105K - eight-page redesign with bilingual CMS infrastructure
-
-Link in comments 👇
-
----
-
-A regional workforce board is looking for a web design partner.
-
-$150K budget.
-
-Full website modernization across five phases: discovery, UX architecture, visual design, development, and launch. WordPress build serving three distinct audiences, with jobs board and demographics dashboard integrations plus a CMS-editable impact dashboard.
-
-Section 508 and WCAG 2.1 AA compliance required.
-
-Proposals due June 30th if you're interested.
+→ Financial Health App - $90K-$140K - app relaunch, design system, UX research
+→ Entertainment & Convention Center - $75K-$125K - new public website, CMS, accessibility
+→ UK Grant-Making Charity - $60K-$110K - brand refresh + website rebuild
+→ Arkansas City Government - $40K-$90K - municipal website, hosting, ongoing support
 
 Link in comments 👇
 
 ---
 
-A global trademark association is looking for a brand and design partner.
+Four new web design opportunities this week:
 
-$100K annual budget.
+→ A financial health app - $90K-$140K - app relaunch with a Figma design system
+→ A convention center - $75K-$125K - full public website with ticketing integrations
+→ A grant-making charity - $60K-$110K - brand refresh and website rebuild
+→ A city government - $40K-$90K - municipal site with hosting and support
 
-Multi-year brand strategy and rebranding initiative — brand discovery and positioning, full visual identity development (logo, color, typography, brand standards), and digital asset templates with website and social integration.
+Link in comments 👇
 
-A long-term partnership for a firm that does legacy brand transformation well.
+---
+
+Web projects worth a look this week:
+
+→ Financial Health App - $90K-$140K - app and CRM experience redesign
+→ Convention Center - $75K-$125K - new website with WCAG 2.1 AA compliance
+→ Grant-Making Charity - $60K-$110K - brand identity plus a website rebuild
+→ City Government - $40K-$90K - municipal website redesign and maintenance
+
+Link in comments 👇
+
+---
+
+A financial health app is looking for a design partner.
+
+$90K-$140K budget.
+
+App relaunch with three contractor roles: product marketing strategy, user research, and a creative director to build a Figma design system for the app and CRM.
+
+Proposals due June 9th if you're interested.
+
+Link in comments 👇
+
+---
+
+An entertainment and convention center is looking for a web design partner.
+
+$75K-$125K estimated budget.
+
+A new public website covering discovery, UX/UI design, development, content migration, and post-launch support. WCAG 2.1 AA compliance and a CMS recommendation required.
 
 Proposals due June 19th if you're interested.
 
@@ -38,40 +55,24 @@ Link in comments 👇
 
 ---
 
-A metropolitan zoo is looking for a web design partner.
+A grant-making charity is looking for a design partner.
 
-$70K-$120K budget.
+$60K-$110K estimated budget.
 
-WordPress rebuild for a high-traffic public site — 20+ core templates, reusable components, content migration, and integration with existing ticketing and ecommerce. Can be scoped as a one-time project or an ongoing partnership with hosting and maintenance.
+A brand refresh and a full website redesign and rebuild — agencies can bid on one or both. The website work needs an open-source CMS and clean integrations with Salesforce, Zapier, and more.
 
-WCAG 2.2 AA accessibility required.
-
-Proposals due June 11th if you're interested.
+Proposals due June 26th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A classical public radio station is looking for a web design partner.
+A city government is looking for a web design partner.
 
-$60K budget.
+$40K-$90K estimated budget.
 
-CMS-based rebuild replacing an aging site of standalone HTML pages. Database-driven templates, multifunction search, and a persistent live audio stream that keeps playing as visitors navigate.
+A municipal website redesign with hosting, content management, and ongoing support. Scope includes ADA/WCAG accessibility, responsive design, and integration of agendas, calendars, GIS, and forms.
 
-Real performance targets attached — fast, accessible, modern.
-
-Proposals due June 5th if you're interested.
-
-Link in comments 👇
-
----
-
-An economic justice nonprofit is looking for a web design partner.
-
-$55K-$105K budget.
-
-Full eight-page redesign, including two pages built from scratch. Scope covers information architecture, CMS setup, bilingual infrastructure, content migration support, accessibility, and staff training — a mobile-first, crisis-responsive build serving five distinct audiences.
-
-Proposals due soon, so move quickly if you're interested.
+Proposals due June 9th if you're interested.
 
 Link in comments 👇
