@@ -1,78 +1,119 @@
-Four organizations looking for web design partners this week:
+Seven organizations looking for web and design partners this week:
 
-→ Financial Health App - $90K-$140K - app relaunch, design system, UX research
-→ Entertainment & Convention Center - $75K-$125K - new public website, CMS, accessibility
-→ UK Grant-Making Charity - $60K-$110K - brand refresh + website rebuild
-→ Arkansas City Government - $40K-$90K - municipal website, hosting, ongoing support
-
-Link in comments 👇
-
----
-
-Four new web design opportunities this week:
-
-→ A financial health app - $90K-$140K - app relaunch with a Figma design system
-→ A convention center - $75K-$125K - full public website with ticketing integrations
-→ A grant-making charity - $60K-$110K - brand refresh and website rebuild
-→ A city government - $40K-$90K - municipal site with hosting and support
+→ A national donor-registration nonprofit - $200K (est.) - secure platform, API integrations, data dashboards
+→ A carbon-credit registry - $130K (est.) - custom WordPress rebuild with content hubs and data viz
+→ A regional parks district - $125K (est.) - CMS redesign with recreation and records integrations
+→ A plant-science membership society - $80K - platform consolidation, member portal, searchable registry
+→ A city economic-development authority - $75K (est.) - full website build on a secure CMS
+→ A land-conservation nonprofit - $60K - website + fundraising platform with donation integrations
+→ A national advocacy nonprofit - $20K - full rebrand: logo, identity, and messaging
 
 Link in comments 👇
 
 ---
 
-Web projects worth a look this week:
+Five web projects open right now, from $60K to $200K:
 
-→ Financial Health App - $90K-$140K - app and CRM experience redesign
-→ Convention Center - $75K-$125K - new website with WCAG 2.1 AA compliance
-→ Grant-Making Charity - $60K-$110K - brand identity plus a website rebuild
-→ City Government - $40K-$90K - municipal website redesign and maintenance
-
-Link in comments 👇
-
----
-
-A financial health app is looking for a design partner.
-
-$90K-$140K budget.
-
-App relaunch with three contractor roles: product marketing strategy, user research, and a creative director to build a Figma design system for the app and CRM.
-
-Proposals due June 9th if you're interested.
+→ A national donor-registration nonprofit - $200K (est.) - secure platform with API integrations and data dashboards
+→ A carbon-credit registry - $130K (est.) - custom WordPress rebuild, content hubs, data visualizations
+→ A regional parks district - $125K (est.) - CMS redesign with recreation, sports, and records integrations
+→ A city economic-development authority - $75K (est.) - full website build on a secure CMS
+→ A land-conservation nonprofit - $60K - website plus an integrated fundraising platform
 
 Link in comments 👇
 
 ---
 
-An entertainment and convention center is looking for a web design partner.
+Nonprofits hiring web and brand partners this week:
 
-$75K-$125K estimated budget.
-
-A new public website covering discovery, UX/UI design, development, content migration, and post-launch support. WCAG 2.1 AA compliance and a CMS recommendation required.
-
-Proposals due June 19th if you're interested.
+→ A national donor-registration nonprofit - $200K (est.) - secure, multilingual registration platform
+→ A carbon-credit registry - $130K (est.) - custom WordPress rebuild with searchable content hubs
+→ A plant-science membership society - $80K - consolidating five tools into one owned platform
+→ A land-conservation nonprofit - $60K - website + fundraising and donation integrations
+→ A national advocacy nonprofit - $20K - full rebrand with new logo, identity, and messaging
 
 Link in comments 👇
 
 ---
 
-A grant-making charity is looking for a design partner.
+A national donor-registration nonprofit is hiring a web partner.
 
-$60K-$110K estimated budget.
+$200K budget (est.).
 
-A brand refresh and a full website redesign and rebuild — agencies can bid on one or both. The website work needs an open-source CMS and clean integrations with Salesforce, Zapier, and more.
+Secure, multilingual registration platform with API integrations, HIPAA-grade security, and reporting dashboards.
+
+Proposals due July 17th if you're interested.
+
+Link in comments 👇
+
+---
+
+A carbon-credit registry is looking for a web development partner.
+
+$130K budget (est.).
+
+Custom WordPress rebuild with content hubs, faceted search, data visualizations, and interactive maps.
+
+Proposals due June 25th if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional parks district needs a web partner.
+
+$125K budget (est.).
+
+CMS redesign with deep integrations to recreation registration, youth sports, and public records, plus WCAG accessibility.
+
+Proposals due June 17th if you're interested.
+
+Link in comments 👇
+
+---
+
+A plant-science membership society is looking for a development partner.
+
+$80K budget.
+
+Consolidating a fragmented stack into one owned platform: public site, member portal, searchable registry, and archive.
+
+Proposals due July 31st if you're interested.
+
+Link in comments 👇
+
+---
+
+A city economic-development authority is hiring a web team.
+
+$75K budget (est.).
+
+Full website build on a secure CMS, with an interactive development map, investor sections, and WCAG accessibility.
+
+Proposals due June 10th if you're interested.
+
+Link in comments 👇
+
+---
+
+A land-conservation nonprofit is looking for a design partner.
+
+$60K budget.
+
+Website plus fundraising platform — CMS build (WordPress, Webflow, or Craft), donation integrations, and SEO/AEO architecture.
+
+Proposals due June 12th if you're interested.
+
+Link in comments 👇
+
+---
+
+A national advocacy nonprofit needs a branding partner.
+
+$20K budget.
+
+Full rebrand: new logo, color palette, and typography, plus a messaging framework and an accessible brand toolkit.
 
 Proposals due June 26th if you're interested.
-
-Link in comments 👇
-
----
-
-A city government is looking for a web design partner.
-
-$40K-$90K estimated budget.
-
-A municipal website redesign with hosting, content management, and ongoing support. Scope includes ADA/WCAG accessibility, responsive design, and integration of agendas, calendars, GIS, and forms.
-
-Proposals due June 9th if you're interested.
 
 Link in comments 👇
