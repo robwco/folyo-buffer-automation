@@ -1,106 +1,68 @@
-Seven organizations looking for web and design partners this week:
+Five organizations looking for web design partners this week:
 
-→ A national donor-registration nonprofit - $200K (est.) - secure platform, API integrations, data dashboards
-→ A carbon-credit registry - $130K (est.) - custom WordPress rebuild with content hubs and data viz
-→ A regional parks district - $125K (est.) - CMS redesign with recreation and records integrations
-→ A plant-science membership society - $80K - platform consolidation, member portal, searchable registry
-→ A city economic-development authority - $75K (est.) - full website build on a secure CMS
-→ A land-conservation nonprofit - $60K - website + fundraising platform with donation integrations
-→ A national advocacy nonprofit - $20K - full rebrand: logo, identity, and messaging
+→ An economic development agency - $110K (est.) - full rebrand + new .gov website
+→ A township - $100K (est.) - website migration, redesign & hosting
+→ A city - $95K (est.) - new website + mobile app with CMS
+→ A hospital auxiliary - $75K (est.) - WordPress redesign with donation tools
+→ A water conservation nonprofit - $8K - interactive annual report in Canva
 
 Link in comments 👇
 
 ---
 
-Five web projects open right now, from $60K to $200K:
+This week's web design leads:
 
-→ A national donor-registration nonprofit - $200K (est.) - secure platform with API integrations and data dashboards
-→ A carbon-credit registry - $130K (est.) - custom WordPress rebuild, content hubs, data visualizations
-→ A regional parks district - $125K (est.) - CMS redesign with recreation, sports, and records integrations
-→ A city economic-development authority - $75K (est.) - full website build on a secure CMS
-→ A land-conservation nonprofit - $60K - website plus an integrated fundraising platform
-
-Link in comments 👇
-
----
-
-Nonprofits hiring web and brand partners this week:
-
-→ A national donor-registration nonprofit - $200K (est.) - secure, multilingual registration platform
-→ A carbon-credit registry - $130K (est.) - custom WordPress rebuild with searchable content hubs
-→ A plant-science membership society - $80K - consolidating five tools into one owned platform
-→ A land-conservation nonprofit - $60K - website + fundraising and donation integrations
-→ A national advocacy nonprofit - $20K - full rebrand with new logo, identity, and messaging
+→ An economic development agency rebranding with a new .gov site - $110K (est.)
+→ A township migrating and rebuilding its municipal site - $100K (est.)
+→ A city launching a new website + mobile app - $95K (est.)
+→ A hospital auxiliary redesigning on WordPress - $75K (est.)
+→ A water conservation nonprofit refreshing its annual report - $8K
 
 Link in comments 👇
 
 ---
 
-A national donor-registration nonprofit is hiring a web partner.
+Five new web projects on agencies' radar this week:
 
-$200K budget (est.).
-
-Secure, multilingual registration platform with API integrations, HIPAA-grade security, and reporting dashboards.
-
-Proposals due July 17th if you're interested.
-
-Link in comments 👇
-
----
-
-A carbon-credit registry is looking for a web development partner.
-
-$130K budget (est.).
-
-Custom WordPress rebuild with content hubs, faceted search, data visualizations, and interactive maps.
-
-Proposals due June 25th if you're interested.
+→ Full rebrand + open-source CMS site on a .gov domain - $110K (est.)
+→ Municipal website migration, redesign & hosting - $100K (est.)
+→ New city website with a companion mobile app - $95K (est.)
+→ WordPress redesign with donation integration - $75K (est.)
+→ Interactive annual report built in Canva - $8K
 
 Link in comments 👇
 
 ---
 
-A regional parks district needs a web partner.
+An economic development agency is looking for a branding and web partner.
 
-$125K budget (est.).
+$110K (est.) budget.
 
-CMS redesign with deep integrations to recreation registration, youth sports, and public records, plus WCAG accessibility.
+Full rebrand plus a new open-source CMS website on a .gov domain, with content migration, SEO, and lead-capture forms.
 
-Proposals due June 17th if you're interested.
-
-Link in comments 👇
-
----
-
-A plant-science membership society is looking for a development partner.
-
-$80K budget.
-
-Consolidating a fragmented stack into one owned platform: public site, member portal, searchable registry, and archive.
-
-Proposals due July 31st if you're interested.
+Proposals due June 18th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A city economic-development authority is hiring a web team.
+A township is looking for a web partner.
 
-$75K budget (est.).
+$100K (est.) budget.
 
-Full website build on a secure CMS, with an interactive development map, investor sections, and WCAG accessibility.
+Website migration, redesign, hosting, and maintenance, with user-centered design and WCAG 2.1 AA compliance.
 
-Proposals due June 10th if you're interested.
+Proposals due June 26th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A land-conservation nonprofit is looking for a design partner.
+A city is looking for a web partner.
 
-$60K budget.
+$95K (est.) budget.
 
-Website plus fundraising platform — CMS build (WordPress, Webflow, or Craft), donation integrations, and SEO/AEO architecture.
+A new municipal website and mobile app with an easy-to-update CMS, online payments, and ADA compliance.
 
 Proposals due June 12th if you're interested.
 
@@ -108,12 +70,24 @@ Link in comments 👇
 
 ---
 
-A national advocacy nonprofit needs a branding partner.
+A hospital auxiliary is looking for a web partner.
 
-$20K budget.
+$75K (est.) budget.
 
-Full rebrand: new logo, color palette, and typography, plus a messaging framework and an accessible brand toolkit.
+A WordPress redesign with a mobile-first build, integrated donation and contact features, and SEO.
 
-Proposals due June 26th if you're interested.
+Proposals due June 25th if you're interested.
+
+Link in comments 👇
+
+---
+
+A water conservation nonprofit is looking for a design partner.
+
+$8K budget.
+
+An interactive online annual report built in Canva, with charts and graphs that sync to a master data spreadsheet.
+
+Proposals due June 19th if you're interested.
 
 Link in comments 👇
