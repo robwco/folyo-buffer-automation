@@ -1,93 +1,72 @@
-Five organizations looking for web design partners this week:
+Four organizations looking for web design partners this week:
 
-→ An economic development agency - $110K (est.) - full rebrand + new .gov website
-→ A township - $100K (est.) - website migration, redesign & hosting
-→ A city - $95K (est.) - new website + mobile app with CMS
-→ A hospital auxiliary - $75K (est.) - WordPress redesign with donation tools
-→ A water conservation nonprofit - $8K - interactive annual report in Canva
-
-Link in comments 👇
-
----
-
-This week's web design leads:
-
-→ An economic development agency rebranding with a new .gov site - $110K (est.)
-→ A township migrating and rebuilding its municipal site - $100K (est.)
-→ A city launching a new website + mobile app - $95K (est.)
-→ A hospital auxiliary redesigning on WordPress - $75K (est.)
-→ A water conservation nonprofit refreshing its annual report - $8K
+→ A university online education division - $125K (est.) - website ecosystem redesign with AI search optimization
+→ A construction project data platform - $100K - custom database application build
+→ A disability services nonprofit - $90K (est.) - accessibility-focused website redesign
+→ A regional public health agency - $80K - bilingual website redesign
 
 Link in comments 👇
 
 ---
 
-Five new web projects on agencies' radar this week:
+This week's web project leads are live.
 
-→ Full rebrand + open-source CMS site on a .gov domain - $110K (est.)
-→ Municipal website migration, redesign & hosting - $100K (est.)
-→ New city website with a companion mobile app - $95K (est.)
-→ WordPress redesign with donation integration - $75K (est.)
-→ Interactive annual report built in Canva - $8K
+→ Higher-ed online program - $125K (est.) - full website ecosystem rebuild + AI discoverability
+→ Construction data company - $100K - custom database platform with mapping + integrations
+→ Nonprofit for people with diverse abilities - $90K (est.) - WCAG/JAWS accessible redesign
+→ Public health agency - $80K - bilingual (EN/FR) site redesign
+
+Agencies, take your pick. Link in comments 👇
+
+---
+
+$395K+ in web design work on the table this week:
+
+→ $125K (est.) - a university online division needs a website ecosystem redesign built for AI-driven search
+→ $100K - a construction data platform needs a custom database application
+→ $90K (est.) - a disability services nonprofit needs an accessibility-first redesign
+→ $80K - a public health agency needs a bilingual website rebuild
 
 Link in comments 👇
 
 ---
 
-An economic development agency is looking for a branding and web partner.
+A university's online education division is looking for a web design partner.
 
-$110K (est.) budget.
+$125K estimated budget.
 
-Full rebrand plus a new open-source CMS website on a .gov domain, with content migration, SEO, and lead-capture forms.
+Full website ecosystem redesign, built for conversion and optimized for AI-driven search (SEO, AEO, GEO).
 
-Proposals due June 18th if you're interested.
-
-Link in comments 👇
-
----
-
-A township is looking for a web partner.
-
-$100K (est.) budget.
-
-Website migration, redesign, hosting, and maintenance, with user-centered design and WCAG 2.1 AA compliance.
-
-Proposals due June 26th if you're interested.
+Higher-ed and large-organization experience preferred.
 
 Link in comments 👇
 
 ---
 
-A city is looking for a web partner.
+A construction project data platform is looking for a development partner.
 
-$95K (est.) budget.
+$100K budget.
 
-A new municipal website and mobile app with an easy-to-update CMS, online payments, and ADA compliance.
+Custom database application to track projects from planning to completion, with strong mapping, multi-role access, and integrations with Salesforce, Deltek, and users' own AI tools.
 
-Proposals due June 12th if you're interested.
+Two-step RFP process. Link in comments 👇
+
+---
+
+A nonprofit supporting people with diverse abilities is looking for a web design partner.
+
+$90K estimated budget.
+
+Accessibility-focused website redesign with WCAG/JAWS compliance, a user-friendly CMS, online donation integration, and SEO.
 
 Link in comments 👇
 
 ---
 
-A hospital auxiliary is looking for a web partner.
+A regional public health agency is looking for a web design partner.
 
-$75K (est.) budget.
+$80K budget.
 
-A WordPress redesign with a mobile-first build, integrated donation and contact features, and SEO.
-
-Proposals due June 25th if you're interested.
-
-Link in comments 👇
-
----
-
-A water conservation nonprofit is looking for a design partner.
-
-$8K budget.
-
-An interactive online annual report built in Canva, with charts and graphs that sync to a master data spreadsheet.
-
-Proposals due June 19th if you're interested.
+Bilingual (English/French) website redesign focused on accessibility (WCAG 2.2 AA), UX, and simplified content management.
 
 Link in comments 👇
