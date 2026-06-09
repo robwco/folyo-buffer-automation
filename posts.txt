@@ -1,72 +1,120 @@
-Four organizations looking for web design partners this week:
+Eight organizations looking for web design and branding partners this week:
 
-→ A university online education division - $125K (est.) - website ecosystem redesign with AI search optimization
-→ A construction project data platform - $100K - custom database application build
-→ A disability services nonprofit - $90K (est.) - accessibility-focused website redesign
-→ A regional public health agency - $80K - bilingual website redesign
-
-Link in comments 👇
-
----
-
-This week's web project leads are live.
-
-→ Higher-ed online program - $125K (est.) - full website ecosystem rebuild + AI discoverability
-→ Construction data company - $100K - custom database platform with mapping + integrations
-→ Nonprofit for people with diverse abilities - $90K (est.) - WCAG/JAWS accessible redesign
-→ Public health agency - $80K - bilingual (EN/FR) site redesign
-
-Agencies, take your pick. Link in comments 👇
-
----
-
-$395K+ in web design work on the table this week:
-
-→ $125K (est.) - a university online division needs a website ecosystem redesign built for AI-driven search
-→ $100K - a construction data platform needs a custom database application
-→ $90K (est.) - a disability services nonprofit needs an accessibility-first redesign
-→ $80K - a public health agency needs a bilingual website rebuild
+→ Immigration legal nonprofit - $200K - iOS/Android training app with AI scenario trainer
+→ Regional tourism organization - $125K - full rebrand + website coordination
+→ Community improvement district - $120K - brand assessment + website redevelopment
+→ Human services nonprofit - $110K - WordPress redesign, CRM + donation integration, hosting
+→ Village government - $100K - municipal site redesign, CMS, hosting, integrations
+→ Small municipality - $90K - municipal redesign + hosting, optional AI chatbot
+→ Climate justice nonprofit - $85K - website redesign + Squarespace migration
+→ Workforce development org - $50K - bilingual WordPress build (English/French)
 
 Link in comments 👇
 
 ---
 
-A university's online education division is looking for a web design partner.
+Five of this week's higher-budget RFPs for web and brand teams:
 
-$125K estimated budget.
-
-Full website ecosystem redesign, built for conversion and optimized for AI-driven search (SEO, AEO, GEO).
-
-Higher-ed and large-organization experience preferred.
+→ Immigration legal nonprofit - $200K - secure mobile app with AI training tools
+→ Regional tourism organization - $125K - complete rebrand and identity system
+→ Community improvement district - $120K - brand work plus website redevelopment
+→ Human services nonprofit - $110K - WordPress build with CRM and donation tools
+→ Village government - $100K - full municipal site redesign with hosting
 
 Link in comments 👇
 
 ---
 
-A construction project data platform is looking for a development partner.
+An immigration legal nonprofit is looking for a development partner.
+
+$200K budget.
+
+Secure iOS/Android app with an AI-assisted training simulator, a legal navigator, and a job board.
+
+Proposals due June 26th if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional tourism organization is looking for a branding partner.
+
+$125K budget.
+
+Full rebrand: visual identity system, messaging framework, collateral, and a rollout plan tied to a planned website redesign.
+
+Proposals due July 1st if you're interested.
+
+Link in comments 👇
+
+---
+
+A downtown community improvement district is looking for a design partner.
+
+$120K budget.
+
+Brand assessment plus a full website redevelopment, with environmental graphics and an implementation roadmap.
+
+Proposals due June 29th if you're interested.
+
+Link in comments 👇
+
+---
+
+A human services nonprofit is looking for a web partner.
+
+$110K budget.
+
+WordPress redesign with CRM and donation integration, program forms, SEO, and a scalable resource portal, plus hosting and maintenance.
+
+Proposals due July 9th if you're interested.
+
+Link in comments 👇
+
+---
+
+A village government is looking for a web partner.
 
 $100K budget.
 
-Custom database application to track projects from planning to completion, with strong mapping, multi-role access, and integrations with Salesforce, Deltek, and users' own AI tools.
+Municipal website redesign with CMS, secure hosting, content migration, and integrations with their existing software platforms.
 
-Two-step RFP process. Link in comments 👇
-
----
-
-A nonprofit supporting people with diverse abilities is looking for a web design partner.
-
-$90K estimated budget.
-
-Accessibility-focused website redesign with WCAG/JAWS compliance, a user-friendly CMS, online donation integration, and SEO.
+Proposals due June 19th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A regional public health agency is looking for a web design partner.
+A small municipality is looking for a web partner.
 
-$80K budget.
+$90K budget.
 
-Bilingual (English/French) website redesign focused on accessibility (WCAG 2.2 AA), UX, and simplified content management.
+Website redesign and hosting on a flexible CMS, with predictive search, document migration, and optional AI chatbot and mobile app.
+
+Proposals due July 2nd if you're interested.
+
+Link in comments 👇
+
+---
+
+A climate justice nonprofit is looking for a web partner.
+
+$85K budget.
+
+Website redesign with a Squarespace-to-CMS migration, accessibility compliance, SEO, and post-launch maintenance.
+
+Proposals due July 1st if you're interested.
+
+Link in comments 👇
+
+---
+
+A workforce development organization is looking for a web partner.
+
+$50K budget.
+
+A fully bilingual (English/French) custom WordPress build with partner landing pages and accessibility compliance.
+
+Proposals due June 15th if you're interested.
 
 Link in comments 👇
