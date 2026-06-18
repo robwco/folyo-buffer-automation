@@ -1,68 +1,55 @@
-Five organizations looking for agency partners this week:
+Seven organizations looking for web design partners this week:
 
-→ Destination Marketing Org - $300K - agency of record, media buying + campaigns
-→ Women's Sport Nonprofit - $110K - instructional + UX design, LMS overhaul
-→ Small City Government - $95K - website redesign, CMS + full accessibility
-→ Regional Tourism Org - $50K - brand refresh + multi-year campaign
-→ Research Nonprofit - $25K - report design, data viz + InDesign
-
-Link in comments 👇
-
----
-
-New RFPs on the board this week. Five orgs hiring agencies:
-
-→ $300K ... destination marketing agency of record (media + campaigns)
-→ $110K ... instructional + UX design for a full LMS overhaul
-→ $95K ... municipal website redesign (CMS + WCAG/Section 508)
-→ $50K ... brand refresh + multi-year campaign for a tourism org
-→ $25K ... national research report design with data viz
-
-Which one fits your shop? Link in comments 👇
-
----
-
-A destination marketing org is looking for a marketing and advertising agency of record.
-
-$300K budget.
-
-Brand strategy, media planning and buying, integrated campaigns, and monthly content production.
-
-Proposals due June 29th if you're interested.
+→ Midwest City Government - $95K (est.) - municipal redesign, GIS integration, hosting
+→ Therapy Training Institute - $90K (est.) - multi-channel campaign content + execution
+→ New England Town - $75K (est.) - municipal site, payment portal, accessibility
+→ National Advocacy Org - $60K (est.) - ongoing WordPress/Elementor production
+→ Statewide Education Association - $45K (est.) - logo redesign + full brand identity
+→ Global Health NGO Network - $15K - website rebuild + CRM integration
+→ Statewide Prevention Coalition - $7K (est.) - public data dashboard + GIS/data viz
 
 Link in comments 👇
 
 ---
 
-A women's sport nonprofit is looking for an instructional and UX design partner.
+Four web builds looking for agencies this week:
 
-$110K budget.
-
-Transforming 20+ existing modules into a scalable, learner-centered digital learning experience, plus LMS-readiness advisory.
-
-Proposals due June 19th if you're interested.
-
-Link in comments 👇
-
----
-
-A small city government is looking for a web design partner.
-
-$95K budget.
-
-Full website redesign on a modern CMS with content migration, WCAG 2.1 AA and Section 508 compliance, SEO, and staff training.
-
-Proposals due June 26th if you're interested.
+→ Midwest City Government - $95K (est.) - municipal redesign, GIS, hosting
+→ New England Town - $75K (est.) - new municipal site, payment portal
+→ National Advocacy Org - $60K (est.) - WordPress/Elementor production
+→ Global Health NGO Network - $15K - website rebuild + CRM integration
 
 Link in comments 👇
 
 ---
 
-A regional tourism org is looking for a brand and campaign partner.
+Three creative + data projects open for proposals right now:
 
-$50K budget.
+→ Therapy Training Institute - $90K (est.) - multi-channel campaign content
+→ Statewide Education Association - $45K (est.) - logo redesign + brand identity
+→ Statewide Prevention Coalition - $7K (est.) - public data dashboard + data viz
 
-Brand refresh, full visual identity system, web-ready handoff package, and a multi-year campaign platform.
+Link in comments 👇
+
+---
+
+A Midwest city government is looking for a web design partner.
+
+Estimated $95K budget.
+
+Full municipal redesign with GIS integration, online payments, and hosting.
+
+Proposals due July 8th if you're interested.
+
+Link in comments 👇
+
+---
+
+A therapy training institute is looking for a marketing partner.
+
+Estimated $90K budget.
+
+Multi-channel campaign content and execution across web, email, social, and paid media.
 
 Proposals due July 1st if you're interested.
 
@@ -70,12 +57,60 @@ Link in comments 👇
 
 ---
 
-A national research nonprofit is looking for a report design partner.
+A New England town is looking for a web design partner.
 
-$25K budget.
+Estimated $75K budget.
 
-Designing three research reports with charts, infographics, and maps, delivered as accessible PDFs and packaged InDesign files.
+New municipal site with a secure payment portal, content migration, and WCAG 2.1 AA accessibility.
+
+Proposals due July 31st if you're interested.
+
+Link in comments 👇
+
+---
+
+A national advocacy organization is looking for a web design partner.
+
+Estimated $60K budget.
+
+Ongoing WordPress and Elementor production and front-end build work for a high-traffic member site.
+
+Proposals due June 22nd if you're interested.
+
+Link in comments 👇
+
+---
+
+A statewide education association is looking for a design partner.
+
+Estimated $45K budget.
+
+Logo redesign plus a full brand identity system, style guide, and marketing templates.
+
+Proposals due July 31st if you're interested.
+
+Link in comments 👇
+
+---
+
+A global health NGO network is looking for a web design partner.
+
+~$15K budget.
+
+Website rebuild on an open CMS with CRM integration, a member directory, and a resource library.
 
 Proposals due June 30th if you're interested.
+
+Link in comments 👇
+
+---
+
+A statewide prevention coalition is looking for a design partner.
+
+Estimated $7K budget.
+
+A public-facing data dashboard with statewide trend visualizations and GIS mapping.
+
+Proposals due June 24th if you're interested.
 
 Link in comments 👇
