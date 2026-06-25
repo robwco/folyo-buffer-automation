@@ -1,32 +1,48 @@
-Five organizations looking for web design partners this week:
+Seven organizations looking for web design partners this week:
 
-→ Education Nonprofit - $186K - full website redesign, 46-chapter CMS
-→ Transportation Agency - $144K - carpool matching web + mobile app
-→ County Library System - $125K - website redesign, branding, PR + media
-→ Town Government - $90K - municipal website + hosting
-→ Children & Families Nonprofit - $60K - branding + website redesign
-
-Link in comments 👇
-
----
-
-A national education nonprofit is looking for a web partner.
-
-$186K budget.
-
-Full website redesign serving educators, funders, and a network of 46 state chapters... design system, content migration, accessibility, and CMS architecture. Open to moving off their current WordPress Multisite.
-
-Proposals due July 16th if you're interested.
+→ A clean transportation nonprofit - $200K - web-based cost calculator expanded to six global regions
+→ A regional transportation agency - $144K - carpool matching web + mobile app
+→ A K-12 charter school network - $100K - multi-campus website redesign + hosting
+→ An anti-poverty nonprofit - $90K - accessibility-focused WordPress redesign
+→ A universal pre-K program - $80K - WordPress redesign with multilingual support
+→ A healthcare regulator - $70K CAD - bilingual website redesign
+→ A regional government association - $50K - full organizational rebrand
 
 Link in comments 👇
 
 ---
 
-A regional transportation agency is looking for a web partner.
+New web design and development opportunities this week:
+
+→ A clean transportation nonprofit - $200K - localizing a web-based calculator tool for six new regions
+→ A regional transportation agency - $144K - carpool matching platform with iOS/Android apps
+→ A K-12 charter school network - $100K - enrollment-focused redesign across six campuses
+→ An anti-poverty nonprofit - $90K - WordPress redesign with donation + CRM integrations
+→ A universal pre-K program - $80K - fresh, mobile-friendly WordPress build
+→ A healthcare regulator - $70K CAD - English/French bilingual site
+→ A regional government association - $50K - logo, brand standards, and templates
+
+Link in comments 👇
+
+---
+
+A clean transportation nonprofit is looking for a web development partner.
+
+$200K budget.
+
+They want to expand their web-based cost-of-ownership calculator to six new global regions, with currency, units, and language localization for each.
+
+Proposals due July 10th if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional transportation agency is looking for a web and mobile development partner.
 
 $144K budget.
 
-A real-time carpool matching platform... website plus iOS/Android app, migrating 17,000+ existing users. Multimodal trip planning, emissions tracking, rewards, and scalability to 50,000 users.
+A real-time carpool matching service for 17,000+ users, with trip planning, emissions tracking, rewards, and native iOS and Android apps.
 
 Proposals due July 20th if you're interested.
 
@@ -34,23 +50,23 @@ Link in comments 👇
 
 ---
 
-A county library system is looking for a design partner.
+A K-12 charter school network is looking for a web design partner.
 
-$125K budget.
+$100K budget.
 
-Shared website redesign with CMS across 9 locations, plus a full branding and logo refresh, PR coordination, and a geo-targeted media campaign. Web, brand, and marketing under one roof.
+A website redesign across six campuses with a multi-site CMS, enrollment-focused design, secure hosting, and ongoing support.
 
-Proposals due June 26th if you're interested.
+Proposals due July 10th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A town government is looking for a web partner.
+An anti-poverty nonprofit is looking for a web design partner.
 
 $90K budget.
 
-A modern municipal website with design, development, launch, and hosting. Open-meeting and transparency pages, zoning and permitting forms, a secure payment portal, accessibility compliance, and content migration.
+An accessibility-focused WordPress redesign with a program-application feature, donation processing, and CRM and social media integrations.
 
 Proposals due July 31st if you're interested.
 
@@ -58,12 +74,36 @@ Link in comments 👇
 
 ---
 
-A children & families nonprofit is looking for a design partner.
+A universal pre-K program is looking for a web design partner.
 
-$60K budget.
+$80K budget.
 
-A brand refresh plus website redesign and hosting, with a phased engagement covering brand strategy, design and development, launch optimization, accessibility, and a CMS for ongoing content.
+A fresh, mobile-friendly WordPress redesign on an open-source CMS, with WCAG 2.2 AA compliance, multilingual translation, and donation-page integration.
 
-Proposals due July 10th if you're interested.
+Proposals due July 13th if you're interested.
+
+Link in comments 👇
+
+---
+
+A healthcare regulator is looking for a web design partner.
+
+$70K CAD budget.
+
+A full website redesign with audience-focused navigation, fully bilingual English/French functionality, accessibility compliance, and content migration.
+
+Proposals due August 11th if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional government association is looking for a branding partner.
+
+$50K budget.
+
+A full organizational rebrand including logo redesign, brand standards, email signatures, business cards, stationery, and presentation templates.
+
+Proposals due July 8th if you're interested.
 
 Link in comments 👇
