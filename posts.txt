@@ -1,84 +1,73 @@
-Seven organizations looking for web design partners this week:
+Nine organizations looking for web design partners this week:
 
-→ A clean transportation nonprofit - $200K - web-based cost calculator expanded to six global regions
-→ A regional transportation agency - $144K - carpool matching web + mobile app
-→ A K-12 charter school network - $100K - multi-campus website redesign + hosting
-→ An anti-poverty nonprofit - $90K - accessibility-focused WordPress redesign
-→ A universal pre-K program - $80K - WordPress redesign with multilingual support
-→ A healthcare regulator - $70K CAD - bilingual website redesign
-→ A regional government association - $50K - full organizational rebrand
-
-Link in comments 👇
-
----
-
-New web design and development opportunities this week:
-
-→ A clean transportation nonprofit - $200K - localizing a web-based calculator tool for six new regions
-→ A regional transportation agency - $144K - carpool matching platform with iOS/Android apps
-→ A K-12 charter school network - $100K - enrollment-focused redesign across six campuses
-→ An anti-poverty nonprofit - $90K - WordPress redesign with donation + CRM integrations
-→ A universal pre-K program - $80K - fresh, mobile-friendly WordPress build
-→ A healthcare regulator - $70K CAD - English/French bilingual site
-→ A regional government association - $50K - logo, brand standards, and templates
+→ Art & Design College - $60K-$110K - ongoing WordPress development + accessibility support
+→ Regional Planning Council - $50K-$100K - website redesign, development & hosting
+→ Tech Association - $40K-$90K - website + member platform & event management
+→ Academic Health Institute - $80K-$130K - audience-first redesign with data viz
+→ Vermont Municipality - $50K-$100K - municipal site build with payment portal
+→ Native Plant Society - $50K - database modernization discovery & planning
+→ Municipal Federation - $40K-$90K - template-based municipal website service
+→ Economic Development Nonprofit - $40K - interactive web calculator tool
+→ Community Development Corp - $15K - community website design & build
 
 Link in comments 👇
 
 ---
 
-A clean transportation nonprofit is looking for a web development partner.
+Six new organizations looking for web partners right now:
 
-$200K budget.
-
-They want to expand their web-based cost-of-ownership calculator to six new global regions, with currency, units, and language localization for each.
-
-Proposals due July 10th if you're interested.
-
-Link in comments 👇
-
----
-
-A regional transportation agency is looking for a web and mobile development partner.
-
-$144K budget.
-
-A real-time carpool matching service for 17,000+ users, with trip planning, emissions tracking, rewards, and native iOS and Android apps.
-
-Proposals due July 20th if you're interested.
+→ Art & Design College - $60K-$110K - WordPress retainer on Pantheon
+→ Academic Health Institute - $80K-$130K - WordPress or Drupal redesign
+→ Vermont Municipality - $50K-$100K - municipal website + hosting
+→ Tech Association - $40K-$90K - website + member portal & CRM integration
+→ Native Plant Society - $50K - database & GIS modernization
+→ Economic Development Nonprofit - $40K - web-based impact calculator
 
 Link in comments 👇
 
 ---
 
-A K-12 charter school network is looking for a web design partner.
+Five organizations need web design help this week:
 
-$100K budget.
-
-A website redesign across six campuses with a multi-site CMS, enrollment-focused design, secure hosting, and ongoing support.
-
-Proposals due July 10th if you're interested.
-
-Link in comments 👇
-
----
-
-An anti-poverty nonprofit is looking for a web design partner.
-
-$90K budget.
-
-An accessibility-focused WordPress redesign with a program-application feature, donation processing, and CRM and social media integrations.
-
-Proposals due July 31st if you're interested.
+→ Regional Planning Council - $50K-$100K - redesign with member portal & SharePoint
+→ Municipal Federation - $40K-$90K - template-based municipal site service
+→ Academic Health Institute - $80K-$130K - taxonomy-driven redesign with rich media
+→ Economic Development Nonprofit - $40K - interactive calculator on Squarespace
+→ Community Development Corp - $15K - mobile-first community website
 
 Link in comments 👇
 
 ---
 
-A universal pre-K program is looking for a web design partner.
+An Art & Design College is looking for a web development partner.
 
-$80K budget.
+$60K-$110K budget.
 
-A fresh, mobile-friendly WordPress redesign on an open-source CMS, with WCAG 2.2 AA compliance, multilingual translation, and donation-page integration.
+Ongoing WordPress support on Pantheon: maintenance, security, WCAG 2.2 AA accessibility remediation, custom theme work, and integrations.
+
+Proposals due July 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Regional Planning Council is looking for a web partner.
+
+$50K-$100K budget.
+
+Website redesign, development, and hosting with a flexible CMS, role-based access, SharePoint integration, and a member portal.
+
+Proposals due July 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Tech Association is looking for a design partner.
+
+$40K-$90K budget.
+
+Responsive website plus a member platform with logins, renewals, event management, and HubSpot CRM integration.
 
 Proposals due July 13th if you're interested.
 
@@ -86,24 +75,72 @@ Link in comments 👇
 
 ---
 
-A healthcare regulator is looking for a web design partner.
+An Academic Health Institute is looking for a web design partner.
 
-$70K CAD budget.
+$80K-$130K budget.
 
-A full website redesign with audience-focused navigation, fully bilingual English/French functionality, accessibility compliance, and content migration.
+Full redesign in WordPress or Drupal, built audience-first with a robust taxonomy system, data visualizations, video, and impact storytelling.
 
-Proposals due August 11th if you're interested.
+Proposals due July 25th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A regional government association is looking for a branding partner.
+A Vermont Municipality is looking for a web partner.
+
+$50K-$100K budget.
+
+Municipal website design, development, and hosting with a stable CMS, WCAG 2.1 AA compliance, a secure payment portal, and content migration.
+
+Proposals due July 31st if you're interested.
+
+Link in comments 👇
+
+---
+
+A Native Plant Society is looking for a technical partner.
 
 $50K budget.
 
-A full organizational rebrand including logo redesign, brand standards, email signatures, business cards, stationery, and presentation templates.
+Discovery and planning to modernize and integrate three public databases plus GIS datasets, with architecture recommendations and a phased roadmap.
 
-Proposals due July 8th if you're interested.
+Proposals due July 13th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Municipal Federation is looking for a web partner.
+
+$40K-$90K budget.
+
+Template-based municipal website service: accessible, mobile-friendly templates with an easy-to-use CMS, secure hosting, training, and optional online payments.
+
+Proposals due July 31st if you're interested.
+
+Link in comments 👇
+
+---
+
+An Economic Development Nonprofit is looking for a web developer.
+
+$40K budget.
+
+An interactive web-based calculator tool embedded on their Squarespace site, turning data inputs into quantified projections. Methodology and build scopes can be bid together or separately.
+
+Proposals due July 10th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Community Development Corp is looking for a design partner.
+
+$15K budget.
+
+A modern, mobile-responsive community website with a custom design, CMS, business directory, events calendar, content migration, and SEO.
+
+Proposals due July 10th if you're interested.
 
 Link in comments 👇
