@@ -1,78 +1,71 @@
-Four organizations looking for web partners this week:
+Five organizations looking for web and creative partners this week:
 
-→ Charter School Network - $170K - full redesign, school directory, careers integration
-→ Resilience Nonprofit - $125K - WordPress enhancements + marketing/multimedia
-→ Financial Education Nonprofit - $95K - web app maintenance on AWS serverless
-→ Senior Services Nonprofit - $25K - website strategy + branding
-
-Link in comments 👇
-
----
-
-Four new web design and development leads this week:
-
-→ A nine-campus charter school network - $170K - website redesign with a searchable school directory
-→ A coastal resilience nonprofit - $125K - WordPress site enhancements plus marketing and video
-→ A youth financial education nonprofit - $95K - ongoing support for a Next.js/AWS platform
-→ An organization serving older adults - $25K - website strategy and brand development
+→ Family Medicine Association - $150K - WordPress redesign + searchable Resource Hub
+→ Sports Foundation - $60K-$110K - two-year creative + graphic design retainer
+→ City Government - $50K-$100K - municipal + tourism site redesign, hosting, maintenance
+→ County Government - $40K-$90K - hosting, support, accessibility remediation
+→ Scholarship Program - $35K-$85K - WordPress maintenance + ongoing development
 
 Link in comments 👇
 
 ---
 
-Web work up for grabs this week:
+Web design partners, take note. Five new opportunities this week:
 
-→ Charter school network - $170K - redesign + information architecture + SEO/AEO
-→ Flood resilience nonprofit - $125K - WordPress + analytics + content
-→ Financial literacy nonprofit - $95K - AWS serverless maintenance retainer
-→ Aging services nonprofit - $25K - website strategy + messaging
-
-Link in comments 👇
-
----
-
-A charter school network is looking for a web design partner.
-
-$170K budget.
-
-Full website redesign for a nine-campus system, including a searchable school directory, careers microsite integration, SEO/AEO optimization, and ADA-compliant responsive design.
-
-Proposals due July 31st if you're interested.
+→ A physician association - $150K - full redesign built around a searchable Resource Hub
+→ A sports foundation - $60K-$110K - branding, campaigns, and creative retainer
+→ A city - $50K-$100K - redesign of its municipal and tourism sites on an open CMS
+→ A county - $40K-$90K - hosting plus WCAG 2.1 AA accessibility work
+→ A national scholarship program - $35K-$85K - ongoing WordPress maintenance and dev
 
 Link in comments 👇
 
 ---
 
-A coastal resilience nonprofit is looking for a web partner.
+A family medicine association is looking for a web partner.
 
-$125K budget.
+$150K budget.
 
-WordPress site enhancements and ongoing support, with optional marketing, social media, graphic design, and video production. Bid one service area or several.
-
-Proposals due July 10th if you're interested.
+Full WordPress redesign and UX overhaul, with a searchable, filterable Resource Hub as the flagship deliverable. Includes migrating PDF-heavy content to accessible web pages plus event registration integrations.
 
 Link in comments 👇
 
 ---
 
-A youth financial education nonprofit is looking for a development partner.
+A sports foundation is looking for a creative partner.
 
-$95K budget.
+$60K-$110K budget.
 
-Ongoing maintenance and support for a web app built on Next.js/React and AWS serverless (Lambda, API Gateway, Cognito, PostgreSQL), including a clean transition from the outgoing vendor and a monthly retainer.
-
-Proposals due July 24th if you're interested.
+Two-year creative and graphic design retainer covering branding, gameday collateral, campaign planning, digital and social creative, and motion design. Modular scope, so you can bid on one or more categories.
 
 Link in comments 👇
 
 ---
 
-An organization serving older adults is looking for a design partner.
+A city government is looking for a web partner.
 
-$25K budget.
+$50K-$100K budget.
 
-Website strategy and recommendations (architecture, UX, accessibility, SEO, online intake) delivered alongside brand development, a communications plan, and marketing templates.
+Redesign, hosting, and maintenance of its municipal and tourism sites on an open CMS like WordPress, plus a code enforcement software integration and staff training.
 
-Proposals due July 16th if you're interested.
+Link in comments 👇
+
+---
+
+A county government is looking for a web partner.
+
+$40K-$90K budget.
+
+Hosting, support, and accessibility remediation for its public site, including content migration and WCAG 2.1 AA / ADA Title II compliance across both pages and posted PDFs.
+
+Link in comments 👇
+
+---
+
+A national scholarship program is looking for a web partner.
+
+$35K-$85K budget.
+
+Full-service maintenance and ongoing development of its WordPress site, covering backups, updates, security, SEO, analytics, and WCAG 2.1 AA accessibility, plus new page and template design.
 
 Link in comments 👇
