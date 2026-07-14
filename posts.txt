@@ -1,71 +1,69 @@
-Five organizations looking for web and creative partners this week:
+Five organizations looking for agency partners this week:
 
-→ Family Medicine Association - $150K - WordPress redesign + searchable Resource Hub
-→ Sports Foundation - $60K-$110K - two-year creative + graphic design retainer
-→ City Government - $50K-$100K - municipal + tourism site redesign, hosting, maintenance
-→ County Government - $40K-$90K - hosting, support, accessibility remediation
-→ Scholarship Program - $35K-$85K - WordPress maintenance + ongoing development
-
-Link in comments 👇
-
----
-
-Web design partners, take note. Five new opportunities this week:
-
-→ A physician association - $150K - full redesign built around a searchable Resource Hub
-→ A sports foundation - $60K-$110K - branding, campaigns, and creative retainer
-→ A city - $50K-$100K - redesign of its municipal and tourism sites on an open CMS
-→ A county - $40K-$90K - hosting plus WCAG 2.1 AA accessibility work
-→ A national scholarship program - $35K-$85K - ongoing WordPress maintenance and dev
+→ International Education Nonprofit - $150K - 5-year web design + hosting vendor pool
+→ Washington Public Utility - $110K - full website modernization with CMS
+→ Senior Services Nonprofit - $110K - 500-page WordPress redesign
+→ National Youth Crisis Nonprofit - $100K - brand strategy + naming engagement
+→ National Health Nonprofit - $20K - website redesign with SEO/AI focus
 
 Link in comments 👇
 
 ---
 
-A family medicine association is looking for a web partner.
+A global education nonprofit is building a preferred vendor pool for web design and hosting.
 
-$150K budget.
+$100K-$150K estimated budget. Five-year performance period.
 
-Full WordPress redesign and UX overhaul, with a searchable, filterable Resource Hub as the flagship deliverable. Includes migrating PDF-heavy content to accessible web pages plus event registration integrations.
+AI-enabled site experiences, enterprise integrations (Dynamics, Okta, Stripe), WCAG 2.1 AA compliance.
 
-Link in comments 👇
-
----
-
-A sports foundation is looking for a creative partner.
-
-$60K-$110K budget.
-
-Two-year creative and graphic design retainer covering branding, gameday collateral, campaign planning, digital and social creative, and motion design. Modular scope, so you can bid on one or more categories.
+Proposals due August 10th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A city government is looking for a web partner.
+A Washington public utility is looking for a web partner to modernize its website.
 
-$50K-$100K budget.
+$60K-$110K estimated budget.
 
-Redesign, hosting, and maintenance of its municipal and tourism sites on an open CMS like WordPress, plus a code enforcement software integration and staff training.
+ADA-compliant design, SmartHub integration, fillable forms, flexible CMS — plus optional AI chat and interactive service-area mapping.
 
-Link in comments 👇
-
----
-
-A county government is looking for a web partner.
-
-$40K-$90K budget.
-
-Hosting, support, and accessibility remediation for its public site, including content migration and WCAG 2.1 AA / ADA Title II compliance across both pages and posted PDFs.
+Proposals due July 23rd if you're interested.
 
 Link in comments 👇
 
 ---
 
-A national scholarship program is looking for a web partner.
+A senior services nonprofit is looking for a partner for a comprehensive website redesign.
 
-$35K-$85K budget.
+$60K-$110K estimated budget.
 
-Full-service maintenance and ongoing development of its WordPress site, covering backups, updates, security, SEO, analytics, and WCAG 2.1 AA accessibility, plus new page and template design.
+Custom design, WordPress (or comparable) build, ~500-page content migration, WCAG 2.1 AA, donor conversion focus.
+
+Proposals due August 12th if you're interested.
+
+Link in comments 👇
+
+---
+
+A national youth crisis nonprofit is looking for a brand strategy consultant.
+
+$50K-$100K estimated budget.
+
+Discovery, brand architecture, organizational naming, messaging, visual identity, and rollout planning.
+
+Proposals due August 10th if you're interested.
+
+Link in comments 👇
+
+---
+
+A national health nonprofit is looking for a partner to redesign and relaunch its flagship website.
+
+$20K budget, with potential ongoing maintenance retainer.
+
+Content inventory, full rebuild, strong focus on SEO and AI discoverability.
+
+Proposals due August 2nd if you're interested.
 
 Link in comments 👇
