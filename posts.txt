@@ -1,20 +1,20 @@
-Five organizations looking for agency partners this week:
+Five organizations looking for design and web partners this week:
 
-→ International Education Nonprofit - $150K - 5-year web design + hosting vendor pool
-→ Washington Public Utility - $110K - full website modernization with CMS
-→ Senior Services Nonprofit - $110K - 500-page WordPress redesign
-→ National Youth Crisis Nonprofit - $100K - brand strategy + naming engagement
-→ National Health Nonprofit - $20K - website redesign with SEO/AI focus
+→ National Youth Crisis Nonprofit - $125K - full rebrand, naming, visual identity
+→ Washington State City - $120K - accessible municipal website (WCAG 2.1 AA)
+→ County Library System - $110K - WordPress/Drupal site with ILS integrations
+→ National Health Nonprofit - $60K - website redesign focused on SEO + AI discoverability
+→ State Innovation Agency - $50K - brand refresh + WordPress site with grant database
 
 Link in comments 👇
 
 ---
 
-A global education nonprofit is building a preferred vendor pool for web design and hosting.
+A National Youth Crisis Nonprofit is looking for a brand strategy partner.
 
-$100K-$150K estimated budget. Five-year performance period.
+$125K estimated budget.
 
-AI-enabled site experiences, enterprise integrations (Dynamics, Okta, Stripe), WCAG 2.1 AA compliance.
+Organizational rebrand, naming with trademark screening, messaging, visual identity, rollout planning.
 
 Proposals due August 10th if you're interested.
 
@@ -22,48 +22,48 @@ Link in comments 👇
 
 ---
 
-A Washington public utility is looking for a web partner to modernize its website.
+A Washington State City is looking for a web design partner.
 
-$60K-$110K estimated budget.
+$120K estimated budget.
 
-ADA-compliant design, SmartHub integration, fillable forms, flexible CMS — plus optional AI chat and interactive service-area mapping.
+New municipal website, WCAG 2.1 AA accessibility, CMS build, content migration, staff training.
 
-Proposals due July 23rd if you're interested.
-
-Link in comments 👇
-
----
-
-A senior services nonprofit is looking for a partner for a comprehensive website redesign.
-
-$60K-$110K estimated budget.
-
-Custom design, WordPress (or comparable) build, ~500-page content migration, WCAG 2.1 AA, donor conversion focus.
-
-Proposals due August 12th if you're interested.
+Submittals due August 31st if you're interested.
 
 Link in comments 👇
 
 ---
 
-A national youth crisis nonprofit is looking for a brand strategy consultant.
+A County Library System is looking for a web design partner.
 
-$50K-$100K estimated budget.
+$110K estimated budget.
 
-Discovery, brand architecture, organizational naming, messaging, visual identity, and rollout planning.
+WCAG 2.2 AA website on WordPress or Drupal, ILS and event calendar integrations, multilingual support, ongoing managed services.
 
-Proposals due August 10th if you're interested.
+Proposals due August 7th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A national health nonprofit is looking for a partner to redesign and relaunch its flagship website.
+A National Health Nonprofit is looking for a web design partner.
 
-$20K budget, with potential ongoing maintenance retainer.
+$60K budget.
 
-Content inventory, full rebuild, strong focus on SEO and AI discoverability.
+Redesign of a high-traffic health information site, SEO and AI discoverability (GEO), improved donor and patient journeys, monthly maintenance option.
 
-Proposals due August 2nd if you're interested.
+Proposals due August 16th if you're interested.
+
+Link in comments 👇
+
+---
+
+A State Innovation Agency is looking for a design partner.
+
+$50K budget.
+
+Brand refresh, WordPress website with searchable grant database, data visualizations, hosting and maintenance.
+
+Proposals due August 26th if you're interested.
 
 Link in comments 👇
