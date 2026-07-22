@@ -1,44 +1,47 @@
-Five organizations looking for design and web partners this week:
+Eight organizations looking for web design partners this week:
 
-→ National Youth Crisis Nonprofit - $125K - full rebrand, naming, visual identity
-→ Washington State City - $120K - accessible municipal website (WCAG 2.1 AA)
-→ County Library System - $110K - WordPress/Drupal site with ILS integrations
-→ National Health Nonprofit - $60K - website redesign focused on SEO + AI discoverability
-→ State Innovation Agency - $50K - brand refresh + WordPress site with grant database
-
-Link in comments 👇
-
----
-
-A National Youth Crisis Nonprofit is looking for a brand strategy partner.
-
-$125K estimated budget.
-
-Organizational rebrand, naming with trademark screening, messaging, visual identity, rollout planning.
-
-Proposals due August 10th if you're interested.
+→ Minnesota City - $150K - full website redesign, AI search, GIS, hosting
+→ Rodeo & Country Fair - $125K - event site with ticketing + filterable schedule
+→ Tribal Government - $125K - WordPress rebuild with member portal
+→ Two Dietetics Associations - $70K - joint two-site open-source CMS build
+→ Children's Advocacy Org - $60K - brand refresh + website redesign
+→ Policy Research Institute - $50K - 6-month digital comms retainer
+→ Youth Soccer Org - $35K - communications + WordPress retainer
+→ Community Health Partnership - $20K - ongoing Wix support
 
 Link in comments 👇
 
 ---
 
-A Washington State City is looking for a web design partner.
+A statewide children's advocacy organization is looking for a design partner.
 
-$120K estimated budget.
+$60K budget.
 
-New municipal website, WCAG 2.1 AA accessibility, CMS build, content migration, staff training.
+Full brand refresh (logo, colors, typography) plus a complete website redesign with an easy-to-manage CMS.
 
-Submittals due August 31st if you're interested.
+Proposals due July 28th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A County Library System is looking for a web design partner.
+A Minnesota city is looking for a web design partner.
 
-$110K estimated budget.
+$100K-$150K estimated budget.
 
-WCAG 2.2 AA website on WordPress or Drupal, ILS and event calendar integrations, multilingual support, ongoing managed services.
+Complete website redesign with CMS, AI-assisted search, form automation, GIS integration, and ongoing hosting + support.
+
+Proposals due August 14th if you're interested.
+
+Link in comments 👇
+
+---
+
+One of Western Canada's largest annual events is looking for a web design partner.
+
+$75K-$125K estimated budget.
+
+Full redesign of a site serving 80,000+ attendees, with artist/venue data models, a mobile-first filterable schedule, and ticketing integration.
 
 Proposals due August 7th if you're interested.
 
@@ -46,24 +49,60 @@ Link in comments 👇
 
 ---
 
-A National Health Nonprofit is looking for a web design partner.
+A sovereign tribal government is looking for a web design partner.
 
-$60K budget.
+$75K-$125K estimated budget.
 
-Redesign of a high-traffic health information site, SEO and AI discoverability (GEO), improved donor and patient journeys, monthly maintenance option.
+Complete WordPress rebuild of a site dating to 1999, with new information architecture, WCAG accessibility, and a secure member portal integration.
 
-Proposals due August 16th if you're interested.
+Proposals due August 14th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A State Innovation Agency is looking for a design partner.
+Two state dietetics associations are looking for a web design partner.
 
-$50K budget.
+$30K-$70K estimated budget.
 
-Brand refresh, WordPress website with searchable grant database, data visualizations, hosting and maintenance.
+Joint RFP for two new association websites on a modern open-source CMS. You build the framework; their admins handle all content.
 
-Proposals due August 26th if you're interested.
+Proposals due August 10th if you're interested.
+
+Link in comments 👇
+
+---
+
+A university tech policy institute is looking for a digital communications partner.
+
+$30K-$50K estimated budget.
+
+Six-month remote retainer turning research into social content, branded graphics, short-form video, and newsletters.
+
+Proposals due August 3rd if you're interested.
+
+Link in comments 👇
+
+---
+
+A national youth soccer organization is looking for a communications partner.
+
+$35K annual contract.
+
+Social media, Canva graphics and video, and WordPress site maintenance for one of the nation's premier girls soccer tournaments.
+
+Proposals due August 3rd if you're interested.
+
+Link in comments 👇
+
+---
+
+A community health partnership is looking for a Wix support partner.
+
+$10K-$20K/yr estimated value.
+
+Ongoing design improvements, content updates, troubleshooting, integrations, and SEO. About 5 hours a week to start, fully remote.
+
+Proposals due July 31st if you're interested.
 
 Link in comments 👇
