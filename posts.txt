@@ -1,71 +1,67 @@
-Eight organizations looking for web design partners this week:
+Five organizations looking for web design partners this week:
 
-→ Minnesota City - $150K - full website redesign, AI search, GIS, hosting
-→ Rodeo & Country Fair - $125K - event site with ticketing + filterable schedule
-→ Tribal Government - $125K - WordPress rebuild with member portal
-→ Two Dietetics Associations - $70K - joint two-site open-source CMS build
-→ Children's Advocacy Org - $60K - brand refresh + website redesign
-→ Policy Research Institute - $50K - 6-month digital comms retainer
-→ Youth Soccer Org - $35K - communications + WordPress retainer
-→ Community Health Partnership - $20K - ongoing Wix support
+→ Economic Development Organization - $200K - branding, marketing strategy + website redesign
+→ Texas Tourism Department - $140K - tourism website + companion mobile app
+→ Regional Hospital - $100K - website security, maintenance + accessibility retainer
+→ University Research Institute - $85K - WordPress redesign with archive migration
+→ Community Health Center Alliance - $15K - WordPress refresh + accessibility remediation
 
 Link in comments 👇
 
 ---
 
-A statewide children's advocacy organization is looking for a design partner.
+Five more organizations looking for web design partners this week:
 
-$60K budget.
-
-Full brand refresh (logo, colors, typography) plus a complete website redesign with an easy-to-manage CMS.
-
-Proposals due July 28th if you're interested.
-
-Link in comments 👇
-
----
-
-A Minnesota city is looking for a web design partner.
-
-$100K-$150K estimated budget.
-
-Complete website redesign with CMS, AI-assisted search, form automation, GIS integration, and ongoing hosting + support.
-
-Proposals due August 14th if you're interested.
+→ Public Health Foundation - $200K - full rebuild, 1,000-page migration
+→ Convention Center Authority - $160K - redesign with interactive floor plans + CRM
+→ Public Housing Authority - $130K - redesign, hosting + 5-year maintenance
+→ Regional Transportation Agency - $120K - two-site redesign + domain consolidation
+→ County Health District - $100K - WordPress, 4,000-page migration, Docker
 
 Link in comments 👇
 
 ---
 
-One of Western Canada's largest annual events is looking for a web design partner.
+Six-figure web projects open for proposals right now:
 
-$75K-$125K estimated budget.
-
-Full redesign of a site serving 80,000+ attendees, with artist/venue data models, a mobile-first filterable schedule, and ticketing integration.
-
-Proposals due August 7th if you're interested.
-
-Link in comments 👇
-
----
-
-A sovereign tribal government is looking for a web design partner.
-
-$75K-$125K estimated budget.
-
-Complete WordPress rebuild of a site dating to 1999, with new information architecture, WCAG accessibility, and a secure member portal integration.
-
-Proposals due August 14th if you're interested.
+→ Public Health Foundation - $200K - full rebuild with design system
+→ Economic Development Organization - $200K - branding + marketing + website
+→ Convention Center Authority - $160K - interactive wayfinding and floor plans
+→ Texas Tourism Department - $140K - website + mobile app
+→ Public Housing Authority - $130K - redesign, hosting + maintenance
+→ Regional Transportation Agency - $120K - two sites, one consolidation plan
 
 Link in comments 👇
 
 ---
 
-Two state dietetics associations are looking for a web design partner.
+WordPress-specific work on the board this week:
 
-$30K-$70K estimated budget.
+→ Public Health Foundation - $200K - 700-1,000 page migration, component design system
+→ County Health District - $100K - 4,000+ pages, Docker, CI/CD via in-house GitLab
+→ University Research Institute - $85K - Bricks Builder + ACF, historical archive migration
+→ Community Health Center Alliance - $15K - block-based templates, WCAG 2.1 AA
 
-Joint RFP for two new association websites on a modern open-source CMS. You build the framework; their admins handle all content.
+Link in comments 👇
+
+---
+
+Ongoing retainers, not just one-off builds:
+
+→ Regional Hospital - $100K - security, maintenance, monitoring, accessibility
+→ Public Housing Authority - $130K - redesign plus hosting on a five-year contract
+→ Texas Tourism Department - $140K - build plus monthly webmaster hours
+→ Economic Development Organization - $200K - six-month marketing engagement
+
+Link in comments 👇
+
+---
+
+A university research institute is looking for a design partner.
+
+$85K budget.
+
+WordPress redesign on Bricks Builder and ACF, information architecture, WCAG 2.1 AA, and migration of an extensive historical archive with URLs preserved.
 
 Proposals due August 10th if you're interested.
 
@@ -73,36 +69,108 @@ Link in comments 👇
 
 ---
 
-A university tech policy institute is looking for a digital communications partner.
+A Texas city tourism department is looking for a design partner.
 
-$30K-$50K estimated budget.
+$140K budget.
 
-Six-month remote retainer turning research into social content, branded graphics, short-form video, and newsletters.
+New tourism website plus an optional mobile app. Custom homepage, six to eight interior templates, 25-35 launch pages, events calendar, interactive visitor map, and a monthly webmaster retainer.
 
-Proposals due August 3rd if you're interested.
-
-Link in comments 👇
-
----
-
-A national youth soccer organization is looking for a communications partner.
-
-$35K annual contract.
-
-Social media, Canva graphics and video, and WordPress site maintenance for one of the nation's premier girls soccer tournaments.
-
-Proposals due August 3rd if you're interested.
+Proposals due August 14th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A community health partnership is looking for a Wix support partner.
+A regional hospital is looking for a technical website partner.
 
-$10K-$20K/yr estimated value.
+$100K budget.
 
-Ongoing design improvements, content updates, troubleshooting, integrations, and SEO. About 5 hours a week to start, fully remote.
+Security hardening, malware and vulnerability scanning, backups and disaster recovery, CMS and plugin maintenance, uptime monitoring, and WCAG 2.2 AA remediation.
 
-Proposals due July 31st if you're interested.
+Proposals due August 14th if you're interested.
+
+Link in comments 👇
+
+---
+
+A community health center alliance is looking for a design partner.
+
+$15K budget.
+
+Focused WordPress update rather than a rebuild. Three to four block-based templates, refreshed visual design, WCAG 2.1 AA audit and remediation, and an improved health center finder.
+
+Proposals due August 14th if you're interested.
+
+Link in comments 👇
+
+---
+
+An economic development organization is looking for a marketing partner.
+
+$200K budget.
+
+Six-month engagement covering brand architecture, integrated communications plan, design system, website redesign, SEO, paid and organic social, PR, and a 12-month content calendar.
+
+Proposals due August 19th if you're interested.
+
+Link in comments 👇
+
+---
+
+A public health foundation is looking for a design partner.
+
+$200K budget.
+
+Discovery is already complete. Full WordPress rebuild with IA/UX, a component-based design system, sub-brand exploration, 700-1,000 page migration, and 30 days of post-launch hypercare.
+
+Proposals due August 21st if you're interested.
+
+Link in comments 👇
+
+---
+
+A public housing authority is looking for a design partner.
+
+$130K budget.
+
+Website redesign, content migration, WCAG 2.1 AA compliance, plus managed hosting with 99.9% uptime and ongoing maintenance. Contract runs up to five years.
+
+Proposals due August 21st if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional transportation agency is looking for a design partner.
+
+$120K budget.
+
+Redesign of two agency websites with discovery, IA, visual design, CMS build, content migration, ADA compliance, and recommendations on consolidating five existing domains.
+
+Proposals due August 24th if you're interested.
+
+Link in comments 👇
+
+---
+
+A county health district is looking for a development partner.
+
+$100K budget.
+
+WordPress redesign with migration of 4,000+ pages, wireframes for eight page types and five custom post types, clinic registration forms, Docker containerization, and CI/CD through their in-house GitLab.
+
+Proposals due August 24th if you're interested.
+
+Link in comments 👇
+
+---
+
+A convention center authority is looking for a design partner.
+
+$160K budget.
+
+Site audit, new sitemap and navigation, guided tour pathways, floor plan integration, room configuration toggles, capacity charts, wayfinding, cloud hosting, and CRM integration.
+
+Proposals due August 31st if you're interested.
 
 Link in comments 👇
