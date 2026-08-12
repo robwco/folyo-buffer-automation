@@ -1,144 +1,59 @@
 Nine organizations looking for web design partners this week:
 
-→ Ohio County Government - $200K - website + GIS modernization
-→ Regional Airport Authority - $135K - redesign, hosting transition, flight data
-→ Missouri City - $120K - multi-site consolidation onto one CMS
-→ Tennessee City - $110K - website, CMS, hosting
-→ Texas Tourism Bureau - $70K - destination site with new brand direction
-→ New Hampshire City - $55K - two sites merged into one platform
-→ Early Childhood Nonprofit - $50K - redevelopment + content strategy
-→ Disability Services Nonprofit - $45K - accessible resource hub
-→ Public Sports Authority - $30K - WordPress redesign and migration
+→ Agricultural Learning Platform - $300K - multi-year outreach and recruitment campaign
+→ County Economic Development Office - $180K - creative retainer across four brands
+→ Global Climate Coalition - $150K-$200K - Drupal and WordPress dev, maintenance, security
+→ International Affairs Nonprofit - $150K-$200K - full rebuild with Salesforce integration
+→ Regional Water Agency - $120K-$170K - WordPress redesign with ADA remediation
+→ Workforce Development Nonprofit - $80K-$130K - branding plus two new websites
+→ Wildland Fire Association - $75K-$125K - WordPress rebuild with event microsites
+→ Agricultural Safety Nonprofit - $60K-$110K - Wix rebuild with membership integration
+→ Island Tourism Program - $60K-$110K - one-year creative production retainer
 
 Link in comments 👇
 
 ---
 
-Six government website projects open right now:
+Five projects over $100K open for proposals right now:
 
-→ Ohio County - $200K - website + ArcGIS environment
-→ Missouri City - $120K - CMS consolidation, form builder, bid manager
-→ Tennessee City - $110K - CMS, hosting, translation, calendars
-→ New Hampshire City - $55K - two sites merged, citizen request workflow
-→ Regional Airport Authority - $135K - board portal, alerts, flight feeds
-→ Public Sports Authority - $30K - WordPress, SSO, business opportunities hub
-
-Link in comments 👇
-
----
-
-Accessibility is driving budget right now. Five open projects:
-
-→ Regional Airport Authority - $135K - WCAG 2.2 AA
-→ Missouri City - $120K - WCAG 2.1 AA with VPAT
-→ New Hampshire City - $55K - WCAG 2.1 AA at launch
-→ Disability Services Nonprofit - $45K - WCAG 2.2 AA throughout
-→ Public Sports Authority - $30K - WCAG 2.1
+→ Agricultural Learning Platform - $300K - national outreach and recruitment campaign
+→ County Economic Development Office - $180K - strategic and tactical creative retainer
+→ Global Climate Coalition - $150K-$200K - two-year dev and security contract
+→ International Affairs Nonprofit - $150K-$200K - discovery-led rebuild, not a redesign
+→ Regional Water Agency - $120K-$170K - turnkey WordPress build with 12 months support
 
 Link in comments 👇
 
 ---
 
-Four nonprofits looking for web partners this week:
+Four website rebuilds looking for agencies this week:
 
-→ Texas Tourism Bureau - $70K - full redesign, new brand direction, 868 URLs
-→ Early Childhood Nonprofit - $50K - redevelopment plus content advisory
-→ Disability Services Nonprofit - $45K - accessible systems navigation hub
-→ Public Sports Authority - $30K - WordPress migration and archiving
-
-Link in comments 👇
-
----
-
-The five biggest web design budgets I found this week:
-
-→ $200K - Ohio county government, website + GIS
-→ $135K - regional airport authority, redesign + hosting transition
-→ $120K - Missouri city, multi-site consolidation
-→ $110K - Tennessee city, website + CMS + hosting
-→ $70K - Texas tourism bureau, destination site redesign
+→ International Affairs Nonprofit - $150K-$200K - Salesforce and Splash integrations
+→ Regional Water Agency - $120K-$170K - WordPress, ADA audit, content migration
+→ Wildland Fire Association - $75K-$125K - WordPress with duplicable event microsites
+→ Agricultural Safety Nonprofit - $60K-$110K - Wix with membership platform integration
 
 Link in comments 👇
 
 ---
 
-An Ohio county government is looking for a long-term technology partner.
+Three organizations hiring for branding and creative work, not just websites:
 
-$200K estimated budget.
-
-Website modernization and GIS ... responsive design, CMS, WCAG 2.1 AA, plus ArcGIS Enterprise, parcel search, dashboards, Field Maps and Survey123.
-
-Phased work, each phase authorized separately. Qualifications-based, so no cost submitted up front.
-
-Proposals due August 20th if you're interested.
+→ County Economic Development Office - $180K - four brands, multiple microsites
+→ Workforce Development Nonprofit - $80K-$130K - new identity plus two websites
+→ Island Tourism Program - $60K-$110K - print and digital production retainer
 
 Link in comments 👇
 
 ---
 
-A regional airport authority is looking for a web design partner.
+An agricultural learning platform is looking for a marketing partner.
 
-$135K estimated budget.
+$300K budget.
 
-Full redesign, hosting transition, and multi-year support. Flight data feed integration, secure board portal, public document repository, emergency alerts, WCAG 2.2 AA.
+Rapid launch plan, a two to three year national outreach strategy, participant recruitment campaigns, press packages, and an educator toolkit.
 
-A separate branding team is supplying photography, video and messaging.
-
-Proposals due August 21st if you're interested.
-
-Link in comments 👇
-
----
-
-A Missouri city is looking for a web design partner.
-
-$120K estimated budget.
-
-Consolidating a fragmented multi-site presence onto one CMS. Custom design, explicitly not an off-the-shelf municipal template.
-
-Self-service form builder, RFP and bid manager, inline editing, CMS-native search and analytics, plus integrations with eCode360, CivicPlus, Click2Gov, iWorQ and LocationOne.
-
-Proposals due August 28th if you're interested.
-
-Link in comments 👇
-
----
-
-A Tennessee city is looking for a web design partner.
-
-$110K estimated budget.
-
-Website design, CMS and hosting. Translation functionality, multiple calendars with ICS export, document storage with automatic PDF conversion, friendly URLs, site search.
-
-Three optional add-ons are also on the table: agenda management, municipal code codification, and citizen request tracking.
-
-Proposals due September 14th if you're interested.
-
-Link in comments 👇
-
----
-
-A Texas tourism bureau is looking for a web design partner.
-
-$70K budget.
-
-Complete redesign with a new brand and visual direction. Consolidating roughly 868 URLs, separate visitor and locals event experiences from a shared feed, a film commission sub-experience, and folding in an existing WordPress festival site.
-
-They want a specific technical approach to SEO, SERP features and LLM discoverability. Generic answers won't score.
-
-Proposals due September 4th if you're interested.
-
-Link in comments 👇
-
----
-
-A New Hampshire city is looking for a web design partner.
-
-$55K budget.
-
-Merging a main city site and a separate Parks and Rec site into one responsive platform. SMS and email alert subscriptions, citizen request workflow with exportable reporting, facility reservations, online payments, WCAG 2.1 AA at launch.
-
-Site has to be fully operational by December 4th.
+Federally funded, so budgets have to be structured around 2 CFR 200.421 compliance.
 
 Proposals due September 1st if you're interested.
 
@@ -146,42 +61,112 @@ Link in comments 👇
 
 ---
 
-An early childhood nonprofit is looking for a web design partner.
+A county economic development office is looking for a creative partner.
 
-$50K budget.
+$180K total contract value.
 
-Full redevelopment plus content strategy advisory. They want a partner who will tell them what belongs on the site and then write it.
+Roughly 30% strategy and 70% tactical execution across four brands and multiple microsites. Graphic design, video production, writing, and website SEO.
 
-Interactive collaborative map, donor portal, fundraising, events, provider resources. A brand audit is underway, so the framework needs to stay flexible.
+One year with up to two optional renewals.
 
-No stated proposal deadline.
-
-Link in comments 👇
-
----
-
-A disability services nonprofit is looking for a web development partner.
-
-$45K budget.
-
-Building a centralized systems navigation hub on their existing platform. Recorded trainings with video hosting, captions and transcripts, a statewide partner directory, downloadable advocacy tools.
-
-WCAG 2.2 AA throughout. Grant-funded through June 2027.
-
-Proposals due August 23rd if you're interested.
+Proposals due August 31st if you're interested.
 
 Link in comments 👇
 
 ---
 
-A public sports and exhibition authority is looking for a web design partner.
+A global climate coalition is looking for a development partner.
 
-$30K budget.
+$150K-$200K estimated budget.
 
-Overhauling a site originally built in 1999 and last redesigned in 2017. WordPress preferred, with content migration and archiving, Microsoft 365 SSO with MFA, dynamic sitewide search, and a filterable business opportunities hub with analytics tracking.
+Ongoing development, maintenance, and security across their main site plus four microsites. New feature builds, platform upgrades, incident response, and quarterly analytics.
 
-MBE/WBE goals of 25% and 10% apply.
+Drupal and WordPress proficiency required. Contract runs January 2027 through December 2028.
 
-Proposals due September 3rd if you're interested.
+Proposals due August 24th if you're interested.
+
+Link in comments 👇
+
+---
+
+An international affairs nonprofit is looking for a design partner.
+
+$150K-$200K estimated budget.
+
+Full rebuild rather than a redesign. Discovery and digital strategy come first, then IA, UX, visual design, CMS implementation, and content migration with SEO preservation.
+
+Salesforce and Splash integrations. One base year plus three optional extension years.
+
+Proposals due September 1st if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional water agency is looking for a design partner.
+
+$120K-$170K estimated budget.
+
+Turnkey WordPress redesign for a public site serving 935,000 residents. ADA accessibility audit and remediation, content migration, and third-party integrations.
+
+Twelve months of unlimited post-launch support included.
+
+Proposals due September 14th if you're interested.
+
+Link in comments 👇
+
+---
+
+A workforce development nonprofit is looking for a branding and web partner.
+
+$80K-$130K estimated budget.
+
+New brand identity plus two separate websites, each with its own audience. Jobs board, staff-managed CMS, WCAG 2.1 AA compliance, and donation and CRM integrations.
+
+Proposals have to include three distinct pricing tiers.
+
+Proposals due August 28th if you're interested.
+
+Link in comments 👇
+
+---
+
+A wildland fire association is looking for a development partner.
+
+$75K-$125K estimated budget.
+
+Full WordPress rebuild where every conference gets its own branded microsite from shared templates that staff can duplicate.
+
+Design system, modular content blocks, and integrations with membership, registration, payment, and newsletter tools.
+
+Proposals due September 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+An agricultural safety nonprofit is looking for a design partner.
+
+$60K-$110K estimated budget.
+
+Wix rebuild with staff taking over management after launch. Membership platform integration so members never leave the site, a personalized logged-in experience, and a digital resource library.
+
+They are specifically asking for an SEO and GEO approach.
+
+Proposals due August 28th if you're interested.
+
+Link in comments 👇
+
+---
+
+An island tourism program is looking for a creative production partner.
+
+$60K-$110K estimated budget.
+
+One-year retainer with renewal options. Visitor guides, maps, and trade show displays alongside website graphics, landing page graphics, email and social templates, and interactive PDFs.
+
+Brand standards enforcement and digital asset library management included.
+
+Proposals due August 28th if you're interested.
 
 Link in comments 👇
