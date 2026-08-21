@@ -1,93 +1,93 @@
 Five organizations looking for web design partners this week:
 
-→ Community College - $200K - public site redesign + employee intranet on WordPress
-→ Water and Sewer Utility - $175K - full rebuild with GIS and Power BI integrations
-→ Economic Mobility Nonprofit - $135K - WordPress rebuild + ongoing maintenance
-→ California City - $100K - municipal redesign with CMS and hosting
-→ Legal Aid Nonprofit - $30K - full rebrand + new website
+→ Destination Marketing Organization - $130K - full redesign, rehost, CMS + event registration
+→ Conservation Foundation - $40K - UX/UI for six new WordPress calculator tools
+→ Regional Health Team - $40K - multilingual WordPress rebuild with embedded dashboards
+→ Legal Aid Association - $30K - new site with an AI-supported matching portal
+→ Arts Foundation - $5K - Wix migration with donation and board portal integrations
 
 Link in comments 👇
 
 ---
 
-Five new RFPs on the board:
+This week's web design RFPs, ranked by budget:
 
-→ Community College - $200K - migration of up to 500 pages, six-phase build
-→ Water and Sewer Utility - $175K - WCAG 2.2 AA, emergency alert system
-→ Economic Mobility Nonprofit - $135K - HubSpot CRM, events, memberships, donations
-→ California City - $100K - emergency alerts, agenda integration, Spanish translation
-→ Legal Aid Nonprofit - $30K - renaming analysis, style guide, multilingual site
-
-Link in comments 👇
-
----
-
-This week's leads, by budget:
-
-→ $200K - Community College - WordPress site + intranet
-→ $175K - Water Utility - rebuild with customer portal integrations
-→ $135K - Economic Mobility Nonprofit - WordPress + monthly retainer
-→ $100K - California City - CMS, hosting, accessibility compliance
-→ $30K - Legal Aid Nonprofit - rebrand and website build
+→ $130K - Destination Marketing Organization - redesign, rehost, CRM + Stripe integrations
+→ $40K - Conservation Foundation - integrate six assessment tools into one WordPress interface
+→ $40K - Regional Health Team - multilingual rebuild with PowerBI dashboards and translation
+→ $30K - Legal Aid Association - login-gated AI matching tool for law students and employers
+→ $5K - Arts Foundation - move off Wix, add Aplos donations and a private board portal
 
 Link in comments 👇
 
 ---
 
-A Community College needs a website partner.
+Five new website projects worth bidding on:
 
-$200K budget.
-
-Public site redesign plus a new employee intranet. WordPress, migration of up to 500 pages, and a design system.
-
-Proposals due August 31st if you're interested.
-
-Link in comments 👇
-
----
-
-A Water and Sewer Utility is looking for a web partner.
-
-$175K budget.
-
-Full site rebuild with GIS, Power BI, and customer portal integrations. WCAG 2.2 AA and an emergency alert system.
-
-Proposals due September 2nd if you're interested.
+→ $130K - Tourism site redesign with vendor hosting and long-term maintenance
+→ $40K - WordPress build integrating six field-specific carbon calculator tools
+→ $40K - Multilingual health resource hub with embedded data dashboards
+→ $30K - AI-supported matching platform for a legal career pipeline program
+→ $5K - Wix-to-CMS migration with donation processing and a board access portal
 
 Link in comments 👇
 
 ---
 
-An Economic Mobility Nonprofit is looking for a WordPress partner.
+A Destination Marketing Organization is looking for a web partner.
 
-$135K budget.
+$130K estimated budget.
 
-Strategy, copywriting, design, and full rebuild. HubSpot CRM, events, memberships, and donations. Ongoing monthly maintenance included.
+Full redesign, refresh, and rehost. Multi-user CMS with role-based permissions, custom page templates, site-wide search, and event registration with payment. Integrations include a CRM, Stripe, GA4, and Google Tag Manager.
 
-Proposals due September 10th if you're interested.
-
-Link in comments 👇
-
----
-
-A California City needs a website partner.
-
-$100K budget.
-
-Redesign with CMS, secure hosting, and accessibility compliance. Emergency alerts, agenda integration, and Spanish translation.
-
-Proposals due September 18th if you're interested.
+Proposals due September 17th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Legal Aid Nonprofit is looking for a design partner.
+A Conservation Foundation is looking for a web engineering and UX/UI partner.
+
+$40K budget.
+
+Integrating six new field-specific assessment tools into a single interface on their existing WordPress site. Includes a style guide, new page layouts, coding tool models into the site engine, and data visualization work.
+
+Proposals due September 30th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Regional Health Team is looking for a design partner.
+
+$40K budget.
+
+Multilingual WordPress rebuild with integrated translation, a private member access area, embedded PowerBI dashboards and interactive maps, plus new CMS templates and full accessibility compliance.
+
+Proposals due September 20th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Legal Aid Association is looking for a web development partner.
 
 $30K budget.
 
-Full rebrand ... renaming analysis, logo, style guide, messaging ... plus a new site with search and Spanish multilingual support.
+New site for a legal career pipeline program, built around a login-gated AI-supported tool that matches law students with employers. Includes content migration, user acceptance testing, training, and 12 months of support.
 
-Proposals due September 14th if you're interested.
+Proposals due September 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+An Arts Foundation is looking for a web design partner.
+
+$5K budget.
+
+Moving off Wix onto a CMS a two-person staff can update. Password-protected board portal, lightbox pop-ups and banners, donation processing with digital wallets, Mailchimp forms, and a blog migration.
+
+Proposals due September 21st if you're interested.
 
 Link in comments 👇
