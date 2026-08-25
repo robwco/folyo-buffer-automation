@@ -1,93 +1,125 @@
-Five organizations looking for web design partners this week:
+Six organizations looking for web design partners this week:
 
-→ Destination Marketing Organization - $130K - full redesign, rehost, CMS + event registration
-→ Conservation Foundation - $40K - UX/UI for six new WordPress calculator tools
-→ Regional Health Team - $40K - multilingual WordPress rebuild with embedded dashboards
-→ Legal Aid Association - $30K - new site with an AI-supported matching portal
-→ Arts Foundation - $5K - Wix migration with donation and board portal integrations
-
-Link in comments 👇
-
----
-
-This week's web design RFPs, ranked by budget:
-
-→ $130K - Destination Marketing Organization - redesign, rehost, CRM + Stripe integrations
-→ $40K - Conservation Foundation - integrate six assessment tools into one WordPress interface
-→ $40K - Regional Health Team - multilingual rebuild with PowerBI dashboards and translation
-→ $30K - Legal Aid Association - login-gated AI matching tool for law students and employers
-→ $5K - Arts Foundation - move off Wix, add Aplos donations and a private board portal
+→ County Government - $175K/year - WordPress multisite + AWS maintenance
+→ Children & Families Nonprofit - $135K - branding + full website redesign
+→ Bioeconomy Campus - $85K - brand identity, website, marketing collateral
+→ Economic Development Council - $90K - rebrand + membership platform design
+→ Chamber of Commerce - $45K - WordPress rebuild with CRM integration
+→ Transportation Commission - $22K - accessibility-driven redesign
 
 Link in comments 👇
 
 ---
 
-Five new website projects worth bidding on:
+This week's RFPs, ranked by budget:
 
-→ $130K - Tourism site redesign with vendor hosting and long-term maintenance
-→ $40K - WordPress build integrating six field-specific carbon calculator tools
-→ $40K - Multilingual health resource hub with embedded data dashboards
-→ $30K - AI-supported matching platform for a legal career pipeline program
-→ $5K - Wix-to-CMS migration with donation processing and a board access portal
-
-Link in comments 👇
-
----
-
-A Destination Marketing Organization is looking for a web partner.
-
-$130K estimated budget.
-
-Full redesign, refresh, and rehost. Multi-user CMS with role-based permissions, custom page templates, site-wide search, and event registration with payment. Integrations include a CRM, Stripe, GA4, and Google Tag Manager.
-
-Proposals due September 17th if you're interested.
+→ $175K/year - enterprise WordPress and AWS support for 11 government sites
+→ $135K - brand alignment and website redesign for a research nonprofit
+→ $90K - statewide rebrand on an existing membership platform
+→ $85K - branding and website for a publicly funded innovation campus
+→ $45K - chamber of commerce rebuild with member directory integration
+→ $22K - WCAG 2.1 AA compliance overhaul for a public agency
 
 Link in comments 👇
 
 ---
 
-A Conservation Foundation is looking for a web engineering and UX/UI partner.
+Six live opportunities for agencies right now:
 
-$40K budget.
+→ WordPress multisite + AWS infrastructure - $175K/year
+→ Branding + website redesign - $135K
+→ Brand identity, website, print collateral - $85K
+→ Rebrand + website copywriting - $90K
+→ WordPress rebuild + CRM integration - $45K
+→ Accessibility-focused redesign - $22K
 
-Integrating six new field-specific assessment tools into a single interface on their existing WordPress site. Includes a style guide, new page layouts, coding tool models into the site engine, and data visualization work.
-
-Proposals due September 30th if you're interested.
-
-Link in comments 👇
-
----
-
-A Regional Health Team is looking for a design partner.
-
-$40K budget.
-
-Multilingual WordPress rebuild with integrated translation, a private member access area, embedded PowerBI dashboards and interactive maps, plus new CMS templates and full accessibility compliance.
-
-Proposals due September 20th if you're interested.
+Every one of them is accepting proposals in September.
 
 Link in comments 👇
 
 ---
 
-A Legal Aid Association is looking for a web development partner.
+Four accessibility-driven projects are open right now:
 
-$30K budget.
-
-New site for a legal career pipeline program, built around a login-gated AI-supported tool that matches law students with employers. Includes content migration, user acceptance testing, training, and 12 months of support.
-
-Proposals due September 15th if you're interested.
+→ County Government - $175K/year - WCAG 2.1-2.2 auditing across 11 sites
+→ Children & Families Nonprofit - $135K - WCAG 2.1 AA redesign
+→ Chamber of Commerce - $45K - WCAG 2.1 AA plus Spanish translation
+→ Transportation Commission - $22K - ADA Title II compliance rebuild
 
 Link in comments 👇
 
 ---
 
-An Arts Foundation is looking for a web design partner.
+A county government is looking for a long-term web partner.
 
-$5K budget.
+$175K per year.
 
-Moving off Wix onto a CMS a two-person staff can update. Password-protected board portal, lightbox pop-ups and banners, donation processing with digital wallets, Mailchimp forms, and a blog migration.
+Maintenance, hosting, and development across 11 public-facing WordPress sites on AWS. Multisite administration, custom plugin work, and accessibility auditing.
 
-Proposals due September 21st if you're interested.
+Multi-year contract anticipated.
+
+Proposals due September 18th if you're interested.
+
+Link in comments 👇
+
+---
+
+A children and families research nonprofit needs a branding and web partner.
+
+$135K estimated budget.
+
+Brand positioning, visual identity, and a full website redesign — including content strategy, copywriting, CMS migration, and SEO.
+
+Proposals due September 28th if you're interested.
+
+Link in comments 👇
+
+---
+
+A bioeconomy innovation campus is looking for a creative agency.
+
+$85K budget.
+
+Brand identity, a standalone marketing website, and a full set of print and digital collateral for a publicly funded infrastructure project.
+
+Proposals due September 7th if you're interested.
+
+Link in comments 👇
+
+---
+
+A statewide economic development council wants a brand refresh.
+
+$90K estimated budget.
+
+Logo redesign, visual identity system, marketing templates, and website copywriting on their existing membership platform.
+
+Proposals due September 4th if you're interested.
+
+Link in comments 👇
+
+---
+
+A chamber of commerce needs its website rebuilt.
+
+$45K budget.
+
+WordPress rebuild serving three audiences, with CRM integration, banner advertising, and migration of 145 pages and 1,000+ media items.
+
+Phased launch is on the table.
+
+Proposals due September 18th if you're interested.
+
+Link in comments 👇
+
+---
+
+A regional transportation commission is moving off a proprietary CMS.
+
+$22K budget.
+
+Accessibility audit, light theme customization, content migration, and staff training. WordPress preferred to reduce vendor lock-in.
+
+Proposals due September 25th if you're interested.
 
 Link in comments 👇
