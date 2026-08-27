@@ -1,125 +1,97 @@
-Six organizations looking for web design partners this week:
+Five organizations looking for web design partners this week:
 
-→ County Government - $175K/year - WordPress multisite + AWS maintenance
-→ Children & Families Nonprofit - $135K - branding + full website redesign
-→ Bioeconomy Campus - $85K - brand identity, website, marketing collateral
-→ Economic Development Council - $90K - rebrand + membership platform design
-→ Chamber of Commerce - $45K - WordPress rebuild with CRM integration
-→ Transportation Commission - $22K - accessibility-driven redesign
-
-Link in comments 👇
-
----
-
-This week's RFPs, ranked by budget:
-
-→ $175K/year - enterprise WordPress and AWS support for 11 government sites
-→ $135K - brand alignment and website redesign for a research nonprofit
-→ $90K - statewide rebrand on an existing membership platform
-→ $85K - branding and website for a publicly funded innovation campus
-→ $45K - chamber of commerce rebuild with member directory integration
-→ $22K - WCAG 2.1 AA compliance overhaul for a public agency
+→ Regional Water Agency - $130K - two-site rebuild with full ADA remediation
+→ Housing Assistance Nonprofit - $125K - 180-page WordPress redesign
+→ Global Nutrition Initiative - $110K - 12-month digital management retainer
+→ County Government - $90K - services-first redesign with role-based CMS
+→ Community Radio Station - $80K - WordPress rebuild with streaming archive
 
 Link in comments 👇
 
 ---
 
-Six live opportunities for agencies right now:
+Web design budgets open right now:
 
-→ WordPress multisite + AWS infrastructure - $175K/year
-→ Branding + website redesign - $135K
-→ Brand identity, website, print collateral - $85K
-→ Rebrand + website copywriting - $90K
-→ WordPress rebuild + CRM integration - $45K
-→ Accessibility-focused redesign - $22K
+→ $130K - regional water agency, two websites, ~660 PDFs to remediate
+→ $125K - housing nonprofit, WordPress, Blackbaud + Constant Contact
+→ $110K - nutrition awareness initiative, year-long retainer
+→ $90K - county government, department-level CMS permissions
+→ $80K - community radio, live stream player and searchable archive
 
-Every one of them is accepting proposals in September.
-
-Link in comments 👇
-
----
-
-Four accessibility-driven projects are open right now:
-
-→ County Government - $175K/year - WCAG 2.1-2.2 auditing across 11 sites
-→ Children & Families Nonprofit - $135K - WCAG 2.1 AA redesign
-→ Chamber of Commerce - $45K - WCAG 2.1 AA plus Spanish translation
-→ Transportation Commission - $22K - ADA Title II compliance rebuild
+Every one of these is accepting proposals.
 
 Link in comments 👇
 
 ---
 
-A county government is looking for a long-term web partner.
+Accessibility work is driving a lot of this month's budgets.
 
-$175K per year.
+→ Water agency - $130K - WCAG 2.1 AA across two sites
+→ Housing nonprofit - $125K - WCAG 2.2 AA, plain-language content patterns
+→ County government - $90K - WCAG 2.2 AA, multilingual
+→ Community radio - $80K - WCAG 2.1 AA, sub-3-second page loads
+→ Nutrition initiative - $110K - ongoing SEO and UX improvement
 
-Maintenance, hosting, and development across 11 public-facing WordPress sites on AWS. Multisite administration, custom plugin work, and accessibility auditing.
-
-Multi-year contract anticipated.
-
-Proposals due September 18th if you're interested.
-
-Link in comments 👇
-
----
-
-A children and families research nonprofit needs a branding and web partner.
-
-$135K estimated budget.
-
-Brand positioning, visual identity, and a full website redesign — including content strategy, copywriting, CMS migration, and SEO.
-
-Proposals due September 28th if you're interested.
+Five organizations, all taking proposals now.
 
 Link in comments 👇
 
 ---
 
-A bioeconomy innovation campus is looking for a creative agency.
+A regional water agency is looking for a design partner.
 
-$85K budget.
+$130K budget.
 
-Brand identity, a standalone marketing website, and a full set of print and digital collateral for a publicly funded infrastructure project.
+Two separate public-facing websites, full ADA and WCAG 2.1 AA compliance, content audit, and accessibility remediation on roughly 660 posted PDFs.
 
-Proposals due September 7th if you're interested.
-
-Link in comments 👇
-
----
-
-A statewide economic development council wants a brand refresh.
-
-$90K estimated budget.
-
-Logo redesign, visual identity system, marketing templates, and website copywriting on their existing membership platform.
-
-Proposals due September 4th if you're interested.
+Proposals due September 15th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A chamber of commerce needs its website rebuilt.
+A housing assistance nonprofit is looking for a design partner.
 
-$45K budget.
+$125K budget.
 
-WordPress rebuild serving three audiences, with CRM integration, banner advertising, and migration of 145 pages and 1,000+ media items.
+Strategy, design, and development of a 150-180 page WordPress site. Blackbaud and Constant Contact integrations, SEO migration, WCAG 2.2 AA.
 
-Phased launch is on the table.
-
-Proposals due September 18th if you're interested.
+Proposals due September 21st if you're interested.
 
 Link in comments 👇
 
 ---
 
-A regional transportation commission is moving off a proprietary CMS.
+A global nutrition awareness initiative is looking for a digital partner.
 
-$22K budget.
+$110K budget.
 
-Accessibility audit, light theme customization, content migration, and staff training. WordPress preferred to reduce vendor lock-in.
+Twelve-month retainer covering maintenance, security, content, SEO, and analytics dashboards. Includes building new interactive tools.
 
-Proposals due September 25th if you're interested.
+Proposals due September 9th if you're interested.
+
+Link in comments 👇
+
+---
+
+A county government is looking for a design partner.
+
+$90K budget.
+
+Consolidating 95 pages into a services-first site. Role-based CMS permissions per department, document search, multilingual support, optional branding refresh.
+
+Proposals due October 1st if you're interested.
+
+Link in comments 👇
+
+---
+
+A community radio station is looking for a design partner.
+
+$80K budget.
+
+Full WordPress redesign with a live stream player, searchable show archive with filtering, event calendar, and donation pages.
+
+Proposals due October 16th if you're interested.
 
 Link in comments 👇
