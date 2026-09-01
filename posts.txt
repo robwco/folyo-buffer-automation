@@ -1,97 +1,78 @@
-Five organizations looking for web design partners this week:
+Four organizations looking for web design partners this week:
 
-→ Regional Water Agency - $130K - two-site rebuild with full ADA remediation
-→ Housing Assistance Nonprofit - $125K - 180-page WordPress redesign
-→ Global Nutrition Initiative - $110K - 12-month digital management retainer
-→ County Government - $90K - services-first redesign with role-based CMS
-→ Community Radio Station - $80K - WordPress rebuild with streaming archive
-
-Link in comments 👇
-
----
-
-Web design budgets open right now:
-
-→ $130K - regional water agency, two websites, ~660 PDFs to remediate
-→ $125K - housing nonprofit, WordPress, Blackbaud + Constant Contact
-→ $110K - nutrition awareness initiative, year-long retainer
-→ $90K - county government, department-level CMS permissions
-→ $80K - community radio, live stream player and searchable archive
-
-Every one of these is accepting proposals.
+→ Hospitality & Recreation Portfolio - $175K - website build, brand evolution, RFID ticketing
+→ Public Policy Research Institute - $67K - data platform MVP with interactive visualizations
+→ Children & Families Commission - $40K - website redesign with CMS and staff training
+→ Business Improvement Area - $45K - Wix rebuild with member directory and portal
 
 Link in comments 👇
 
 ---
 
-Accessibility work is driving a lot of this month's budgets.
+New web design opportunities on the board:
 
-→ Water agency - $130K - WCAG 2.1 AA across two sites
-→ Housing nonprofit - $125K - WCAG 2.2 AA, plain-language content patterns
-→ County government - $90K - WCAG 2.2 AA, multilingual
-→ Community radio - $80K - WCAG 2.1 AA, sub-3-second page loads
-→ Nutrition initiative - $110K - ongoing SEO and UX improvement
-
-Five organizations, all taking proposals now.
+→ Hospitality & Recreation Portfolio - $175K - multi-property brand and website partnership
+→ Public Policy Research Institute - $67K - scrollytelling data story, WCAG 2.2 AA
+→ Children & Families Commission - $40K - mobile-responsive redesign, CMS configuration
+→ Business Improvement Area - $45K - searchable directory, member portal, events calendar
 
 Link in comments 👇
 
 ---
 
-A regional water agency is looking for a design partner.
+Four active RFPs for agencies right now:
 
-$130K budget.
-
-Two separate public-facing websites, full ADA and WCAG 2.1 AA compliance, content audit, and accessibility remediation on roughly 660 posted PDFs.
-
-Proposals due September 15th if you're interested.
-
-Link in comments 👇
-
----
-
-A housing assistance nonprofit is looking for a design partner.
-
-$125K budget.
-
-Strategy, design, and development of a 150-180 page WordPress site. Blackbaud and Constant Contact integrations, SEO migration, WCAG 2.2 AA.
-
-Proposals due September 21st if you're interested.
+→ $175K - waterpark website, brand refresh, ticketing and RFID integration
+→ $67K - public data platform with bespoke visualizations and CSV ingestion
+→ $40K - public-facing redesign with simplified navigation and wayfinding
+→ $45K - Wix revamp with Google Maps directory and newsletter integration
 
 Link in comments 👇
 
 ---
 
-A global nutrition awareness initiative is looking for a digital partner.
+A hospitality and recreation property group is looking for an agency partner.
 
-$110K budget.
+$175K budget.
 
-Twelve-month retainer covering maintenance, security, content, SEO, and analytics dashboards. Includes building new interactive tools.
+New website for their waterpark, brand evolution, ticketing and RFID wristband integration, plus ongoing creative across four other properties.
 
-Proposals due September 9th if you're interested.
-
-Link in comments 👇
-
----
-
-A county government is looking for a design partner.
-
-$90K budget.
-
-Consolidating 95 pages into a services-first site. Role-based CMS permissions per department, document search, multilingual support, optional branding refresh.
-
-Proposals due October 1st if you're interested.
+Proposals due September 10th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A community radio station is looking for a design partner.
+A public policy research institute needs an MVP digital platform built.
 
-$80K budget.
+$67K budget.
 
-Full WordPress redesign with a live stream player, searchable show archive with filtering, event calendar, and donation pages.
+UI design, frontend and backend development, a scrollable animated data story with bespoke visualizations, and a CSV ingestion pipeline. WCAG 2.2 AA throughout.
 
-Proposals due October 16th if you're interested.
+Proposals due September 7th if you're interested.
+
+Link in comments 👇
+
+---
+
+A children and families commission is looking for a web design and development partner.
+
+$40K budget.
+
+Modern, mobile-responsive redesign with simplified navigation, CMS configuration, and staff training. Potential ongoing maintenance work after launch.
+
+Proposals due September 22nd if you're interested.
+
+Link in comments 👇
+
+---
+
+A business improvement area representing 240+ businesses needs its Wix site rebuilt.
+
+$45K budget.
+
+Searchable member directory with Google Maps integration, member login portal with self-serve updates, events calendar, and newsletter integration.
+
+Proposals due September 11th if you're interested.
 
 Link in comments 👇
