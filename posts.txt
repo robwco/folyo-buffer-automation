@@ -1,78 +1,81 @@
-Four organizations looking for web design partners this week:
+Five organizations looking for web design partners this week:
 
-→ Hospitality & Recreation Portfolio - $175K - website build, brand evolution, RFID ticketing
-→ Public Policy Research Institute - $67K - data platform MVP with interactive visualizations
-→ Children & Families Commission - $40K - website redesign with CMS and staff training
-→ Business Improvement Area - $45K - Wix rebuild with member directory and portal
-
-Link in comments 👇
-
----
-
-New web design opportunities on the board:
-
-→ Hospitality & Recreation Portfolio - $175K - multi-property brand and website partnership
-→ Public Policy Research Institute - $67K - scrollytelling data story, WCAG 2.2 AA
-→ Children & Families Commission - $40K - mobile-responsive redesign, CMS configuration
-→ Business Improvement Area - $45K - searchable directory, member portal, events calendar
+→ State University - $750K - full digital ecosystem rebuild, two audience-focused sites
+→ Regional Planning Agency - $200K - open-source CMS with document library and mapping integrations
+→ Public University - $100K - website assessment, audits, and strategic roadmap
+→ Water District - $90K - UX audit, redesign, and content governance system
+→ Park District - $75K - 51-park site with park finder and program integration
 
 Link in comments 👇
 
 ---
 
-Four active RFPs for agencies right now:
+Five new website projects worth bidding on:
 
-→ $175K - waterpark website, brand refresh, ticketing and RFID integration
-→ $67K - public data platform with bespoke visualizations and CSV ingestion
-→ $40K - public-facing redesign with simplified navigation and wayfinding
-→ $45K - Wix revamp with Google Maps directory and newsletter integration
-
-Link in comments 👇
-
----
-
-A hospitality and recreation property group is looking for an agency partner.
-
-$175K budget.
-
-New website for their waterpark, brand evolution, ticketing and RFID wristband integration, plus ongoing creative across four other properties.
-
-Proposals due September 10th if you're interested.
+→ State University - $750K - multisite CMS, content strategy, migration, governance
+→ Regional Planning Agency - $200K - concept-to-completion redesign, WCAG 2.2 AA
+→ Public University - $100K - content and CMS audits, UX testing, peer benchmarking
+→ Water District - $90K - IA improvements, Spanish translation, GIS and portal integrations
+→ Park District - $75K - mobile-first redesign, site search, SEO for AI search
 
 Link in comments 👇
 
 ---
 
-A public policy research institute needs an MVP digital platform built.
+A state university is looking for a web design partner.
 
-$67K budget.
+$750K budget.
 
-UI design, frontend and backend development, a scrollable animated data story with bespoke visualizations, and a CSV ingestion pipeline. WCAG 2.2 AA throughout.
+Full digital ecosystem rebuild — two separate sites, multisite CMS, content strategy, migration, and governance.
 
-Proposals due September 7th if you're interested.
-
-Link in comments 👇
-
----
-
-A children and families commission is looking for a web design and development partner.
-
-$40K budget.
-
-Modern, mobile-responsive redesign with simplified navigation, CMS configuration, and staff training. Potential ongoing maintenance work after launch.
-
-Proposals due September 22nd if you're interested.
+Proposals due September 29th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A business improvement area representing 240+ businesses needs its Wix site rebuilt.
+A regional planning agency is looking for a web design partner.
 
-$45K budget.
+$200K budget.
 
-Searchable member directory with Google Maps integration, member login portal with self-serve updates, events calendar, and newsletter integration.
+Concept-to-completion redesign on an open-source CMS, with a searchable document library and mapping integrations.
 
-Proposals due September 11th if you're interested.
+Proposals due October 8th if you're interested.
+
+Link in comments 👇
+
+---
+
+A public university is looking for a digital agency partner.
+
+$100K budget.
+
+Website assessment covering content, CMS, SEO, and UX audits, plus a strategic roadmap for leadership.
+
+Proposals due October 16th if you're interested.
+
+Link in comments 👇
+
+---
+
+A water district is looking for a web design partner.
+
+$90K budget.
+
+UX and content audits, information architecture improvements, new visual design, and a content governance system.
+
+Proposals due October 12th if you're interested.
+
+Link in comments 👇
+
+---
+
+A park district is looking for a web design partner.
+
+$75K budget.
+
+Redesign for 51 parks — mobile-first templates, improved park finder and search, and program registration integration.
+
+Proposals due October 12th if you're interested.
 
 Link in comments 👇
