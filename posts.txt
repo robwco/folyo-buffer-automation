@@ -1,81 +1,69 @@
 Five organizations looking for web design partners this week:
 
-→ State University - $750K - full digital ecosystem rebuild, two audience-focused sites
-→ Regional Planning Agency - $200K - open-source CMS with document library and mapping integrations
-→ Public University - $100K - website assessment, audits, and strategic roadmap
-→ Water District - $90K - UX audit, redesign, and content governance system
-→ Park District - $75K - 51-park site with park finder and program integration
+→ Children's Charity - $150K - Drupal migration, 4,200 pages, donation integrations
+→ Small Business Development Program - $105K - WordPress rebuild, Salesforce forms, multilingual
+→ Texas City - $75K - hosted CMS with online services and forms
+→ Workforce Social Enterprise - $40K - brand architecture, signage, full website redesign
+→ Community Radio Station - $12K - WordPress rebuild with searchable show archive
 
 Link in comments 👇
 
 ---
 
-Five new website projects worth bidding on:
+A children's charity is looking for a web design partner.
 
-→ State University - $750K - multisite CMS, content strategy, migration, governance
-→ Regional Planning Agency - $200K - concept-to-completion redesign, WCAG 2.2 AA
-→ Public University - $100K - content and CMS audits, UX testing, peer benchmarking
-→ Water District - $90K - IA improvements, Spanish translation, GIS and portal integrations
-→ Park District - $75K - mobile-first redesign, site search, SEO for AI search
+$150K budget.
 
-Link in comments 👇
+Full rebuild migrating roughly 4,200 pages off legacy Drupal onto a modern block editor, with 301 mapping to preserve SEO equity and Fundraise Up donation integrations.
 
----
-
-A state university is looking for a web design partner.
-
-$750K budget.
-
-Full digital ecosystem rebuild — two separate sites, multisite CMS, content strategy, migration, and governance.
-
-Proposals due September 29th if you're interested.
+Proposals due September 25th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A regional planning agency is looking for a web design partner.
+A small business development program is looking for a web design partner.
 
-$200K budget.
+$105K budget.
 
-Concept-to-completion redesign on an open-source CMS, with a searchable document library and mapping integrations.
+WordPress rebuild off a discontinued theme and page builder, keeping Spanish, Arabic, and Chinese language views and FormAssembly forms mapped to Salesforce.
 
-Proposals due October 8th if you're interested.
-
-Link in comments 👇
-
----
-
-A public university is looking for a digital agency partner.
-
-$100K budget.
-
-Website assessment covering content, CMS, SEO, and UX audits, plus a strategic roadmap for leadership.
-
-Proposals due October 16th if you're interested.
+Proposals due September 25th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A water district is looking for a web design partner.
-
-$90K budget.
-
-UX and content audits, information architecture improvements, new visual design, and a content governance system.
-
-Proposals due October 12th if you're interested.
-
-Link in comments 👇
-
----
-
-A park district is looking for a web design partner.
+A Texas city is looking for a web design partner.
 
 $75K budget.
 
-Redesign for 51 parks — mobile-first templates, improved park finder and search, and program registration integration.
+Website redesign with hosted content management, extending city services online with digital forms, agenda and archive centers, and staff-managed publishing.
 
-Proposals due October 12th if you're interested.
+Proposals due September 18th if you're interested.
+
+Link in comments 👇
+
+---
+
+A workforce development social enterprise is looking for a design partner.
+
+$40K budget.
+
+Brand architecture and visual identity across three business lines, physical collateral including signage and product labels, then a full website redesign.
+
+Proposals due October 7th if you're interested.
+
+Link in comments 👇
+
+---
+
+A community radio station is looking for a web design partner.
+
+$12K budget.
+
+WordPress rebuild off outdated PHP, with a live stream player and a searchable show archive filterable by program, date, and category.
+
+Proposals due October 16th if you're interested.
 
 Link in comments 👇
