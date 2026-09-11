@@ -1,69 +1,108 @@
-Five organizations looking for web design partners this week:
+Eight organizations looking for web design partners this week:
 
-→ Children's Charity - $150K - Drupal migration, 4,200 pages, donation integrations
-→ Small Business Development Program - $105K - WordPress rebuild, Salesforce forms, multilingual
-→ Texas City - $75K - hosted CMS with online services and forms
-→ Workforce Social Enterprise - $40K - brand architecture, signage, full website redesign
-→ Community Radio Station - $12K - WordPress rebuild with searchable show archive
-
-Link in comments 👇
-
----
-
-A children's charity is looking for a web design partner.
-
-$150K budget.
-
-Full rebuild migrating roughly 4,200 pages off legacy Drupal onto a modern block editor, with 301 mapping to preserve SEO equity and Fundraise Up donation integrations.
-
-Proposals due September 25th if you're interested.
+→ Children's Medical Relief Nonprofit - $80K-$130K - Salesforce and donation platform integrations
+→ Public Health District - $75K-$125K - multilingual site consolidating two websites
+→ Economic Development Corporation - $70K-$120K - board portal and real estate directory
+→ Civil Rights Nonprofit - $65K-$115K - brand refresh and accessible redesign
+→ Regional Planning Commission - $60K-$110K - data dashboards and interactive maps
+→ Health Funding Foundation - $45K-$95K - storytelling site with local photography
+→ Tribal Agriculture Program - $40K-$90K - Wix site for native pecans
+→ Diversity and Inclusion Initiative - $25K - site assessment, redesign, and build
 
 Link in comments 👇
 
 ---
 
-A small business development program is looking for a web design partner.
+A Children's Medical Relief Nonprofit is looking for a web development partner.
 
-$105K budget.
+$80K-$130K budget.
 
-WordPress rebuild off a discontinued theme and page builder, keeping Spanish, Arabic, and Chinese language views and FormAssembly forms mapped to Salesforce.
+Production-ready website built from approved designs, with Salesforce and GoFundMe Pro donation integrations.
 
-Proposals due September 25th if you're interested.
-
-Link in comments 👇
-
----
-
-A Texas city is looking for a web design partner.
-
-$75K budget.
-
-Website redesign with hosted content management, extending city services online with digital forms, agenda and archive centers, and staff-managed publishing.
-
-Proposals due September 18th if you're interested.
+Proposals due October 4th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A workforce development social enterprise is looking for a design partner.
+A Public Health District is looking for a web design partner.
 
-$40K budget.
+$75K-$125K budget.
 
-Brand architecture and visual identity across three business lines, physical collateral including signage and product labels, then a full website redesign.
+Multilingual, accessible website that consolidates two sites into one, with a major content migration.
 
-Proposals due October 7th if you're interested.
+Proposals due September 23rd if you're interested.
 
 Link in comments 👇
 
 ---
 
-A community radio station is looking for a web design partner.
+An Economic Development Corporation is looking for a web design partner.
 
-$12K budget.
+$70K-$120K budget.
 
-WordPress rebuild off outdated PHP, with a live stream player and a searchable show archive filterable by program, date, and category.
+New website with a board-only portal, document management, and a commercial real estate directory.
+
+Proposals due September 24th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Civil Rights Nonprofit is looking for a design partner.
+
+$65K-$115K budget.
+
+Brand refresh and website redesign, with screen reader accessibility testing and staff training.
 
 Proposals due October 16th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Regional Planning Commission is looking for a web design partner.
+
+$60K-$110K budget.
+
+New website with interactive maps, data dashboards, a searchable report library, and three years of support.
+
+Proposals due October 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Health Funding Foundation is looking for a web design partner.
+
+$45K-$95K budget.
+
+Storytelling website with local photography, a social media style guide, and grants software integration.
+
+Proposals due October 15th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Tribal Agriculture Program is looking for a web design partner.
+
+$40K-$90K budget.
+
+New Wix website promoting native pecans and regenerative agriculture, with producer profiles and online applications.
+
+Proposals due October 8th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Diversity and Inclusion Initiative is looking for a web design partner.
+
+$25K budget.
+
+Website assessment, redesign, and build, with a possible move off Wix and staff training.
+
+Proposals due October 9th if you're interested.
 
 Link in comments 👇
