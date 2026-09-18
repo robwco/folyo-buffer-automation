@@ -1,108 +1,56 @@
-Eight organizations looking for web design partners this week:
+Four organizations looking for web design partners this week:
 
-→ Children's Medical Relief Nonprofit - $80K-$130K - Salesforce and donation platform integrations
-→ Public Health District - $75K-$125K - multilingual site consolidating two websites
-→ Economic Development Corporation - $70K-$120K - board portal and real estate directory
-→ Civil Rights Nonprofit - $65K-$115K - brand refresh and accessible redesign
-→ Regional Planning Commission - $60K-$110K - data dashboards and interactive maps
-→ Health Funding Foundation - $45K-$95K - storytelling site with local photography
-→ Tribal Agriculture Program - $40K-$90K - Wix site for native pecans
-→ Diversity and Inclusion Initiative - $25K - site assessment, redesign, and build
+→ Desert Tourism City - $335K/year - destination brand, media buying, campaign platform
+→ Regional Park District - $125K/year - Drupal maintenance, accessibility, navigation
+→ Community Energy Agency - $110K/year - bilingual site, branding, social media
+→ Downtown Development Authority - $95K - CMS rebuild, business directory, art trail map
 
 Link in comments 👇
 
 ---
 
-A Children's Medical Relief Nonprofit is looking for a web development partner.
+A city tourism office is looking for a marketing partner.
 
-$80K-$130K budget.
+$335K/year budget.
 
-Production-ready website built from approved designs, with Salesforce and GoFundMe Pro donation integrations.
+Destination brand platform, media planning and buying, PR, social, and campaign creative on a three-year term.
 
-Proposals due October 4th if you're interested.
-
-Link in comments 👇
-
----
-
-A Public Health District is looking for a web design partner.
-
-$75K-$125K budget.
-
-Multilingual, accessible website that consolidates two sites into one, with a major content migration.
-
-Proposals due September 23rd if you're interested.
+Proposals due October 22nd if you're interested.
 
 Link in comments 👇
 
 ---
 
-An Economic Development Corporation is looking for a web design partner.
+A regional park district is looking for a web maintenance partner.
 
-$70K-$120K budget.
+$125K/year budget.
 
-New website with a board-only portal, document management, and a commercial real estate directory.
+Ongoing Drupal work on a site with 4.7 million annual page views, including accessibility compliance, a navigation overhaul, and ArcGIS map integration.
 
-Proposals due September 24th if you're interested.
-
-Link in comments 👇
-
----
-
-A Civil Rights Nonprofit is looking for a design partner.
-
-$65K-$115K budget.
-
-Brand refresh and website redesign, with screen reader accessibility testing and staff training.
-
-Proposals due October 16th if you're interested.
+Proposals due October 22nd if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Regional Planning Commission is looking for a web design partner.
+A community energy agency is looking for a marketing partner.
 
-$60K-$110K budget.
+$110K/year budget.
 
-New website with interactive maps, data dashboards, a searchable report library, and three years of support.
-
-Proposals due October 15th if you're interested.
-
-Link in comments 👇
-
----
-
-A Health Funding Foundation is looking for a web design partner.
-
-$45K-$95K budget.
-
-Storytelling website with local photography, a social media style guide, and grants software integration.
-
-Proposals due October 15th if you're interested.
-
-Link in comments 👇
-
----
-
-A Tribal Agriculture Program is looking for a web design partner.
-
-$40K-$90K budget.
-
-New Wix website promoting native pecans and regenerative agriculture, with producer profiles and online applications.
-
-Proposals due October 8th if you're interested.
-
-Link in comments 👇
-
----
-
-A Diversity and Inclusion Initiative is looking for a web design partner.
-
-$25K budget.
-
-Website assessment, redesign, and build, with a possible move off Wix and staff training.
+Bilingual website upkeep, brand style guide refinement, social media, program collateral, and press outreach.
 
 Proposals due October 9th if you're interested.
+
+Link in comments 👇
+
+---
+
+A downtown development authority is looking for a web design partner.
+
+$95K budget.
+
+Concept-to-completion CMS rebuild with a searchable business directory, a full event calendar, and an interactive public art trail map.
+
+Proposals due October 19th if you're interested.
 
 Link in comments 👇
