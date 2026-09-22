@@ -1,56 +1,69 @@
-Four organizations looking for web design partners this week:
+Five organizations looking for web design partners this week:
 
-→ Desert Tourism City - $335K/year - destination brand, media buying, campaign platform
-→ Regional Park District - $125K/year - Drupal maintenance, accessibility, navigation
-→ Community Energy Agency - $110K/year - bilingual site, branding, social media
-→ Downtown Development Authority - $95K - CMS rebuild, business directory, art trail map
-
-Link in comments 👇
-
----
-
-A city tourism office is looking for a marketing partner.
-
-$335K/year budget.
-
-Destination brand platform, media planning and buying, PR, social, and campaign creative on a three-year term.
-
-Proposals due October 22nd if you're interested.
+→ Multi-Campus College System - $150K-$200K - enterprise CMS with AI features
+→ Rural Library District - $60K-$110K - bilingual iOS and Android library app
+→ Downtown Revitalization Nonprofit - $40K-$90K - brand, website, and digital marketing
+→ County Government - $25K-$40K/year - Drupal 11 support retainer
+→ K-12 Education Foundation - $20K - brand strategy and identity alignment
 
 Link in comments 👇
 
 ---
 
-A regional park district is looking for a web maintenance partner.
+A multi-campus college system is looking for a CMS partner.
 
-$125K/year budget.
+$150K-$200K budget.
 
-Ongoing Drupal work on a site with 4.7 million annual page views, including accessibility compliance, a navigation overhaul, and ArcGIS map integration.
-
-Proposals due October 22nd if you're interested.
-
-Link in comments 👇
-
----
-
-A community energy agency is looking for a marketing partner.
-
-$110K/year budget.
-
-Bilingual website upkeep, brand style guide refinement, social media, program collateral, and press outreach.
-
-Proposals due October 9th if you're interested.
-
-Link in comments 👇
-
----
-
-A downtown development authority is looking for a web design partner.
-
-$95K budget.
-
-Concept-to-completion CMS rebuild with a searchable business directory, a full event calendar, and an interactive public art trail map.
+Enterprise CMS selection and implementation, with multi-site governance, content migration, and AI-assisted content and search.
 
 Proposals due October 19th if you're interested.
+
+Link in comments 👇
+
+---
+
+A rural library district is looking for a mobile app partner.
+
+$60K-$110K budget.
+
+Bilingual English/Spanish iOS and Android app with catalog search, holds, a digital library card, and ebook integrations.
+
+Proposals due October 13th if you're interested.
+
+Link in comments 👇
+
+---
+
+A downtown revitalization nonprofit is looking for a design partner.
+
+$40K-$90K budget.
+
+New brand, 8-page website, photography and video, and a digital storytelling strategy.
+
+Proposals due October 16th if you're interested.
+
+Link in comments 👇
+
+---
+
+A county government is looking for a Drupal partner.
+
+$25K-$40K/year budget.
+
+Advisory-first Drupal 11 support retainer on Pantheon, plus accessibility, SEO, and analytics work.
+
+Proposals due October 2nd if you're interested.
+
+Link in comments 👇
+
+---
+
+A K-12 education foundation is looking for a branding partner.
+
+$20K budget.
+
+Brand strategy, naming, and a possible logo redesign to align with the school district it supports.
+
+Proposals due October 15th if you're interested.
 
 Link in comments 👇
