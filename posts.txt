@@ -1,20 +1,32 @@
 Five organizations looking for web design partners this week:
 
-→ Suburban Village - $175K-$225K - three coordinated websites plus ongoing support
-→ Tourism-Focused City - $60K-$110K - destination brand, campaign, marketing plan
-→ Canadian Municipality - $50K-$100K - website rebuild with emergency alerts
-→ Diabetes Research Charity - $40K-$90K - website discovery and digital roadmap
-→ Coastal Tourism Board - $55K - destination brand refresh and guidelines
+→ Solar Research Observatory - $100K-$150K - full rebuild with scientific data hub
+→ K-12 School District - $100K-$150K - website and SSO staff intranet
+→ Global City Climate Alliance - $125K - WordPress development across four sites
+→ Regional Planning Commission - $50K-$100K/year - manage and redesign seven WordPress sites
+→ Classics Scholarly Association - $50K-$100K - member portal and conference registration
 
 Link in comments 👇
 
 ---
 
-A suburban village government is looking for a web design partner.
+A solar research observatory is looking for a web design partner.
 
-$175K-$225K budget.
+$100K-$150K budget.
 
-Strategy, design, and ongoing support for three coordinated sites: the village, a performing arts center, and an entertainment district.
+Full structural rebuild with a scientist portal, centralized data access hub, staff intranet, and content governance model.
+
+Proposals due October 13th if you're interested.
+
+Link in comments 👇
+
+---
+
+A K-12 school district is looking for a web design partner.
+
+$100K-$150K budget.
+
+New website and staff intranet for 14,000+ students, with single sign-on, school pages, and accessibility beyond WCAG AA.
 
 Proposals due October 16th if you're interested.
 
@@ -22,48 +34,36 @@ Link in comments 👇
 
 ---
 
-A city building its tourism identity is looking for a branding partner.
+A global city climate alliance is looking for a web design partner.
 
-$60K-$110K budget.
+$125K budget.
 
-Destination brand, messaging, visual identity, an integrated campaign, and a strategic marketing plan.
+Ongoing WordPress development across four sites, including city profile directories, interactive maps, and microsites.
 
-Proposals due October 5th if you're interested.
+Proposals due October 16th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Canadian city is looking for a web design partner.
+A regional planning commission is looking for a web design partner.
+
+$50K-$100K/year budget.
+
+Webmaster, development, and redesign support for a portfolio of seven WordPress sites.
+
+Proposals due October 21st if you're interested.
+
+Link in comments 👇
+
+---
+
+A classics scholarly association is looking for a web design partner.
 
 $50K-$100K budget.
 
-Website redesign and rebuild with a new CMS, page templates, and front-page emergency alerts with resident text and email subscriptions.
+Website redesign with a member portal, conference registration and payments, and a document library.
 
-Proposals due October 16th if you're interested.
-
-Link in comments 👇
-
----
-
-A diabetes research charity is looking for a digital strategy partner.
-
-$40K-$90K budget.
-
-Website discovery and roadmap for a bilingual WordPress site with 1,700+ pages, covering UX, accessibility, SEO, and AI search visibility.
-
-Proposals due October 9th if you're interested.
-
-Link in comments 👇
-
----
-
-A coastal tourism board is looking for a branding partner.
-
-$55K budget.
-
-Destination brand refresh with new visitor and industry logos, messaging, tagline, color palette, and full brand guidelines.
-
-Proposals due November 6th if you're interested.
+Proposals due October 30th if you're interested.
 
 Link in comments 👇
