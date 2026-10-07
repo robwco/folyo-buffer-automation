@@ -1,69 +1,69 @@
 Five organizations looking for web design partners this week:
 
-→ Solar Research Observatory - $100K-$150K - full rebuild with scientific data hub
-→ K-12 School District - $100K-$150K - website and SSO staff intranet
-→ Global City Climate Alliance - $125K - WordPress development across four sites
-→ Regional Planning Commission - $50K-$100K/year - manage and redesign seven WordPress sites
-→ Classics Scholarly Association - $50K-$100K - member portal and conference registration
+→ Social Trust Nonprofit - $100K-$150K - brand-led redesign with audience journeys
+→ Waterfront Tourist Town - $60K-$110K - city site with payments and alerts
+→ Statewide Fund Administrator - $50K-$100K - secure reporting portal and database
+→ Healthcare Workforce Collaborative - $50K-$100K/year - website and event marketing retainer
+→ Century-Old Civic Forum - $30K-$80K - rebrand-driven site with events archive
 
 Link in comments 👇
 
 ---
 
-A solar research observatory is looking for a web design partner.
+A Social Trust Nonprofit is looking for a design partner.
 
 $100K-$150K budget.
 
-Full structural rebuild with a scientist portal, centralized data access hub, staff intranet, and content governance model.
+Strategy-led redesign with audience journeys, a brand-led design system, copywriting, and donation and CRM integrations.
 
-Proposals due October 13th if you're interested.
-
-Link in comments 👇
-
----
-
-A K-12 school district is looking for a web design partner.
-
-$100K-$150K budget.
-
-New website and staff intranet for 14,000+ students, with single sign-on, school pages, and accessibility beyond WCAG AA.
-
-Proposals due October 16th if you're interested.
+Proposals due October 23rd if you're interested.
 
 Link in comments 👇
 
 ---
 
-A global city climate alliance is looking for a web design partner.
+A Waterfront Tourist Town is looking for a design partner.
 
-$125K budget.
+$60K-$110K budget.
 
-Ongoing WordPress development across four sites, including city profile directories, interactive maps, and microsites.
+New city website with meeting management, document search, online payments, SMS alerts, and GIS integrations.
 
-Proposals due October 16th if you're interested.
-
-Link in comments 👇
-
----
-
-A regional planning commission is looking for a web design partner.
-
-$50K-$100K/year budget.
-
-Webmaster, development, and redesign support for a portfolio of seven WordPress sites.
-
-Proposals due October 21st if you're interested.
+Proposals due October 29th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A classics scholarly association is looking for a web design partner.
+A Statewide Fund Administrator is looking for a web development partner.
 
 $50K-$100K budget.
 
-Website redesign with a member portal, conference registration and payments, and a document library.
+Secure reporting portal where about 140 companies submit and certify monthly data, with anomaly detection and admin reporting.
 
-Proposals due October 30th if you're interested.
+Proposals due October 16th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Healthcare Workforce Collaborative is looking for a marketing and web partner.
+
+$50K-$100K/year budget.
+
+Website maintenance plus registration, branding, and promotion for a career summit drawing 3,000+ students.
+
+Proposals due October 31st if you're interested.
+
+Link in comments 👇
+
+---
+
+A Century-Old Civic Forum is looking for a design partner.
+
+$30K-$80K budget.
+
+Redesign on a refreshed brand, with an events archive, ticketing integration, and a CMS staff can run themselves.
+
+Proposals due October 21st if you're interested.
 
 Link in comments 👇
