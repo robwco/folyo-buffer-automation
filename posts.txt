@@ -1,19 +1,33 @@
-Four organizations looking for web design partners this week:
+Six organizations looking for web design partners this week:
 
-→ Charter School Network - $250K-$300K - network site plus 41 school sites
-→ Ocean Governance Body - $200K-$250K - corporate site, CMS, repository search
-→ Tribal Water Agency - $70K-$120K - website, brand guide, ArcGIS StoryMaps
-→ Kansas City Suburb - $30K - city site with online municipal code
+→ City Government - $150K-$200K - WordPress redesign, migration, and hosting
+→ Casino Resort Group - $150K-$200K - new CMS for five websites
+→ Regional Planning Commission - $40K-$90K/year - webmaster for six WordPress sites
+→ Parks and Recreation District - $25K-$75K - WordPress migration and UX upgrades
+→ Transportation Planning Agency - $15K-$60K - Squarespace WCAG 2.1 AA remediation
+→ Pretrial Justice Nonprofit - $40K - downloadable risk-scoring web app
 
 Link in comments 👇
 
 ---
 
-A Charter School Network is looking for a design partner.
+A City Government is looking for a design partner.
 
-$250K-$300K budget.
+$150K-$200K budget.
 
-A unified network site, regional hubs, and 41 connected school sites on one CMS, with a Find a School map tool.
+WordPress redesign, content migration, and hosting for a 700-page site with 50 forms.
+
+Proposals due November 4th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Casino Resort Group is looking for a design partner.
+
+$150K-$200K budget.
+
+New CMS and redesign for five casino and resort websites, with room to grow to ten.
 
 Proposals due November 9th if you're interested.
 
@@ -21,36 +35,48 @@ Link in comments 👇
 
 ---
 
-An Ocean Governance Body is looking for a design partner.
+A Regional Planning Commission is looking for a design partner.
 
-$200K-$250K budget.
+$40K-$90K/year budget.
 
-Discovery, a new corporate website and CMS, multilingual support, and better search across its digital library.
+Ongoing webmaster, development, and design support for six WordPress and Elementor sites.
 
-Proposals due October 20th if you're interested.
-
-Link in comments 👇
-
----
-
-A Tribal Water Agency is looking for a design partner.
-
-$70K-$120K budget.
-
-A new website and digital brand style guide with ArcGIS StoryMaps, interactive maps, and a searchable document library.
-
-Proposals due October 29th if you're interested.
+Proposals due October 21st if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Kansas City Suburb is looking for a design partner.
+A Parks and Recreation District is looking for a design partner.
 
-$30K budget.
+$25K-$75K budget.
 
-City website redesign with an online municipal code, agenda packet builder, and emergency alerts.
+Move a 100-page site to WordPress with design upgrades and ongoing support.
 
-Proposals due October 22nd if you're interested.
+Proposals due October 23rd if you're interested.
+
+Link in comments 👇
+
+---
+
+A Transportation Planning Agency is looking for a design partner.
+
+$15K-$60K budget.
+
+Bring a Squarespace site and its linked files to WCAG 2.1 AA, plus a plan for long-term compliance.
+
+Proposals due October 30th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Pretrial Justice Nonprofit is looking for a design partner.
+
+$40K budget.
+
+A downloadable web app that scores pretrial assessments and generates reports.
+
+Proposals due October 30th if you're interested.
 
 Link in comments 👇
