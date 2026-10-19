@@ -1,69 +1,32 @@
-Six organizations looking for web design partners this week:
+Five organizations looking for web design partners this week:
 
-→ City Government - $150K-$200K - WordPress redesign, migration, and hosting
-→ Casino Resort Group - $150K-$200K - new CMS for five websites
-→ Regional Planning Commission - $40K-$90K/year - webmaster for six WordPress sites
-→ Parks and Recreation District - $25K-$75K - WordPress migration and UX upgrades
-→ Transportation Planning Agency - $15K-$60K - Squarespace WCAG 2.1 AA remediation
-→ Pretrial Justice Nonprofit - $40K - downloadable risk-scoring web app
-
-Link in comments 👇
-
----
-
-A City Government is looking for a design partner.
-
-$150K-$200K budget.
-
-WordPress redesign, content migration, and hosting for a 700-page site with 50 forms.
-
-Proposals due November 4th if you're interested.
+→ Toll Road Agency - $100K-$150K/year - multi-site design and maintenance retainer
+→ Housing Authority - $80K-$130K - interactive site with eligibility wizard, property map
+→ Municipal Utility District - $70K-$120K - accessible site with hosting and support
+→ Destination Marketing Organization - $60K-$110K - tourism site with partner CRM
+→ Regional Port - $35K-$85K - accessible redesign plus meeting video publishing
 
 Link in comments 👇
 
 ---
 
-A Casino Resort Group is looking for a design partner.
+A Toll Road Agency is looking for a web design partner.
 
-$150K-$200K budget.
+$100K-$150K/year budget.
 
-New CMS and redesign for five casino and resort websites, with room to grow to ten.
+Ongoing design, development, and maintenance across three public websites, with analytics-driven UX improvements, accessibility, and AI-enhanced features.
 
-Proposals due November 9th if you're interested.
-
-Link in comments 👇
-
----
-
-A Regional Planning Commission is looking for a design partner.
-
-$40K-$90K/year budget.
-
-Ongoing webmaster, development, and design support for six WordPress and Elementor sites.
-
-Proposals due October 21st if you're interested.
+Proposals due November 12th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Parks and Recreation District is looking for a design partner.
+A Housing Authority is looking for a web design partner.
 
-$25K-$75K budget.
+$80K-$130K budget.
 
-Move a 100-page site to WordPress with design upgrades and ongoing support.
-
-Proposals due October 23rd if you're interested.
-
-Link in comments 👇
-
----
-
-A Transportation Planning Agency is looking for a design partner.
-
-$15K-$60K budget.
-
-Bring a Squarespace site and its linked files to WCAG 2.1 AA, plus a plan for long-term compliance.
+Interactive website with an eligibility wizard, waitlist tracker, property map, and rent calculators for applicants, residents, and landlords.
 
 Proposals due October 30th if you're interested.
 
@@ -71,12 +34,36 @@ Link in comments 👇
 
 ---
 
-A Pretrial Justice Nonprofit is looking for a design partner.
+A Municipal Utility District is looking for a web design partner.
 
-$40K budget.
+$70K-$120K budget.
 
-A downloadable web app that scores pretrial assessments and generates reports.
+New accessible website with full content migration, a facility map finder, smart search, and five years of hosting and support.
 
-Proposals due October 30th if you're interested.
+Proposals due November 13th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Destination Marketing Organization is looking for a web design partner.
+
+$60K-$110K budget.
+
+Image-driven tourism website with a partner CRM, photo-driven events calendar, mapping, and a blog.
+
+Proposals due October 29th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Regional Port is looking for a web design partner.
+
+$35K-$85K budget.
+
+Accessible website redesign with ongoing support, accessible documents and forms, and captioned meeting video publishing.
+
+Proposals due November 13th if you're interested.
 
 Link in comments 👇
