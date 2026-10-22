@@ -1,32 +1,21 @@
-Five organizations looking for web design partners this week:
+Six organizations looking for web design partners this week:
 
-→ Toll Road Agency - $100K-$150K/year - multi-site design and maintenance retainer
-→ Housing Authority - $80K-$130K - interactive site with eligibility wizard, property map
-→ Municipal Utility District - $70K-$120K - accessible site with hosting and support
-→ Destination Marketing Organization - $60K-$110K - tourism site with partner CRM
-→ Regional Port - $35K-$85K - accessible redesign plus meeting video publishing
-
-Link in comments 👇
-
----
-
-A Toll Road Agency is looking for a web design partner.
-
-$100K-$150K/year budget.
-
-Ongoing design, development, and maintenance across three public websites, with analytics-driven UX improvements, accessibility, and AI-enhanced features.
-
-Proposals due November 12th if you're interested.
+→ K-12 School District - $80K-$130K - six-site CMS plus mobile app
+→ Public Transit Authority - $75K-$125K - rider-first redesign with real-time integrations
+→ Disability Services Center - $50K-$100K - WordPress redesign with plain-language copy
+→ Farmer Mentoring Program - $20K-$40K - WordPress recruiting site with CRM
+→ Economic Development Authority - $10K-$30K - new site with document library
+→ Alaska Historic Trail Group - $25K - redesign with webstore and donations
 
 Link in comments 👇
 
 ---
 
-A Housing Authority is looking for a web design partner.
+A K-12 school district is looking for a web design partner.
 
 $80K-$130K budget.
 
-Interactive website with an eligibility wizard, waitlist tracker, property map, and rent calculators for applicants, residents, and landlords.
+A multi-site CMS for the district and five schools, a branded iOS and Android app, and integrations with Infinite Campus and Google Workspace.
 
 Proposals due October 30th if you're interested.
 
@@ -34,36 +23,60 @@ Link in comments 👇
 
 ---
 
-A Municipal Utility District is looking for a web design partner.
+A public transit authority is looking for a web design partner.
 
-$70K-$120K budget.
+$75K-$125K budget.
 
-New accessible website with full content migration, a facility map finder, smart search, and five years of hosting and support.
+A rider-first website redesign with service alerts, real-time transit integrations, and hosting and support.
 
-Proposals due November 13th if you're interested.
-
-Link in comments 👇
-
----
-
-A Destination Marketing Organization is looking for a web design partner.
-
-$60K-$110K budget.
-
-Image-driven tourism website with a partner CRM, photo-driven events calendar, mapping, and a blog.
-
-Proposals due October 29th if you're interested.
+Proposals due November 10th if you're interested.
 
 Link in comments 👇
 
 ---
 
-A Regional Port is looking for a web design partner.
+A disability services center is looking for a web design partner.
 
-$35K-$85K budget.
+$50K-$100K budget.
 
-Accessible website redesign with ongoing support, accessible documents and forms, and captioned meeting video publishing.
+A WordPress redesign with plain-language copy rewriting, interactive wireframes, and WCAG 2.2 AA accessibility.
 
-Proposals due November 13th if you're interested.
+Proposals due November 10th if you're interested.
+
+Link in comments 👇
+
+---
+
+A farmer mentoring program is looking for a web design partner.
+
+$20K-$40K budget.
+
+A WordPress redesign built to recruit mentors and mentees, with CRM integration and AI search optimization.
+
+Proposals due November 6th if you're interested.
+
+Link in comments 👇
+
+---
+
+An economic development authority is looking for a web design partner.
+
+$10K-$30K budget.
+
+A brand-new website with a public document library, with room to grow into business recruitment marketing.
+
+Proposals due November 19th if you're interested.
+
+Link in comments 👇
+
+---
+
+An Alaska historic trail group is looking for a web design partner.
+
+$25K budget.
+
+An end-to-end redesign with a webstore, donations, membership, and interactive maps.
+
+Proposals due November 2nd if you're interested.
 
 Link in comments 👇
