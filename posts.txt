@@ -1,19 +1,33 @@
-Four organizations looking for web design partners this week:
+Six organizations looking for web design partners this week:
 
-→ Regional Housing Agency - $60K-$110K - ADA remediation, hosting, WordPress support
-→ Independent Streaming Platform - $30K-$60K - video-forward site driving app signups
-→ Regional Planning Commission - $50K - three GIS mapping and data dashboards
-→ Arts Education Nonprofit - $25K-$50K - conversion-focused redesign for camps and classes
+→ Global Forest Certification Network - $250K-$300K - multi-site CMS for 11 websites
+→ Florida Court Clerk's Office - $100K-$150K - hosted redesign with AI chatbot option
+→ Family Services Nonprofit - $40K-$90K - Webflow migration and analytics dashboard
+→ Community Services Nonprofit - $30K-$80K - WordPress redesign with events calendar
+→ Women in Hospitality Association - $24K - resource hub and job board
+→ Regional Economic Development Group - $10K - WordPress physician recruitment section
 
 Link in comments 👇
 
 ---
 
-A regional housing agency is looking for a web accessibility partner.
+A Global Forest Certification Network is looking for a web design partner.
 
-$60K-$110K budget.
+$250K-$300K budget.
 
-WCAG 2.1 AA audit and hands-on remediation of a WordPress site, plus managed hosting and ongoing support.
+New flagship website and a multi-site CMS for 11 websites in 11 languages, with content migration, managed hosting, and ongoing development.
+
+Proposals due November 27th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Florida Court Clerk's Office is looking for a web design partner.
+
+$100K-$150K budget.
+
+Full public website redesign on an open-source CMS, with managed hosting, WCAG 2.2 AA accessibility, and an optional AI chatbot.
 
 Proposals due November 30th if you're interested.
 
@@ -21,11 +35,23 @@ Link in comments 👇
 
 ---
 
-An independent streaming platform is looking for a design partner.
+A Family Services Nonprofit is looking for a web design partner.
 
-$30K-$60K budget.
+$40K-$90K budget.
 
-A bold, video-forward site with scroll-triggered animation, built to drive app signups and free trials.
+Webflow migration to an easier-to-edit platform, a refreshed design, and an analytics and KPI dashboard.
+
+Proposals due November 19th if you're interested.
+
+Link in comments 👇
+
+---
+
+A Community Services Nonprofit is looking for a web design partner.
+
+$30K-$80K budget.
+
+WordPress redesign built around a get help or give help structure, with an events calendar and donor and volunteer integrations.
 
 Proposals due November 15th if you're interested.
 
@@ -33,24 +59,24 @@ Link in comments 👇
 
 ---
 
-A regional planning commission is looking for a development partner.
+A Women in Hospitality Association is looking for a web design partner.
 
-$50K budget.
+$24K budget.
 
-Three interactive mapping and data dashboard apps, including a regional housing progress tracker.
+New website with a resource hub, an employer job board, events, and an optional logo refresh.
 
-Proposals due November 6th if you're interested.
+Proposals due November 20th if you're interested.
 
 Link in comments 👇
 
 ---
 
-An arts education nonprofit is looking for a design partner.
+A Regional Economic Development Group is looking for a web design partner.
 
-$25K-$50K budget.
+$10K budget.
 
-An accessible redesign built around camp and class signups, donations, and a retail store.
+Finish an in-progress WordPress redesign and build a four-page physician recruitment section.
 
-Proposals due November 13th if you're interested.
+Proposals due November 16th if you're interested.
 
 Link in comments 👇
